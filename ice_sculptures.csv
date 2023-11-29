@@ -1,0 +1,3401 @@
+"recipient","pic_seen","site_duration","spend","register"
+1,"Ironman",18.2,16.6,0
+2,"Spiderman",28.61,15.3,0
+3,"Captain America",10.9,16.32,1
+4,"Captain America",11.3,22.62,0
+5,"Ironman",19.7,17.3,0
+6,"Ironman",20.3,17.1,0
+7,"Spiderman",28.21,11.9,0
+8,"Spiderman",22.01,15.2,0
+9,"Spiderman",23.71,14.4,0
+10,"Spiderman",25.51,15.1,1
+11,"Ironman",22.9,16.8,1
+12,"Captain America",10.7,24.32,1
+13,"Spiderman",29.41,12.6,0
+14,"Ironman",21.6,15.6,1
+15,"Ironman",19.1,16,0
+16,"Spiderman",13.61,18,0
+17,"Captain America",11.9,20.82,1
+18,"Spiderman",25.51,9.9,1
+19,"Ironman",21.4,15.8,0
+20,"Ironman",24,16.8,1
+21,"Spiderman",19.31,12.1,1
+22,"Captain America",11.4,14.22,0
+23,"Spiderman",17.01,12,0
+24,"Ironman",20.4,16.8,1
+25,"Spiderman",22.71,12.9,0
+26,"Captain America",11.6,16.42,1
+27,"Spiderman",31.71,14.3,1
+28,"Spiderman",24.11,15.4,0
+29,"Ironman",19.8,16.8,1
+30,"Captain America",10.8,22.12,0
+31,"Captain America",10.8,19.12,0
+32,"Spiderman",22.01,14.3,0
+33,"Captain America",10.5,15.32,1
+34,"Ironman",23.4,17,0
+35,"Spiderman",26.81,11,1
+36,"Ironman",25.9,17.3,1
+37,"Ironman",23.8,16.3,0
+38,"Spiderman",22.51,9.9,0
+39,"Ironman",18.2,15.3,1
+40,"Ironman",21.8,16.7,1
+41,"Ironman",24.3,17,0
+42,"Captain America",10.7,19.92,0
+43,"Captain America",11.2,19.72,0
+44,"Captain America",10.6,21.32,1
+45,"Spiderman",21.11,14.7,1
+46,"Captain America",10.9,19.42,0
+47,"Ironman",24.1,16.4,0
+48,"Spiderman",23.01,16.3,1
+49,"Spiderman",18.51,13,0
+50,"Spiderman",26.41,10.7,0
+51,"Captain America",10.8,15.12,0
+52,"Spiderman",25.51,15.1,1
+53,"Ironman",21,18.1,0
+54,"Captain America",10.3,16.22,1
+55,"Captain America",10.5,19.72,0
+56,"Captain America",11.8,16.02,0
+57,"Ironman",22.6,16.5,0
+58,"Captain America",11,19.32,0
+59,"Captain America",10.9,19.52,0
+60,"Captain America",11.2,18.82,0
+61,"Ironman",21.2,17.8,0
+62,"Spiderman",23.31,14.1,1
+63,"Captain America",11.7,22.12,1
+64,"Spiderman",18.31,14.1,0
+65,"Spiderman",29.21,11.6,0
+66,"Ironman",21.6,17.4,0
+67,"Ironman",21.7,16.6,0
+68,"Spiderman",21.51,12.5,0
+69,"Ironman",22.1,18,0
+70,"Ironman",24.1,16.9,1
+71,"Captain America",11.3,19.22,0
+72,"Ironman",22.7,17.1,0
+73,"Spiderman",25.51,16.8,0
+74,"Captain America",11.2,17.12,0
+75,"Captain America",10.4,15.32,0
+76,"Captain America",10.2,18.12,0
+77,"Spiderman",19.51,15.2,1
+78,"Spiderman",17.61,12.6,1
+79,"Spiderman",21.71,13.5,1
+80,"Captain America",11.5,18.92,0
+81,"Ironman",21.9,17.6,1
+82,"Ironman",20.5,15.1,0
+83,"Ironman",20.9,17.5,0
+84,"Spiderman",16.61,13.7,1
+85,"Captain America",10.3,17.62,0
+86,"Captain America",11.4,20.42,0
+87,"Captain America",11.7,20.12,0
+88,"Spiderman",27.01,15.1,0
+89,"Spiderman",19.51,9,1
+90,"Spiderman",32.11,14,1
+91,"Spiderman",25.11,16.9,0
+92,"Ironman",22.9,16.8,1
+93,"Ironman",19.7,16,1
+94,"Captain America",10.6,15.62,1
+95,"Captain America",10.4,19.72,0
+96,"Ironman",20.5,15.6,0
+97,"Ironman",22.3,16.1,0
+98,"Ironman",22.1,15.3,0
+99,"Captain America",12.1,17.42,0
+100,"Ironman",21.8,17.2,1
+101,"Spiderman",20.91,10.3,1
+102,"Captain America",10.6,20.02,0
+103,"Captain America",10.8,19.32,0
+104,"Spiderman",24.91,10.6,0
+105,"Ironman",22.6,16.6,1
+106,"Spiderman",23.51,14.7,0
+107,"Spiderman",23.41,14.3,0
+108,"Spiderman",20.91,14.6,0
+109,"Spiderman",25.41,11.3,0
+110,"Captain America",11.4,19.62,0
+111,"Spiderman",24.61,14.9,0
+112,"Captain America",10,17.62,1
+113,"Ironman",21.4,17.6,1
+114,"Captain America",11.1,20.32,0
+115,"Ironman",22.1,17.2,0
+116,"Spiderman",25.81,11.7,0
+117,"Captain America",11,19.62,1
+118,"Captain America",10.4,19.22,0
+119,"Spiderman",24.01,14.8,1
+120,"Captain America",10.4,16.12,0
+121,"Spiderman",23.21,13.9,0
+122,"Spiderman",21.11,13.6,0
+123,"Ironman",20.3,16.7,0
+124,"Spiderman",25.41,14.3,0
+125,"Captain America",10.6,17.82,0
+126,"Captain America",10.5,17.82,0
+127,"Ironman",22.3,15.6,1
+128,"Captain America",11.1,18.82,0
+129,"Captain America",11.8,16.82,0
+130,"Spiderman",25.71,12.1,0
+131,"Spiderman",30.81,13,1
+132,"Captain America",10.3,16.52,0
+133,"Ironman",21,17,1
+134,"Ironman",21.3,17.1,0
+135,"Captain America",11.2,14.72,1
+136,"Ironman",26.3,16.6,0
+137,"Ironman",25,17.6,0
+138,"Captain America",10.9,17.52,1
+139,"Captain America",11.7,21.22,1
+140,"Ironman",27.8,16.7,1
+141,"Ironman",22,17.3,1
+142,"Spiderman",23.91,14.2,1
+143,"Spiderman",22.71,14.6,1
+144,"Spiderman",27.71,14.9,1
+145,"Ironman",21.6,16.8,0
+146,"Spiderman",21.31,15.1,0
+147,"Spiderman",25.91,11.9,1
+148,"Spiderman",30.61,13.7,0
+149,"Spiderman",30.01,14.8,0
+150,"Captain America",11.1,18.52,0
+151,"Spiderman",17.81,20.8,1
+152,"Ironman",23.3,16,1
+153,"Ironman",22.5,16.7,0
+154,"Spiderman",28.41,15.9,0
+155,"Spiderman",20.31,13.4,0
+156,"Ironman",20.8,17.6,1
+157,"Spiderman",22.91,14.7,0
+158,"Captain America",10.8,19.32,0
+159,"Spiderman",15.81,15.5,0
+160,"Captain America",11.2,12.42,1
+161,"Ironman",24.6,15.6,1
+162,"Captain America",10.7,17.42,1
+163,"Spiderman",23.71,14.9,0
+164,"Ironman",18.6,17.8,0
+165,"Captain America",10.6,14.22,1
+166,"Captain America",10.6,16.32,1
+167,"Captain America",10.8,19.22,1
+168,"Spiderman",27.11,11.7,0
+169,"Spiderman",22.01,12.8,0
+170,"Spiderman",27.11,15.2,0
+171,"Ironman",25.5,16.7,1
+172,"Captain America",10.7,17.22,0
+173,"Ironman",24.9,18.4,1
+174,"Ironman",22.8,17.6,0
+175,"Ironman",23.7,16.9,1
+176,"Ironman",23.6,16.2,0
+177,"Spiderman",23.21,16.8,0
+178,"Ironman",23.8,15.4,0
+179,"Ironman",23.2,17,1
+180,"Spiderman",28.91,14.7,0
+181,"Spiderman",25.61,12.4,0
+182,"Ironman",21.7,15.2,0
+183,"Spiderman",22.31,12.7,0
+184,"Captain America",10.5,19.82,1
+185,"Captain America",11.3,19.52,1
+186,"Captain America",11,22.92,1
+187,"Captain America",11.5,17.22,0
+188,"Spiderman",29.21,9.9,0
+189,"Ironman",18.3,16.2,1
+190,"Captain America",10.2,21.12,0
+191,"Captain America",10.8,19.22,1
+192,"Spiderman",29.11,11.4,1
+193,"Spiderman",32.01,14.7,0
+194,"Captain America",11,19.82,0
+195,"Ironman",22.3,15.2,1
+196,"Captain America",11.1,18.42,0
+197,"Ironman",21,18.7,0
+198,"Captain America",10.9,16.42,0
+199,"Ironman",24.8,17.6,1
+200,"Captain America",10.7,19.72,1
+201,"Spiderman",24.11,16.4,0
+202,"Spiderman",24.01,12,0
+203,"Spiderman",21.31,11.4,0
+204,"Ironman",23.9,14.6,0
+205,"Spiderman",18.41,14.3,0
+206,"Captain America",10.2,21.92,0
+207,"Captain America",10.7,16.62,0
+208,"Spiderman",28.61,14.1,1
+209,"Captain America",10.9,19.82,1
+210,"Captain America",10.6,17.72,0
+211,"Ironman",21.3,17.7,0
+212,"Ironman",26,16.7,1
+213,"Captain America",11.9,15.72,0
+214,"Captain America",11.8,19.42,1
+215,"Captain America",12.2,19.72,0
+216,"Captain America",11.5,20.32,0
+217,"Captain America",11,12.62,0
+218,"Ironman",19.7,16.1,0
+219,"Spiderman",23.91,13,1
+220,"Spiderman",28.31,9.5,0
+221,"Spiderman",27.21,10.6,0
+222,"Captain America",11.4,20.02,1
+223,"Ironman",19.5,15.4,0
+224,"Ironman",25.8,15.7,0
+225,"Spiderman",20.01,16.8,0
+226,"Ironman",21.7,15.8,1
+227,"Spiderman",21.71,18.3,0
+228,"Spiderman",27.61,11.3,0
+229,"Captain America",10.9,14.72,0
+230,"Ironman",27.5,16.3,0
+231,"Ironman",20.9,16.7,0
+232,"Ironman",22.8,15.5,1
+233,"Captain America",11.8,20.22,0
+234,"Ironman",17.6,16.5,0
+235,"Ironman",25,17.1,0
+236,"Spiderman",13.71,16.4,1
+237,"Ironman",23.4,15.6,1
+238,"Spiderman",23.41,14.2,1
+239,"Ironman",23.2,16.2,1
+240,"Spiderman",22.81,16.7,0
+241,"Captain America",12.1,17.62,0
+242,"Captain America",11.6,17.72,0
+243,"Captain America",11.6,18.62,0
+244,"Captain America",11.3,17.02,0
+245,"Captain America",11.2,17.42,1
+246,"Spiderman",25.01,17.3,1
+247,"Ironman",22,18.5,0
+248,"Spiderman",22.61,12.2,0
+249,"Spiderman",21.91,15.5,1
+250,"Spiderman",27.71,13.7,0
+251,"Ironman",26.3,17.8,1
+252,"Spiderman",24.41,13.7,1
+253,"Captain America",10.7,14.62,1
+254,"Ironman",23,16.9,1
+255,"Spiderman",20.41,10.8,1
+256,"Captain America",10.3,18.92,0
+257,"Spiderman",21.91,15.2,0
+258,"Spiderman",27.31,15.5,1
+259,"Ironman",26.3,16.7,1
+260,"Captain America",10.4,17.92,0
+261,"Spiderman",18.11,14.4,0
+262,"Captain America",11.2,18.32,0
+263,"Spiderman",18.21,12.9,0
+264,"Ironman",21.6,17.4,0
+265,"Captain America",11.6,14.72,0
+266,"Spiderman",25.21,15.3,0
+267,"Spiderman",18.61,14.5,0
+268,"Ironman",24.8,17.5,0
+269,"Ironman",23.5,17.6,1
+270,"Ironman",24.5,16,1
+271,"Spiderman",25.91,13.2,0
+272,"Captain America",10.7,19.62,0
+273,"Spiderman",17.41,15.7,1
+274,"Captain America",10.5,17.22,0
+275,"Ironman",24.4,16.3,0
+276,"Spiderman",29.31,9.5,0
+277,"Captain America",11.7,17.62,0
+278,"Ironman",23.9,15.8,0
+279,"Ironman",27,18.1,0
+280,"Spiderman",29.91,11.8,0
+281,"Spiderman",22.01,14.4,0
+282,"Captain America",10.8,19.72,0
+283,"Ironman",24.7,16.4,0
+284,"Ironman",23.4,16.6,1
+285,"Ironman",23.8,17,0
+286,"Ironman",22.3,17.3,1
+287,"Captain America",10.2,23.72,0
+288,"Spiderman",31.11,15.6,1
+289,"Ironman",20.4,16.1,1
+290,"Ironman",23.9,18,1
+291,"Captain America",10.6,18.32,0
+292,"Ironman",23.9,17.4,0
+293,"Spiderman",27.21,13.4,0
+294,"Captain America",11,12.72,1
+295,"Captain America",11.4,15.22,0
+296,"Spiderman",18.81,16.7,0
+297,"Spiderman",29.71,11.6,0
+298,"Ironman",22.9,16.8,0
+299,"Captain America",9.7,19.22,1
+300,"Ironman",23.9,16.8,0
+301,"Spiderman",25.91,10.3,1
+302,"Spiderman",20.31,11.4,0
+303,"Captain America",10.7,16.62,0
+304,"Spiderman",30.91,15.1,1
+305,"Ironman",27,17.7,0
+306,"Ironman",21.4,16.1,1
+307,"Spiderman",20.71,17.1,1
+308,"Captain America",10.8,18.12,0
+309,"Spiderman",20.51,14.9,0
+310,"Spiderman",23.71,14.3,0
+311,"Spiderman",15.11,12.5,1
+312,"Captain America",10,17.52,1
+313,"Spiderman",19.51,13.3,0
+314,"Ironman",21.2,16.2,1
+315,"Captain America",10.6,15.72,1
+316,"Ironman",23.8,17.1,0
+317,"Ironman",24.2,16.8,0
+318,"Spiderman",27.61,13.7,1
+319,"Spiderman",23.81,16.6,1
+320,"Spiderman",23.41,13.6,0
+321,"Ironman",25,14.8,0
+322,"Captain America",10.7,25.22,0
+323,"Captain America",10.8,18.92,0
+324,"Ironman",23.5,17.6,0
+325,"Captain America",11.6,22.92,1
+326,"Captain America",11.1,12.32,1
+327,"Spiderman",30.51,15.3,1
+328,"Captain America",11.1,17.32,0
+329,"Captain America",11.6,21.12,0
+330,"Spiderman",24.41,12.1,1
+331,"Captain America",10.5,18.32,1
+332,"Ironman",20.8,16,1
+333,"Spiderman",19.81,11.7,0
+334,"Captain America",11,20.72,1
+335,"Spiderman",27.41,16.4,1
+336,"Spiderman",23.21,9.9,0
+337,"Spiderman",25.01,12.7,1
+338,"Captain America",11.4,25.02,1
+339,"Spiderman",19.71,17.2,1
+340,"Spiderman",18.71,16.2,0
+341,"Captain America",11.5,21.52,0
+342,"Ironman",23,18.4,0
+343,"Ironman",23.1,16.7,1
+344,"Captain America",10.8,15.32,1
+345,"Ironman",23.6,16.6,1
+346,"Ironman",27.7,17.5,0
+347,"Captain America",10.5,19.82,0
+348,"Spiderman",20.61,17.3,1
+349,"Captain America",11.6,24.12,0
+350,"Captain America",10.2,14.72,1
+351,"Spiderman",21.41,11.3,0
+352,"Ironman",23,18.3,0
+353,"Captain America",10.7,18.42,0
+354,"Ironman",24.3,17.9,1
+355,"Ironman",19.8,15.7,1
+356,"Captain America",10.9,18.92,0
+357,"Ironman",23.2,17.9,1
+358,"Ironman",22,16.3,0
+359,"Ironman",20.4,17,0
+360,"Ironman",23.6,17.4,1
+361,"Captain America",9.9,15.62,1
+362,"Captain America",11.3,19.92,1
+363,"Ironman",27.9,17.4,0
+364,"Spiderman",25.21,14.1,0
+365,"Ironman",25.7,15.6,0
+366,"Ironman",24.1,16.5,1
+367,"Spiderman",20.61,16.1,1
+368,"Captain America",11,18.52,1
+369,"Captain America",11.7,18.52,1
+370,"Spiderman",19.01,11.5,0
+371,"Captain America",10.9,17.82,0
+372,"Captain America",10.2,19.52,0
+373,"Ironman",25.7,16.4,0
+374,"Spiderman",17.91,12.4,0
+375,"Spiderman",29.41,16,0
+376,"Spiderman",20.61,12.1,1
+377,"Ironman",22.5,16.6,1
+378,"Spiderman",26.21,15.5,1
+379,"Spiderman",20.21,14.3,0
+380,"Ironman",21.7,16.9,1
+381,"Captain America",10,18.82,0
+382,"Spiderman",26.71,12.8,0
+383,"Captain America",12.1,13.52,0
+384,"Ironman",20.1,17.2,1
+385,"Ironman",24.7,16.3,1
+386,"Spiderman",25.31,16.7,0
+387,"Spiderman",23.51,16,0
+388,"Captain America",11.4,16.62,0
+389,"Ironman",24.4,16.9,0
+390,"Captain America",10.3,18.82,1
+391,"Ironman",22.1,17.3,0
+392,"Ironman",23.6,17.8,0
+393,"Captain America",11.6,18.32,0
+394,"Ironman",24.4,15.9,0
+395,"Ironman",25.3,17.4,1
+396,"Captain America",11.8,16.32,0
+397,"Spiderman",26.21,12.6,0
+398,"Captain America",10.7,20.72,1
+399,"Ironman",22.4,15.8,0
+400,"Spiderman",25.81,11.1,0
+401,"Spiderman",23.81,14.4,0
+402,"Ironman",25,16.5,0
+403,"Ironman",21.2,14.8,0
+404,"Ironman",23.9,17.9,0
+405,"Captain America",11.2,16.92,1
+406,"Spiderman",30.31,15.6,0
+407,"Ironman",22.5,16.1,0
+408,"Spiderman",26.21,15.1,0
+409,"Captain America",11,20.72,1
+410,"Ironman",25.1,17.3,1
+411,"Captain America",11.3,19.12,0
+412,"Captain America",11.3,16.82,0
+413,"Ironman",25.8,16,0
+414,"Spiderman",22.01,17.3,0
+415,"Captain America",11.7,15.42,0
+416,"Captain America",10.3,15.92,0
+417,"Spiderman",35.61,13,0
+418,"Spiderman",26.01,14.7,0
+419,"Ironman",21.8,15.9,1
+420,"Spiderman",18.81,13,0
+421,"Spiderman",24.31,16.6,0
+422,"Spiderman",23.91,12,0
+423,"Ironman",25.1,16.1,1
+424,"Ironman",20.6,16.9,0
+425,"Captain America",11.1,18.82,0
+426,"Spiderman",22.11,14,1
+427,"Spiderman",30.11,17.3,1
+428,"Spiderman",30.31,9.9,0
+429,"Spiderman",20.81,13.1,0
+430,"Ironman",24.5,17.5,0
+431,"Captain America",11.5,20.22,1
+432,"Captain America",10.2,19.62,1
+433,"Spiderman",21.31,17.1,0
+434,"Ironman",26,16.7,1
+435,"Captain America",10.5,20.92,0
+436,"Captain America",10.3,20.52,1
+437,"Captain America",11,16.82,1
+438,"Ironman",23.6,17.3,1
+439,"Ironman",23.4,15.9,0
+440,"Captain America",11.4,14.62,0
+441,"Captain America",11,14.52,1
+442,"Ironman",25.3,15.8,1
+443,"Ironman",24.7,17.3,0
+444,"Ironman",25.8,16.4,1
+445,"Ironman",23.9,18.8,0
+446,"Spiderman",25.31,16,1
+447,"Spiderman",19.31,12.9,1
+448,"Ironman",23.1,17.9,1
+449,"Ironman",26.1,15.6,1
+450,"Captain America",12,20.42,0
+451,"Captain America",11.4,16.12,1
+452,"Captain America",9.9,17.92,0
+453,"Captain America",10.8,20.02,1
+454,"Ironman",24.9,16.1,1
+455,"Spiderman",22.21,13,0
+456,"Ironman",26.4,16.3,1
+457,"Captain America",10.1,18.92,0
+458,"Spiderman",26.21,11.5,0
+459,"Ironman",25.1,15.5,1
+460,"Captain America",11.2,22.02,1
+461,"Ironman",20.7,17.3,1
+462,"Spiderman",17.11,18.4,1
+463,"Captain America",11.1,14.92,1
+464,"Captain America",11.5,20.42,0
+465,"Captain America",11.8,18.22,0
+466,"Spiderman",19.31,13.8,1
+467,"Spiderman",16.11,17.2,0
+468,"Spiderman",25.61,15.7,1
+469,"Spiderman",23.51,11.7,0
+470,"Ironman",18.4,17.6,0
+471,"Ironman",23.4,16.8,1
+472,"Ironman",24,16.5,1
+473,"Ironman",21.2,16,0
+474,"Captain America",10.7,21.62,0
+475,"Ironman",20.4,16.4,1
+476,"Captain America",11.3,19.22,0
+477,"Spiderman",22.51,11.3,1
+478,"Ironman",26,17.6,1
+479,"Ironman",18.4,16.9,1
+480,"Ironman",22,15.6,1
+481,"Captain America",10.6,20.72,0
+482,"Spiderman",28.71,17.5,0
+483,"Captain America",10.9,19.02,0
+484,"Captain America",10.1,18.02,1
+485,"Spiderman",22.41,11,1
+486,"Captain America",11.2,21.92,0
+487,"Spiderman",21.11,12.9,0
+488,"Ironman",30.7,16.6,0
+489,"Ironman",24,18.3,1
+490,"Ironman",21.5,15.7,0
+491,"Ironman",25.1,16.3,0
+492,"Ironman",24,15.5,0
+493,"Spiderman",13.91,15.4,0
+494,"Captain America",10.8,20.32,0
+495,"Ironman",24.1,15.4,1
+496,"Spiderman",27.91,14.3,0
+497,"Ironman",20.1,14.9,1
+498,"Spiderman",26.61,11.6,0
+499,"Ironman",20.1,17.8,1
+500,"Ironman",26,17.2,1
+501,"Captain America",10.9,21.42,0
+502,"Ironman",22.8,17.2,1
+503,"Captain America",11.3,20.92,0
+504,"Spiderman",24.61,13.9,0
+505,"Spiderman",19.21,11.5,1
+506,"Captain America",11.5,15.12,0
+507,"Spiderman",19.71,14.5,0
+508,"Ironman",24.4,16.8,1
+509,"Ironman",22.4,17.1,0
+510,"Spiderman",28.91,11.9,0
+511,"Spiderman",25.11,19.1,1
+512,"Spiderman",19.91,16.7,1
+513,"Spiderman",27.81,14.1,1
+514,"Captain America",11.5,16.62,0
+515,"Captain America",11,14.82,0
+516,"Spiderman",24.81,13.6,0
+517,"Spiderman",22.01,13.3,0
+518,"Captain America",11,18.92,1
+519,"Captain America",11.4,15.82,1
+520,"Ironman",20.5,16.8,1
+521,"Spiderman",27.21,13.9,0
+522,"Ironman",26.4,16.7,1
+523,"Ironman",22.7,16,1
+524,"Captain America",11.4,18.72,0
+525,"Ironman",22.2,17.7,0
+526,"Spiderman",24.61,14.1,1
+527,"Captain America",10.9,21.42,0
+528,"Spiderman",34.31,14.1,0
+529,"Captain America",11.1,16.52,0
+530,"Ironman",24,17.4,0
+531,"Captain America",11.8,17.32,0
+532,"Ironman",20.9,17.5,1
+533,"Spiderman",23.91,11.1,0
+534,"Spiderman",26.21,12.7,1
+535,"Ironman",21.2,17.2,0
+536,"Captain America",11.4,17.32,1
+537,"Ironman",19.7,17.4,0
+538,"Ironman",26.8,16.7,1
+539,"Spiderman",21.71,17.4,0
+540,"Captain America",10.5,19.42,0
+541,"Captain America",9.7,12.82,0
+542,"Ironman",25.7,17.8,0
+543,"Captain America",10.6,17.62,0
+544,"Ironman",25.2,17.5,1
+545,"Captain America",11.9,18.02,0
+546,"Captain America",10.2,19.82,1
+547,"Spiderman",25.71,14.6,1
+548,"Ironman",26.1,18.4,0
+549,"Ironman",27.5,17.6,0
+550,"Ironman",24.1,17.2,0
+551,"Ironman",23.2,16,1
+552,"Captain America",10.8,13.52,1
+553,"Ironman",23.1,16,1
+554,"Spiderman",25.11,13.7,0
+555,"Captain America",10.7,21.02,1
+556,"Captain America",10.4,18.12,0
+557,"Ironman",24.5,16.6,1
+558,"Captain America",12.3,22.52,0
+559,"Spiderman",23.11,15.5,0
+560,"Spiderman",22.01,10.5,1
+561,"Ironman",24.8,16.4,1
+562,"Captain America",10.4,20.62,0
+563,"Spiderman",19.91,17.3,0
+564,"Captain America",10.6,19.22,0
+565,"Captain America",11,16.52,0
+566,"Ironman",21.2,16.2,0
+567,"Spiderman",20.81,17.5,1
+568,"Captain America",10.8,20.72,1
+569,"Ironman",24.7,17,1
+570,"Captain America",11.4,15.22,1
+571,"Ironman",22.8,16.9,0
+572,"Spiderman",31.91,11.9,0
+573,"Ironman",23.5,17.2,0
+574,"Spiderman",23.81,15.7,0
+575,"Captain America",10.7,14.42,1
+576,"Captain America",11.1,15.72,1
+577,"Ironman",23.7,16.8,1
+578,"Captain America",11.3,23.32,0
+579,"Captain America",10.6,18.92,1
+580,"Ironman",24.1,17.9,0
+581,"Ironman",24.1,16,0
+582,"Spiderman",21.71,14.5,0
+583,"Spiderman",24.61,14.3,1
+584,"Captain America",11.5,21.32,0
+585,"Captain America",9.9,20.32,0
+586,"Ironman",19.4,15.7,1
+587,"Spiderman",25.01,15.9,0
+588,"Ironman",23.4,16,0
+589,"Captain America",11.1,20.32,1
+590,"Ironman",24.4,17.1,0
+591,"Captain America",10.9,18.92,0
+592,"Ironman",21.5,17.9,1
+593,"Spiderman",21.91,11,1
+594,"Spiderman",31.61,16.6,0
+595,"Spiderman",25.71,16.6,0
+596,"Captain America",11.5,18.72,1
+597,"Ironman",23.1,16,0
+598,"Ironman",23.1,16.2,1
+599,"Spiderman",18.61,17.5,1
+600,"Ironman",22.3,16.9,1
+601,"Ironman",22.3,15.6,0
+602,"Captain America",11.3,21.22,1
+603,"Spiderman",29.41,8.9,0
+604,"Ironman",22.8,15.9,0
+605,"Ironman",23.4,16.7,0
+606,"Spiderman",18.91,14.2,0
+607,"Captain America",11.6,18.12,0
+608,"Captain America",11.2,17.72,0
+609,"Ironman",23.4,19.2,1
+610,"Spiderman",25.71,17.9,0
+611,"Ironman",20,16.4,0
+612,"Ironman",20.8,18.7,1
+613,"Ironman",24.2,17.8,1
+614,"Ironman",20.3,18.2,1
+615,"Captain America",10.8,20.12,0
+616,"Captain America",10.3,21.62,0
+617,"Ironman",23.7,17.8,0
+618,"Captain America",10.5,20.72,1
+619,"Ironman",26.9,17.5,1
+620,"Ironman",24.3,16.2,0
+621,"Ironman",25.5,17.7,0
+622,"Spiderman",30.31,16,1
+623,"Ironman",21.8,15.9,1
+624,"Ironman",23.3,16.8,0
+625,"Ironman",20.3,17.1,0
+626,"Ironman",21.8,15.8,1
+627,"Captain America",10.9,18.22,0
+628,"Spiderman",23.81,13.8,0
+629,"Ironman",21.6,18.2,0
+630,"Captain America",11.8,17.12,0
+631,"Captain America",10.2,18.22,0
+632,"Ironman",27.2,17.1,1
+633,"Ironman",18.2,16.9,0
+634,"Ironman",23.7,17.6,1
+635,"Spiderman",30.41,14.2,1
+636,"Spiderman",25.71,14.1,0
+637,"Ironman",24.1,17.8,1
+638,"Spiderman",25.11,15.7,0
+639,"Captain America",11.7,20.32,0
+640,"Spiderman",20.11,14.1,0
+641,"Captain America",11,18.72,1
+642,"Ironman",21,18,0
+643,"Spiderman",23.21,9.9,1
+644,"Captain America",10.5,20.42,1
+645,"Ironman",25.1,16.6,0
+646,"Ironman",27.4,17,1
+647,"Ironman",20.5,17.8,1
+648,"Ironman",21.4,16.6,0
+649,"Spiderman",25.31,16.8,1
+650,"Captain America",10.8,19.32,0
+651,"Ironman",24.2,18,1
+652,"Captain America",10.8,18.82,0
+653,"Spiderman",27.11,17,0
+654,"Ironman",23.3,17.2,0
+655,"Captain America",10.3,15.32,1
+656,"Spiderman",26.71,16.2,0
+657,"Ironman",22.1,16.9,0
+658,"Captain America",10,17.82,0
+659,"Captain America",10.6,19.42,0
+660,"Ironman",16.7,16.8,1
+661,"Spiderman",24.41,13,0
+662,"Spiderman",24.21,12.8,0
+663,"Spiderman",20.51,13.4,0
+664,"Captain America",11.6,16.82,0
+665,"Captain America",11.6,15.82,0
+666,"Ironman",23.8,16.6,0
+667,"Captain America",11.1,22.02,1
+668,"Captain America",10,17.22,0
+669,"Ironman",25.5,15.2,1
+670,"Ironman",21.7,17.1,0
+671,"Captain America",10.9,18.22,1
+672,"Ironman",23.1,17.3,0
+673,"Spiderman",19.61,12.3,0
+674,"Ironman",19.6,16.5,1
+675,"Spiderman",23.71,11.5,1
+676,"Spiderman",26.31,12.5,0
+677,"Spiderman",20.61,13,0
+678,"Captain America",10.8,22.32,0
+679,"Spiderman",26.21,15.1,0
+680,"Captain America",11,15.42,0
+681,"Ironman",22.8,16.5,1
+682,"Spiderman",19.21,11.1,1
+683,"Ironman",25.4,16.4,0
+684,"Spiderman",28.61,16.1,0
+685,"Captain America",10.8,18.32,0
+686,"Spiderman",25.51,16.9,0
+687,"Spiderman",23.91,13.5,1
+688,"Captain America",10.5,21.12,0
+689,"Captain America",11.3,18.42,1
+690,"Ironman",22.8,15.9,1
+691,"Captain America",10.9,20.32,0
+692,"Ironman",22.1,16.3,1
+693,"Captain America",11.2,17.22,0
+694,"Spiderman",21.11,18.4,1
+695,"Ironman",26.8,17.8,1
+696,"Captain America",10.8,16.82,1
+697,"Spiderman",19.11,12.9,0
+698,"Spiderman",23.11,16.2,0
+699,"Spiderman",27.41,15,0
+700,"Captain America",10.8,16.72,0
+701,"Spiderman",23.91,14.1,1
+702,"Captain America",11.4,17.52,1
+703,"Ironman",24.4,17.3,1
+704,"Ironman",22.9,14.3,0
+705,"Captain America",12.1,19.42,0
+706,"Spiderman",19.91,14,0
+707,"Spiderman",27.11,15.5,1
+708,"Ironman",21.8,14.6,0
+709,"Ironman",21.7,15.8,1
+710,"Ironman",23.2,17.8,0
+711,"Spiderman",29.71,16.2,0
+712,"Ironman",21.8,16.4,1
+713,"Captain America",10.4,15.22,1
+714,"Ironman",26.1,17.1,1
+715,"Spiderman",29.51,14.6,0
+716,"Ironman",25,16.5,1
+717,"Spiderman",16.31,14.4,1
+718,"Spiderman",18.61,15.5,1
+719,"Ironman",23.1,16.3,0
+720,"Ironman",22.3,16.6,0
+721,"Spiderman",32.91,13.7,1
+722,"Spiderman",17.71,14,0
+723,"Ironman",24.8,17.5,0
+724,"Captain America",11,17.82,0
+725,"Ironman",21.6,16.8,0
+726,"Spiderman",24.31,12.8,1
+727,"Captain America",10.8,13.42,0
+728,"Ironman",23.8,17.6,0
+729,"Captain America",11,21.82,0
+730,"Spiderman",30.31,15.5,0
+731,"Captain America",10.2,15.92,0
+732,"Captain America",11,17.22,0
+733,"Ironman",24.4,18.4,0
+734,"Captain America",11.8,27.12,1
+735,"Captain America",11,21.92,0
+736,"Spiderman",25.81,13.8,0
+737,"Captain America",10.7,18.02,0
+738,"Spiderman",26.21,16,0
+739,"Ironman",16.8,18,1
+740,"Spiderman",22.21,17.5,0
+741,"Spiderman",26.21,14.3,1
+742,"Captain America",11.2,17.62,1
+743,"Ironman",22.7,18.1,0
+744,"Captain America",11,20.32,0
+745,"Spiderman",19.61,17.3,1
+746,"Captain America",12.2,20.42,1
+747,"Spiderman",22.21,16.5,0
+748,"Captain America",10.8,16.82,1
+749,"Captain America",11,18.52,0
+750,"Captain America",10.6,18.62,1
+751,"Spiderman",18.11,13.8,1
+752,"Ironman",19.1,16.4,0
+753,"Spiderman",21.71,14.8,0
+754,"Captain America",11.1,22.82,0
+755,"Spiderman",24.61,12.6,1
+756,"Ironman",23.6,17.3,0
+757,"Captain America",11.5,17.72,0
+758,"Spiderman",32.31,12.8,0
+759,"Spiderman",24.61,11.7,0
+760,"Captain America",10.1,18.32,1
+761,"Captain America",10.9,20.02,0
+762,"Ironman",23.4,17.4,0
+763,"Captain America",11.2,18.92,1
+764,"Ironman",21.8,17.5,1
+765,"Captain America",11.1,14.42,1
+766,"Ironman",20.5,15.6,1
+767,"Spiderman",27.81,12.4,1
+768,"Ironman",22.5,18,1
+769,"Spiderman",29.51,14.9,1
+770,"Captain America",10.9,18.02,0
+771,"Spiderman",17.61,13.7,1
+772,"Spiderman",24.01,12,1
+773,"Captain America",11.7,22.72,0
+774,"Spiderman",27.41,16.7,0
+775,"Spiderman",29.61,15.3,0
+776,"Spiderman",20.01,17.8,0
+777,"Captain America",10.8,18.32,0
+778,"Spiderman",26.81,11.9,0
+779,"Spiderman",23.31,11.3,0
+780,"Spiderman",19.61,11.9,0
+781,"Spiderman",28.61,16.4,0
+782,"Spiderman",22.71,8.5,0
+783,"Spiderman",22.61,13.1,0
+784,"Ironman",23.7,17.3,1
+785,"Spiderman",28.41,13,0
+786,"Ironman",21.2,16.6,0
+787,"Captain America",11,18.32,1
+788,"Ironman",19.4,16.5,0
+789,"Ironman",25.9,16.7,1
+790,"Captain America",10.8,22.32,0
+791,"Spiderman",25.31,12.2,0
+792,"Spiderman",22.71,13.8,1
+793,"Ironman",25.4,16.3,1
+794,"Ironman",25.1,16.6,1
+795,"Captain America",10.6,22.82,0
+796,"Spiderman",20.51,16.4,0
+797,"Spiderman",23.81,14.8,0
+798,"Spiderman",27.71,16.1,0
+799,"Captain America",10.3,15.92,1
+800,"Captain America",10.9,19.22,0
+801,"Spiderman",21.41,10.7,0
+802,"Spiderman",25.41,13.8,0
+803,"Spiderman",22.41,17.4,0
+804,"Spiderman",27.11,13.1,0
+805,"Captain America",10.9,23.82,1
+806,"Spiderman",24.81,12.3,0
+807,"Captain America",11.3,18.12,0
+808,"Captain America",10.6,18.32,0
+809,"Captain America",10.4,17.92,1
+810,"Captain America",11.3,18.92,1
+811,"Ironman",26.3,16.3,0
+812,"Spiderman",20.61,14.6,1
+813,"Ironman",26.3,15.7,0
+814,"Ironman",24.7,16.6,1
+815,"Spiderman",21.51,18.3,0
+816,"Ironman",23.1,17.7,1
+817,"Captain America",11.1,20.62,0
+818,"Captain America",11.1,23.32,0
+819,"Spiderman",27.31,13.5,1
+820,"Ironman",24.2,16.7,0
+821,"Captain America",10.7,17.42,0
+822,"Ironman",21.6,17.6,1
+823,"Captain America",10.5,16.92,1
+824,"Ironman",20.7,17.1,1
+825,"Spiderman",20.71,11,1
+826,"Captain America",10.9,14.32,0
+827,"Captain America",11.1,19.72,0
+828,"Captain America",11.3,19.72,0
+829,"Captain America",11.2,22.92,0
+830,"Captain America",11.7,20.72,0
+831,"Spiderman",22.11,11.5,0
+832,"Ironman",24.3,16.6,1
+833,"Spiderman",25.21,16.6,0
+834,"Ironman",19.6,17.9,0
+835,"Spiderman",21.81,14.2,0
+836,"Ironman",18,16.3,0
+837,"Spiderman",25.11,9.8,0
+838,"Spiderman",25.31,14.4,0
+839,"Captain America",10,23.22,0
+840,"Ironman",26.7,17.1,0
+841,"Ironman",22.9,17.4,0
+842,"Captain America",11.6,20.92,1
+843,"Captain America",11.3,17.52,0
+844,"Spiderman",29.21,16.9,1
+845,"Spiderman",24.61,13.9,0
+846,"Ironman",18.8,17.8,1
+847,"Spiderman",37.71,17,0
+848,"Spiderman",17.71,10.7,0
+849,"Spiderman",25.01,11.9,0
+850,"Captain America",10.8,17.62,1
+851,"Captain America",9.6,18.02,0
+852,"Captain America",10.8,15.22,0
+853,"Ironman",23,16.9,1
+854,"Ironman",25.2,16.5,0
+855,"Captain America",11.5,17.22,0
+856,"Spiderman",28.01,15.5,1
+857,"Captain America",11.1,16.62,0
+858,"Captain America",10.8,19.12,0
+859,"Captain America",10.9,18.32,0
+860,"Spiderman",20.61,13.9,1
+861,"Spiderman",26.51,14.6,1
+862,"Captain America",10.1,15.52,1
+863,"Ironman",23.7,17.4,1
+864,"Spiderman",24.41,9.8,0
+865,"Ironman",22,15.2,0
+866,"Ironman",24.8,15.9,0
+867,"Captain America",10.5,20.22,1
+868,"Captain America",11,19.02,0
+869,"Captain America",11.4,25.62,0
+870,"Captain America",11.6,17.72,1
+871,"Captain America",11,20.02,1
+872,"Spiderman",25.81,11.9,1
+873,"Spiderman",20.41,15.9,0
+874,"Ironman",24.8,16.8,0
+875,"Spiderman",26.51,12,0
+876,"Spiderman",18.51,14.3,0
+877,"Captain America",10.9,20.42,0
+878,"Captain America",10.2,18.92,0
+879,"Ironman",22.8,16.6,1
+880,"Captain America",11.6,17.12,0
+881,"Spiderman",21.71,11.3,0
+882,"Captain America",10.2,20.72,0
+883,"Ironman",21.4,15.2,1
+884,"Spiderman",21.11,12.2,0
+885,"Captain America",10.7,18.12,0
+886,"Captain America",10.6,15.92,0
+887,"Captain America",11.5,19.42,0
+888,"Spiderman",22.21,17.8,1
+889,"Captain America",10.7,18.72,0
+890,"Ironman",25.2,17.8,1
+891,"Spiderman",20.41,14.1,1
+892,"Ironman",23.3,16.3,0
+893,"Captain America",10.9,15.22,1
+894,"Spiderman",23.31,10.8,1
+895,"Captain America",11.7,17.12,1
+896,"Captain America",10.1,20.72,0
+897,"Captain America",10.5,20.22,1
+898,"Ironman",20.8,16.2,0
+899,"Spiderman",28.41,13.2,0
+900,"Ironman",23.1,17,1
+901,"Spiderman",19.41,18.2,0
+902,"Captain America",12,14.32,1
+903,"Captain America",11.1,15.12,0
+904,"Ironman",24.3,17.6,0
+905,"Ironman",22.8,17.6,1
+906,"Spiderman",25.91,13.7,1
+907,"Ironman",21.7,16.9,0
+908,"Ironman",19.4,16.8,1
+909,"Ironman",21.5,16.2,1
+910,"Ironman",21.4,15.2,1
+911,"Ironman",24.7,16.7,1
+912,"Captain America",11.3,20.02,0
+913,"Captain America",10.7,20.12,0
+914,"Captain America",11.9,16.12,0
+915,"Spiderman",17.41,14.8,1
+916,"Spiderman",28.11,16.6,0
+917,"Spiderman",22.71,12.4,0
+918,"Spiderman",24.41,14.5,0
+919,"Captain America",12.4,18.22,0
+920,"Spiderman",29.81,14.7,0
+921,"Ironman",26.2,18.1,0
+922,"Spiderman",26.41,16.9,0
+923,"Ironman",21.6,16.9,0
+924,"Ironman",21,16.5,0
+925,"Spiderman",24.51,11.5,1
+926,"Ironman",25.1,16.8,0
+927,"Ironman",24.6,18.4,1
+928,"Captain America",11.1,22.52,0
+929,"Captain America",11.2,18.62,0
+930,"Spiderman",21.01,16.7,0
+931,"Captain America",10.8,17.32,1
+932,"Spiderman",22.81,14.6,1
+933,"Ironman",24.5,16.3,1
+934,"Spiderman",25.91,16.4,0
+935,"Ironman",24.5,17.1,1
+936,"Ironman",22.9,18.2,0
+937,"Ironman",22.3,16.4,0
+938,"Captain America",10,21.42,0
+939,"Spiderman",28.31,15,0
+940,"Captain America",10.9,21.72,0
+941,"Captain America",10.4,19.92,0
+942,"Ironman",22.2,15.4,1
+943,"Spiderman",22.81,14.2,1
+944,"Ironman",20.7,17.7,0
+945,"Ironman",26.6,17.6,0
+946,"Ironman",21.7,16.2,1
+947,"Ironman",20,16.4,1
+948,"Spiderman",20.31,15.5,0
+949,"Ironman",23.3,17.1,0
+950,"Spiderman",23.81,12.4,0
+951,"Spiderman",23.81,13.4,1
+952,"Spiderman",18.81,13.7,0
+953,"Spiderman",21.11,16.2,0
+954,"Spiderman",20.51,12.1,0
+955,"Ironman",21.7,16.9,0
+956,"Ironman",22.1,16.3,0
+957,"Captain America",10.6,15.32,0
+958,"Ironman",20.1,16.2,0
+959,"Ironman",25.4,17.8,0
+960,"Spiderman",30.61,10.9,1
+961,"Spiderman",21.71,12.9,1
+962,"Captain America",11.8,20.02,1
+963,"Captain America",11.2,14.82,0
+964,"Ironman",19.8,16.5,1
+965,"Ironman",22.8,16.8,1
+966,"Ironman",21.1,17.4,1
+967,"Spiderman",29.91,15.1,0
+968,"Captain America",11.8,18.92,1
+969,"Ironman",21,17.3,0
+970,"Captain America",11.6,18.82,0
+971,"Spiderman",26.21,18.6,1
+972,"Captain America",10.8,16.42,0
+973,"Captain America",10.5,17.52,1
+974,"Spiderman",18.71,15,0
+975,"Spiderman",28.41,13.2,1
+976,"Spiderman",24.01,15.3,0
+977,"Ironman",24.1,16.5,0
+978,"Ironman",20.5,17.4,0
+979,"Captain America",12.1,18.82,0
+980,"Spiderman",14.91,14.5,0
+981,"Spiderman",27.31,19.1,1
+982,"Ironman",24.2,15.7,0
+983,"Ironman",24.8,14.6,0
+984,"Spiderman",23.61,15.9,0
+985,"Captain America",10.7,20.92,0
+986,"Captain America",11.7,21.12,1
+987,"Ironman",23.6,16.8,0
+988,"Captain America",10.1,20.22,1
+989,"Ironman",23.9,15.6,0
+990,"Captain America",10.4,20.72,0
+991,"Spiderman",23.01,15.9,1
+992,"Spiderman",27.41,12.1,0
+993,"Captain America",10.8,17.02,1
+994,"Spiderman",22.11,15.9,1
+995,"Spiderman",24.61,12.5,1
+996,"Captain America",11.3,19.32,0
+997,"Spiderman",25.91,17.1,1
+998,"Spiderman",23.91,16.2,0
+999,"Spiderman",26.91,13.8,1
+1000,"Spiderman",21.61,13,1
+1001,"Spiderman",20.61,13.5,1
+1002,"Captain America",10.8,20.42,0
+1003,"Ironman",20.7,16.2,1
+1004,"Spiderman",26.21,14.9,1
+1005,"Ironman",22.4,16.7,0
+1006,"Spiderman",29.01,16.5,0
+1007,"Spiderman",22.21,9.2,1
+1008,"Spiderman",25.51,11.1,0
+1009,"Ironman",25.8,16.5,0
+1010,"Spiderman",30.71,10.9,0
+1011,"Captain America",10.5,21.82,0
+1012,"Spiderman",27.01,14.3,0
+1013,"Ironman",21.5,14.9,1
+1014,"Ironman",24.5,16.3,0
+1015,"Spiderman",21.41,11.8,0
+1016,"Ironman",26.6,14.8,0
+1017,"Captain America",11.2,21.02,0
+1018,"Spiderman",35.81,19.5,1
+1019,"Captain America",11.1,16.92,1
+1020,"Spiderman",30.01,14.2,1
+1021,"Spiderman",28.01,12.5,1
+1022,"Ironman",23.3,16.4,0
+1023,"Captain America",10,21.02,1
+1024,"Captain America",10.4,16.82,0
+1025,"Ironman",21.6,17.3,0
+1026,"Ironman",21.5,17.1,0
+1027,"Ironman",24.3,16.6,0
+1028,"Captain America",11.8,19.22,0
+1029,"Spiderman",19.91,19.4,0
+1030,"Spiderman",29.71,14.8,0
+1031,"Spiderman",29.71,17.1,1
+1032,"Spiderman",24.81,13.2,1
+1033,"Captain America",11.5,17.82,1
+1034,"Spiderman",25.91,12.4,0
+1035,"Captain America",11.2,16.32,0
+1036,"Captain America",11.3,15.62,1
+1037,"Ironman",20.2,16,1
+1038,"Spiderman",27.11,9.8,1
+1039,"Spiderman",19.41,16.4,0
+1040,"Ironman",24.3,17.8,1
+1041,"Ironman",22.5,17.9,1
+1042,"Ironman",23.3,17.4,0
+1043,"Spiderman",25.81,13.6,0
+1044,"Captain America",10.2,18.22,0
+1045,"Spiderman",23.81,14.8,0
+1046,"Spiderman",26.41,13.4,0
+1047,"Ironman",22.2,15.5,1
+1048,"Ironman",22.4,16.7,0
+1049,"Ironman",22.5,15.5,0
+1050,"Ironman",23.5,15.6,0
+1051,"Captain America",10.9,16.02,0
+1052,"Ironman",20.5,16.2,1
+1053,"Ironman",22.5,17.5,1
+1054,"Spiderman",26.51,13.6,0
+1055,"Spiderman",25.71,11.9,0
+1056,"Ironman",24.2,18.5,0
+1057,"Captain America",11.3,18.12,1
+1058,"Ironman",18.9,18.3,1
+1059,"Spiderman",23.41,14.4,0
+1060,"Captain America",11.1,15.32,0
+1061,"Spiderman",28.31,15.2,0
+1062,"Spiderman",28.71,13.4,0
+1063,"Spiderman",30.41,13.6,0
+1064,"Spiderman",21.11,14.8,0
+1065,"Ironman",24.4,16.8,0
+1066,"Spiderman",26.81,16.6,0
+1067,"Captain America",11.4,20.72,1
+1068,"Ironman",21.3,17.7,0
+1069,"Ironman",24.8,17.3,1
+1070,"Spiderman",18.41,14.9,0
+1071,"Captain America",11.9,24.22,0
+1072,"Spiderman",21.01,13.6,0
+1073,"Ironman",25.6,15.3,0
+1074,"Captain America",11.8,16.72,0
+1075,"Captain America",10.8,20.42,0
+1076,"Ironman",17.1,16.8,1
+1077,"Captain America",11.2,15.52,0
+1078,"Captain America",11.1,17.82,0
+1079,"Ironman",23.5,16.4,0
+1080,"Spiderman",19.51,15.7,1
+1081,"Ironman",25.3,16.9,1
+1082,"Spiderman",27.31,10.7,0
+1083,"Spiderman",26.01,11,0
+1084,"Captain America",9.9,20.22,1
+1085,"Ironman",19.3,16.2,1
+1086,"Spiderman",20.51,11.7,1
+1087,"Ironman",22.2,17.7,0
+1088,"Spiderman",26.61,15.5,0
+1089,"Ironman",24.8,16.6,0
+1090,"Spiderman",25.61,18,0
+1091,"Ironman",24.6,17.8,0
+1092,"Spiderman",25.21,15.4,0
+1093,"Ironman",24.4,16.8,0
+1094,"Ironman",24.3,17.8,1
+1095,"Ironman",18.9,15.8,0
+1096,"Captain America",11.5,19.82,1
+1097,"Spiderman",23.81,12.8,1
+1098,"Spiderman",19.61,14.2,0
+1099,"Captain America",9.9,14.22,0
+1100,"Captain America",10.9,21.82,0
+1101,"Captain America",10.3,19.72,0
+1102,"Captain America",11.2,17.12,0
+1103,"Spiderman",24.31,13.5,0
+1104,"Captain America",11.9,22.62,1
+1105,"Ironman",27.2,15.6,1
+1106,"Spiderman",27.01,13.9,0
+1107,"Captain America",11.6,16.62,1
+1108,"Spiderman",22.91,12.3,0
+1109,"Captain America",11.1,22.42,1
+1110,"Ironman",21.4,16.2,0
+1111,"Spiderman",26.21,13.9,0
+1112,"Ironman",21.7,17.5,0
+1113,"Spiderman",22.71,10.7,0
+1114,"Ironman",24.2,17,1
+1115,"Spiderman",24.31,17.7,0
+1116,"Captain America",11.4,19.52,0
+1117,"Spiderman",18.11,16.4,0
+1118,"Spiderman",25.61,12.1,0
+1119,"Captain America",10.8,21.52,0
+1120,"Spiderman",27.51,15.3,0
+1121,"Spiderman",31.01,11.8,0
+1122,"Captain America",11.3,15.12,0
+1123,"Spiderman",24.01,12.7,0
+1124,"Captain America",10.5,21.12,0
+1125,"Captain America",11.1,21.52,1
+1126,"Ironman",25.3,16.9,1
+1127,"Spiderman",21.81,12.5,0
+1128,"Spiderman",25.01,11.7,1
+1129,"Captain America",10,18.92,1
+1130,"Ironman",24.9,15.2,0
+1131,"Spiderman",24.41,13.9,1
+1132,"Ironman",21.8,18.1,0
+1133,"Spiderman",29.11,13,0
+1134,"Spiderman",19.91,18.1,1
+1135,"Spiderman",24.71,15.6,1
+1136,"Spiderman",22.31,15.1,1
+1137,"Ironman",26.3,15.1,0
+1138,"Captain America",10.8,19.92,1
+1139,"Ironman",20.8,16.5,1
+1140,"Ironman",22.4,16.4,1
+1141,"Spiderman",23.81,16.4,0
+1142,"Captain America",11.6,22.82,0
+1143,"Ironman",24.7,16.8,0
+1144,"Ironman",22,17.4,0
+1145,"Ironman",24.9,17,0
+1146,"Spiderman",18.81,11.4,0
+1147,"Ironman",25.5,17.8,1
+1148,"Captain America",10.7,19.12,0
+1149,"Spiderman",22.41,12.1,0
+1150,"Captain America",12,19.12,0
+1151,"Ironman",24.6,17.2,0
+1152,"Spiderman",22.61,15.1,0
+1153,"Captain America",11.2,10.42,0
+1154,"Captain America",11.1,19.42,0
+1155,"Captain America",11,22.92,0
+1156,"Captain America",11.7,21.92,1
+1157,"Captain America",11,18.02,1
+1158,"Captain America",11.3,16.52,1
+1159,"Captain America",11,18.32,1
+1160,"Ironman",23.5,17.3,1
+1161,"Spiderman",27.61,12.7,0
+1162,"Ironman",23.1,17.2,1
+1163,"Captain America",11.1,17.32,0
+1164,"Ironman",19.9,16.2,0
+1165,"Ironman",22.1,15.7,0
+1166,"Ironman",24.7,14.6,0
+1167,"Ironman",25.4,16.2,0
+1168,"Captain America",11,17.02,1
+1169,"Spiderman",22.91,16.1,1
+1170,"Spiderman",29.21,11.9,1
+1171,"Ironman",20.5,16.7,1
+1172,"Spiderman",27.71,15.4,0
+1173,"Ironman",26.9,17.6,0
+1174,"Captain America",10.8,16.72,0
+1175,"Captain America",11,18.92,0
+1176,"Captain America",11.3,20.62,0
+1177,"Spiderman",32.81,11,0
+1178,"Ironman",19.5,17.6,0
+1179,"Ironman",24.7,16.6,0
+1180,"Captain America",12.1,20.62,1
+1181,"Ironman",21.1,17.4,1
+1182,"Ironman",21.4,17.9,0
+1183,"Captain America",12,17.02,0
+1184,"Spiderman",25.41,17,1
+1185,"Ironman",24.4,17.8,1
+1186,"Captain America",10.9,21.02,0
+1187,"Ironman",20,17.1,0
+1188,"Spiderman",20.81,13.2,0
+1189,"Spiderman",23.71,17.1,0
+1190,"Spiderman",19.81,13,0
+1191,"Ironman",21,17.4,1
+1192,"Captain America",11.1,19.32,0
+1193,"Spiderman",23.81,14.3,1
+1194,"Spiderman",23.71,15.5,0
+1195,"Spiderman",24.21,17.7,0
+1196,"Ironman",21.9,17.8,0
+1197,"Spiderman",21.61,14.2,0
+1198,"Spiderman",21.01,17.3,0
+1199,"Captain America",11,18.22,0
+1200,"Captain America",10.6,19.02,0
+1201,"Ironman",19.7,17.3,1
+1202,"Ironman",22,16.7,1
+1203,"Ironman",22.3,14.9,1
+1204,"Captain America",10.7,20.32,1
+1205,"Captain America",10.7,17.22,0
+1206,"Spiderman",22.11,15,0
+1207,"Spiderman",22.61,10.7,0
+1208,"Ironman",22.7,16.7,1
+1209,"Ironman",20.3,17.7,0
+1210,"Spiderman",17.31,14.7,0
+1211,"Captain America",11.3,17.32,1
+1212,"Spiderman",17.21,13.7,0
+1213,"Captain America",11.1,19.92,0
+1214,"Captain America",11.2,13.62,0
+1215,"Ironman",24.7,17.1,1
+1216,"Captain America",11.6,15.52,0
+1217,"Spiderman",23.41,10,0
+1218,"Spiderman",25.01,20.7,1
+1219,"Captain America",11.3,26.02,1
+1220,"Ironman",22.3,16,0
+1221,"Spiderman",14.41,10.6,0
+1222,"Spiderman",19.51,14.5,0
+1223,"Spiderman",18.31,12.8,1
+1224,"Spiderman",19.01,15.1,0
+1225,"Spiderman",24.41,14.8,0
+1226,"Captain America",10.8,17.92,0
+1227,"Captain America",11.5,17.72,0
+1228,"Captain America",11.3,22.22,1
+1229,"Captain America",10.5,21.22,0
+1230,"Captain America",11.4,16.32,0
+1231,"Ironman",24.9,15.6,0
+1232,"Spiderman",20.31,10.7,0
+1233,"Ironman",24.9,18,0
+1234,"Ironman",21.9,16.4,0
+1235,"Ironman",24.5,17.8,0
+1236,"Captain America",11.2,20.92,0
+1237,"Ironman",23.6,17.1,0
+1238,"Spiderman",17.51,9.6,0
+1239,"Captain America",10.2,18.42,0
+1240,"Spiderman",25.11,18,0
+1241,"Ironman",22.9,16.1,1
+1242,"Ironman",21.2,14.8,0
+1243,"Spiderman",22.91,13.4,0
+1244,"Spiderman",25.21,13.9,0
+1245,"Ironman",23.6,17.5,0
+1246,"Spiderman",28.21,14.3,0
+1247,"Ironman",20.8,16.4,0
+1248,"Captain America",11.3,18.82,0
+1249,"Spiderman",30.61,11.7,0
+1250,"Spiderman",24.51,13.9,1
+1251,"Captain America",11.2,12.62,0
+1252,"Captain America",11.3,18.82,1
+1253,"Ironman",24.7,16,0
+1254,"Spiderman",26.61,15.5,1
+1255,"Ironman",23.9,17.4,0
+1256,"Captain America",11,16.42,1
+1257,"Spiderman",27.51,14.9,1
+1258,"Ironman",19.6,18,1
+1259,"Captain America",10.2,21.72,1
+1260,"Ironman",26.1,16.4,0
+1261,"Captain America",10.7,19.92,0
+1262,"Ironman",25.4,16.6,0
+1263,"Ironman",25.4,17.7,0
+1264,"Spiderman",25.51,11.1,0
+1265,"Spiderman",20.61,16.8,0
+1266,"Captain America",10,20.12,0
+1267,"Captain America",11,19.32,1
+1268,"Captain America",11.5,16.52,0
+1269,"Captain America",11.6,18.32,1
+1270,"Captain America",10.6,19.32,1
+1271,"Captain America",10.7,16.22,0
+1272,"Spiderman",23.41,16.3,1
+1273,"Spiderman",26.11,14.4,1
+1274,"Spiderman",29.01,12.8,1
+1275,"Ironman",22.7,16.3,0
+1276,"Spiderman",30.31,15.3,1
+1277,"Ironman",22,16.7,0
+1278,"Spiderman",26.71,10.2,1
+1279,"Captain America",11,16.62,1
+1280,"Spiderman",31.41,14.2,0
+1281,"Captain America",10.4,20.82,0
+1282,"Spiderman",26.51,11.3,0
+1283,"Captain America",10.1,20.82,0
+1284,"Captain America",10.3,18.92,1
+1285,"Spiderman",25.21,12.2,0
+1286,"Spiderman",32.31,10.8,1
+1287,"Ironman",27.9,18.1,0
+1288,"Ironman",23.6,17.3,0
+1289,"Captain America",11.5,18.62,1
+1290,"Captain America",11.2,24.32,1
+1291,"Spiderman",22.31,13.2,0
+1292,"Spiderman",26.71,12.9,0
+1293,"Ironman",23.6,17.5,0
+1294,"Ironman",24.3,16.5,0
+1295,"Captain America",11.1,17.72,0
+1296,"Captain America",10.6,14.32,1
+1297,"Captain America",11.7,17.52,0
+1298,"Captain America",10.6,25.92,0
+1299,"Captain America",10.8,19.82,1
+1300,"Spiderman",31.11,14.6,0
+1301,"Ironman",22.7,17.4,0
+1302,"Spiderman",19.61,15.7,0
+1303,"Ironman",24.5,18,1
+1304,"Ironman",22.7,16.2,0
+1305,"Spiderman",23.61,15.6,0
+1306,"Captain America",12,16.22,0
+1307,"Spiderman",21.81,17,0
+1308,"Ironman",19.7,18.1,0
+1309,"Spiderman",21.41,14,1
+1310,"Ironman",18.8,17.8,1
+1311,"Spiderman",18.71,14.9,1
+1312,"Captain America",11.4,16.72,1
+1313,"Ironman",22.3,17.7,0
+1314,"Captain America",9.9,17.52,1
+1315,"Captain America",11.1,20.62,0
+1316,"Spiderman",27.01,12.5,0
+1317,"Captain America",10.6,21.92,0
+1318,"Spiderman",23.51,13.2,0
+1319,"Ironman",22.8,17.1,1
+1320,"Captain America",10,18.62,0
+1321,"Captain America",10.8,17.02,1
+1322,"Ironman",21.2,17.1,0
+1323,"Ironman",22.4,17.8,0
+1324,"Spiderman",29.71,14.2,0
+1325,"Ironman",21.9,16.5,0
+1326,"Captain America",10.5,18.02,1
+1327,"Ironman",21.4,15,0
+1328,"Captain America",10.3,14.52,0
+1329,"Captain America",10.3,20.62,1
+1330,"Spiderman",20.81,11.7,0
+1331,"Spiderman",18.71,11.6,1
+1332,"Captain America",10.5,15.12,1
+1333,"Ironman",22.8,16.3,0
+1334,"Spiderman",20.31,12.2,1
+1335,"Spiderman",18.51,14.9,0
+1336,"Ironman",22.1,15.8,0
+1337,"Spiderman",38.51,17.8,0
+1338,"Captain America",11.4,17.12,0
+1339,"Captain America",11.3,19.92,0
+1340,"Spiderman",31.61,15.1,0
+1341,"Ironman",22.9,18.2,0
+1342,"Captain America",11.7,21.62,0
+1343,"Ironman",25.8,17.2,0
+1344,"Ironman",22.7,16.7,1
+1345,"Ironman",19.5,15.7,0
+1346,"Spiderman",25.01,11.9,1
+1347,"Captain America",10.8,15.52,1
+1348,"Ironman",23,15.3,0
+1349,"Spiderman",21.51,13.4,0
+1350,"Captain America",10.7,18.32,1
+1351,"Spiderman",18.71,13.6,0
+1352,"Spiderman",23.61,13.2,0
+1353,"Captain America",11.1,17.52,1
+1354,"Ironman",21.8,15.7,0
+1355,"Spiderman",22.91,15.5,0
+1356,"Spiderman",32.51,11.6,1
+1357,"Ironman",22,16.5,0
+1358,"Ironman",23.9,16.5,0
+1359,"Ironman",27.7,15.5,1
+1360,"Ironman",23.1,17.8,0
+1361,"Ironman",23.6,16.4,1
+1362,"Ironman",23,17,1
+1363,"Spiderman",27.01,13.8,1
+1364,"Spiderman",20.81,14,0
+1365,"Captain America",12.1,22.22,0
+1366,"Spiderman",25.01,10.8,0
+1367,"Ironman",21.7,17.8,1
+1368,"Captain America",10.7,19.52,0
+1369,"Ironman",25.8,17.9,0
+1370,"Spiderman",21.71,12.8,1
+1371,"Ironman",23.7,16.9,0
+1372,"Captain America",10.8,20.72,1
+1373,"Spiderman",20.71,13.6,0
+1374,"Ironman",24,16.8,0
+1375,"Spiderman",26.21,13.8,1
+1376,"Captain America",10.8,19.62,0
+1377,"Captain America",11.4,20.32,0
+1378,"Ironman",27.1,16.5,0
+1379,"Ironman",27.7,16.2,0
+1380,"Spiderman",21.01,17.3,0
+1381,"Captain America",11.3,21.52,1
+1382,"Ironman",25.4,15,0
+1383,"Ironman",25.8,15.4,0
+1384,"Ironman",21.9,15.9,0
+1385,"Captain America",10.8,18.02,0
+1386,"Spiderman",19.51,13.4,0
+1387,"Spiderman",20.31,17.7,0
+1388,"Spiderman",23.71,15.7,0
+1389,"Ironman",23.5,18.1,1
+1390,"Ironman",19.9,16,0
+1391,"Captain America",10.9,17.92,0
+1392,"Ironman",27,15.1,0
+1393,"Ironman",24.4,16.7,1
+1394,"Spiderman",20.81,14.3,1
+1395,"Ironman",21.5,18.5,0
+1396,"Captain America",11.3,18.82,1
+1397,"Spiderman",28.61,14.5,0
+1398,"Captain America",11,24.02,0
+1399,"Spiderman",22.21,14.5,1
+1400,"Spiderman",18.31,15,0
+1401,"Spiderman",18.31,12.9,0
+1402,"Ironman",20.5,15.8,0
+1403,"Ironman",24.8,17,1
+1404,"Spiderman",24.21,15.6,1
+1405,"Captain America",10.8,17.52,0
+1406,"Spiderman",16.21,11.8,1
+1407,"Captain America",11.3,19.42,0
+1408,"Spiderman",28.81,13.8,0
+1409,"Ironman",25.7,16.6,0
+1410,"Spiderman",26.61,11.8,1
+1411,"Ironman",22.7,15.3,1
+1412,"Spiderman",17.71,11.9,0
+1413,"Ironman",22.2,16.1,1
+1414,"Spiderman",29.21,15.1,0
+1415,"Spiderman",23.71,13.9,0
+1416,"Captain America",11.2,17.82,0
+1417,"Captain America",11.5,22.42,1
+1418,"Ironman",21.9,16.8,0
+1419,"Ironman",21.2,16.9,1
+1420,"Ironman",22.4,16.9,0
+1421,"Captain America",11,20.42,1
+1422,"Ironman",21.6,16.3,1
+1423,"Spiderman",16.41,11.1,0
+1424,"Captain America",11.9,16.72,1
+1425,"Spiderman",23.21,14.8,1
+1426,"Ironman",24,18.3,0
+1427,"Spiderman",19.81,14.4,0
+1428,"Spiderman",25.61,13.3,0
+1429,"Ironman",14.8,17.7,0
+1430,"Captain America",11.4,17.02,0
+1431,"Captain America",11,14.12,1
+1432,"Spiderman",29.71,14.6,1
+1433,"Captain America",10.4,20.02,1
+1434,"Ironman",21.9,17.1,0
+1435,"Ironman",19.4,16.4,0
+1436,"Spiderman",21.41,17.7,0
+1437,"Spiderman",23.31,13.2,0
+1438,"Captain America",11.1,16.82,1
+1439,"Spiderman",25.11,13.4,1
+1440,"Captain America",10.4,15.32,0
+1441,"Captain America",10.8,15.32,1
+1442,"Ironman",25.7,15.7,1
+1443,"Captain America",10.9,19.42,0
+1444,"Ironman",22.9,17.3,0
+1445,"Ironman",22.3,17.4,1
+1446,"Ironman",25.7,16.3,1
+1447,"Ironman",26.2,17.9,0
+1448,"Ironman",21.5,17.8,0
+1449,"Captain America",11.3,14.12,1
+1450,"Ironman",17.5,17.4,0
+1451,"Spiderman",30.01,13.9,1
+1452,"Ironman",25.4,17.4,0
+1453,"Ironman",22.4,16.1,1
+1454,"Spiderman",29.11,15,1
+1455,"Captain America",10.7,19.92,0
+1456,"Ironman",20.5,18.1,0
+1457,"Captain America",10.8,21.12,0
+1458,"Spiderman",25.61,12,1
+1459,"Captain America",10.5,16.12,0
+1460,"Spiderman",24.41,11.5,1
+1461,"Spiderman",21.41,13.1,0
+1462,"Captain America",12.1,16.32,0
+1463,"Spiderman",29.71,13,1
+1464,"Captain America",10.9,21.12,0
+1465,"Spiderman",18.71,14,1
+1466,"Ironman",24.2,17.5,0
+1467,"Ironman",27.4,17.3,0
+1468,"Spiderman",26.01,13.4,0
+1469,"Spiderman",24.61,17.1,0
+1470,"Captain America",10,17.62,0
+1471,"Captain America",11.2,23.72,0
+1472,"Spiderman",17.01,13.5,1
+1473,"Captain America",10.8,17.42,1
+1474,"Spiderman",27.71,13.8,1
+1475,"Spiderman",20.41,13,1
+1476,"Captain America",11.4,18.42,0
+1477,"Spiderman",23.11,12.6,0
+1478,"Ironman",21.5,16.7,1
+1479,"Ironman",26.4,15.9,1
+1480,"Spiderman",22.31,12.5,0
+1481,"Captain America",10.8,20.62,0
+1482,"Captain America",11.2,18.82,0
+1483,"Ironman",21.9,16.2,1
+1484,"Spiderman",28.01,14,0
+1485,"Ironman",20.2,17.6,1
+1486,"Ironman",24.4,16.8,1
+1487,"Captain America",10.3,19.32,0
+1488,"Captain America",11.1,15.62,0
+1489,"Ironman",23.4,16.8,0
+1490,"Captain America",10.5,19.62,1
+1491,"Spiderman",21.81,14.6,0
+1492,"Spiderman",25.71,10.8,0
+1493,"Captain America",10.7,21.82,0
+1494,"Captain America",10.6,19.92,0
+1495,"Captain America",11.7,17.32,1
+1496,"Spiderman",20.91,13.8,0
+1497,"Ironman",26.3,14.3,1
+1498,"Captain America",12.2,17.12,0
+1499,"Spiderman",22.31,16.8,1
+1500,"Spiderman",23.51,12.2,0
+1501,"Ironman",19.3,16.3,1
+1502,"Ironman",22.7,16.7,0
+1503,"Spiderman",32.11,12.4,0
+1504,"Spiderman",25.41,16.4,1
+1505,"Spiderman",23.31,15.6,0
+1506,"Spiderman",20.91,12.6,1
+1507,"Ironman",20.4,15.6,0
+1508,"Captain America",10.5,20.82,0
+1509,"Spiderman",17.91,8.8,1
+1510,"Captain America",11.1,19.92,0
+1511,"Ironman",20.4,15.7,1
+1512,"Captain America",11.1,20.02,0
+1513,"Ironman",22.7,18,0
+1514,"Ironman",22,16.9,0
+1515,"Captain America",10.4,17.22,1
+1516,"Ironman",23.2,17.7,0
+1517,"Spiderman",21.51,14.8,1
+1518,"Ironman",20.4,16.7,0
+1519,"Captain America",11.2,17.72,1
+1520,"Ironman",22.9,17,1
+1521,"Spiderman",21.71,12.9,0
+1522,"Ironman",23.1,16.3,0
+1523,"Spiderman",22.01,15.6,0
+1524,"Ironman",24.7,17.2,0
+1525,"Ironman",20.6,15.9,1
+1526,"Spiderman",20.81,15.9,0
+1527,"Captain America",11.2,18.52,1
+1528,"Ironman",21.8,16.6,1
+1529,"Captain America",11.8,24.42,1
+1530,"Captain America",10.6,20.42,0
+1531,"Spiderman",25.61,12.1,1
+1532,"Ironman",20.9,14.3,1
+1533,"Ironman",22.8,17.1,0
+1534,"Spiderman",29.01,17.8,1
+1535,"Ironman",21.6,16.9,0
+1536,"Ironman",20.1,16.3,1
+1537,"Spiderman",26.41,10.9,0
+1538,"Captain America",11.3,16.52,0
+1539,"Ironman",26.8,17.5,0
+1540,"Spiderman",26.11,14.1,0
+1541,"Ironman",20.8,15.4,0
+1542,"Ironman",20.7,17.5,1
+1543,"Ironman",20,17.2,0
+1544,"Captain America",11.3,19.62,0
+1545,"Spiderman",30.81,15.8,0
+1546,"Spiderman",23.31,13.1,0
+1547,"Captain America",11.3,20.12,1
+1548,"Spiderman",24.01,10.8,0
+1549,"Spiderman",22.01,14.8,1
+1550,"Spiderman",30.11,15.9,0
+1551,"Captain America",11.2,21.12,0
+1552,"Spiderman",26.31,14.3,0
+1553,"Spiderman",27.51,14.9,0
+1554,"Captain America",10.7,18.12,0
+1555,"Captain America",12.3,16.92,0
+1556,"Ironman",23.2,17.5,0
+1557,"Captain America",11.2,17.22,0
+1558,"Ironman",25.2,15.4,1
+1559,"Spiderman",25.51,14,0
+1560,"Captain America",10.3,22.42,1
+1561,"Captain America",10.2,12.12,0
+1562,"Spiderman",22.61,11.1,0
+1563,"Ironman",20.1,16,0
+1564,"Spiderman",18.91,15.4,0
+1565,"Spiderman",24.41,14,0
+1566,"Captain America",11.2,20.02,0
+1567,"Spiderman",26.31,9.8,0
+1568,"Captain America",9.9,18.12,0
+1569,"Captain America",11.5,16.42,1
+1570,"Spiderman",23.01,12.2,0
+1571,"Ironman",20.7,15.8,0
+1572,"Captain America",10.9,17.12,1
+1573,"Ironman",24.9,17.1,1
+1574,"Ironman",25.5,16.4,1
+1575,"Spiderman",21.61,10.4,1
+1576,"Captain America",11.2,22.82,0
+1577,"Spiderman",21.31,14.3,1
+1578,"Ironman",23.1,16.9,0
+1579,"Ironman",23.4,16.7,0
+1580,"Captain America",11.3,18.32,0
+1581,"Captain America",11.5,15.62,1
+1582,"Captain America",10.5,17.62,0
+1583,"Ironman",23.6,16.9,0
+1584,"Captain America",10.4,19.92,1
+1585,"Ironman",21.2,17.1,1
+1586,"Spiderman",23.51,16.3,0
+1587,"Spiderman",24.21,13.9,1
+1588,"Captain America",10.6,16.92,1
+1589,"Spiderman",28.31,14.3,0
+1590,"Spiderman",28.41,13.5,1
+1591,"Captain America",11.1,22.22,1
+1592,"Captain America",11.3,20.02,1
+1593,"Ironman",25.9,17.8,1
+1594,"Captain America",11.9,19.32,0
+1595,"Ironman",20.9,16.5,0
+1596,"Captain America",11.1,25.02,1
+1597,"Spiderman",23.51,13,1
+1598,"Ironman",23.4,16.7,0
+1599,"Ironman",25,15.8,0
+1600,"Ironman",20.8,17.7,1
+1601,"Ironman",23.6,18.1,1
+1602,"Captain America",10.8,16.22,0
+1603,"Spiderman",27.71,14.4,1
+1604,"Captain America",10.7,17.52,0
+1605,"Ironman",24,17.2,0
+1606,"Spiderman",18.71,17.5,0
+1607,"Spiderman",23.91,12.7,0
+1608,"Captain America",10.6,25.02,0
+1609,"Captain America",11,20.02,0
+1610,"Ironman",23.4,18,1
+1611,"Captain America",11,19.72,1
+1612,"Spiderman",24.01,14.6,0
+1613,"Captain America",10.7,16.82,0
+1614,"Ironman",22,17.1,1
+1615,"Spiderman",19.81,14.4,1
+1616,"Spiderman",27.51,13.7,1
+1617,"Captain America",10.9,16.72,0
+1618,"Ironman",24.5,17.1,0
+1619,"Captain America",10.4,16.42,0
+1620,"Captain America",10.2,16.12,1
+1621,"Captain America",11.3,18.12,0
+1622,"Captain America",11.4,17.22,1
+1623,"Spiderman",22.71,15.9,0
+1624,"Spiderman",26.61,16,0
+1625,"Spiderman",30.31,12.4,0
+1626,"Spiderman",17.61,12.5,0
+1627,"Spiderman",29.61,9.3,1
+1628,"Spiderman",25.31,14.8,1
+1629,"Ironman",23.2,17,1
+1630,"Captain America",11.4,21.62,0
+1631,"Captain America",10.6,16.92,1
+1632,"Spiderman",25.21,12.7,0
+1633,"Spiderman",15.01,14.5,0
+1634,"Spiderman",21.11,15.7,0
+1635,"Captain America",10.5,25.22,0
+1636,"Ironman",23.2,15.4,0
+1637,"Ironman",20.2,16.7,0
+1638,"Spiderman",27.91,14.5,0
+1639,"Spiderman",27.61,8.8,0
+1640,"Ironman",18.1,15.9,0
+1641,"Ironman",21.6,17.2,1
+1642,"Ironman",27.6,17.2,0
+1643,"Spiderman",18.61,13.6,1
+1644,"Spiderman",23.81,15.7,0
+1645,"Spiderman",18.01,10.8,1
+1646,"Captain America",10.8,17.02,1
+1647,"Ironman",21.2,16.4,1
+1648,"Spiderman",27.41,12.9,0
+1649,"Spiderman",22.31,15.4,0
+1650,"Captain America",10.2,15.32,0
+1651,"Ironman",22.8,16.9,0
+1652,"Spiderman",17.21,16.4,0
+1653,"Spiderman",22.81,11.3,0
+1654,"Captain America",10.4,17.72,0
+1655,"Spiderman",23.91,14.1,0
+1656,"Spiderman",31.81,13.2,1
+1657,"Captain America",10.5,20.82,0
+1658,"Spiderman",20.51,12.9,0
+1659,"Captain America",11.1,20.52,0
+1660,"Spiderman",22.41,14,0
+1661,"Captain America",10.9,20.32,0
+1662,"Spiderman",26.31,15.9,0
+1663,"Spiderman",19.91,16.3,0
+1664,"Spiderman",25.61,13.3,1
+1665,"Spiderman",30.11,14.3,0
+1666,"Ironman",23,16.9,0
+1667,"Captain America",10.8,17.92,0
+1668,"Captain America",10.7,19.02,1
+1669,"Spiderman",20.61,15.8,0
+1670,"Spiderman",22.81,16.4,0
+1671,"Spiderman",19.31,13.6,0
+1672,"Captain America",11.6,18.92,1
+1673,"Spiderman",27.01,12.4,0
+1674,"Captain America",10.9,16.42,1
+1675,"Ironman",22.7,16.5,1
+1676,"Captain America",11.8,17.42,1
+1677,"Captain America",10.7,17.42,0
+1678,"Captain America",10.7,15.92,0
+1679,"Captain America",10.9,19.62,0
+1680,"Captain America",10.5,22.42,0
+1681,"Ironman",26,17.3,1
+1682,"Ironman",23.8,16.7,0
+1683,"Ironman",20.4,18.1,0
+1684,"Captain America",11.7,20.22,0
+1685,"Spiderman",24.41,15.5,0
+1686,"Spiderman",32.61,14.2,0
+1687,"Ironman",23.4,17.2,0
+1688,"Spiderman",24.71,13.6,0
+1689,"Spiderman",24.91,13.4,0
+1690,"Ironman",21.7,16.3,0
+1691,"Captain America",10.4,20.02,0
+1692,"Captain America",11,21.62,0
+1693,"Spiderman",28.21,15.8,0
+1694,"Captain America",10.8,20.42,0
+1695,"Ironman",20.9,16.2,0
+1696,"Ironman",20.8,16.6,1
+1697,"Spiderman",19.91,15.1,0
+1698,"Spiderman",28.21,17.7,1
+1699,"Spiderman",21.81,16.4,0
+1700,"Spiderman",25.81,13.3,0
+1701,"Captain America",10.4,21.12,0
+1702,"Captain America",10.7,18.22,1
+1703,"Captain America",10.7,17.72,0
+1704,"Ironman",21.8,16.6,0
+1705,"Captain America",10.2,18.82,1
+1706,"Captain America",10.7,19.32,0
+1707,"Spiderman",21.21,16,0
+1708,"Spiderman",19.11,11.7,0
+1709,"Captain America",12,15.92,0
+1710,"Captain America",11.1,20.22,0
+1711,"Ironman",27.5,16.9,0
+1712,"Captain America",11.7,20.72,0
+1713,"Ironman",22.1,16,1
+1714,"Ironman",27.1,15.6,1
+1715,"Captain America",10.3,19.22,0
+1716,"Ironman",23.3,14.6,1
+1717,"Spiderman",23.01,16.8,0
+1718,"Spiderman",30.41,15.3,1
+1719,"Spiderman",28.01,14.4,0
+1720,"Spiderman",20.81,13.5,0
+1721,"Spiderman",23.91,15.8,0
+1722,"Captain America",11.4,17.42,1
+1723,"Captain America",10.6,16.82,0
+1724,"Ironman",22.6,15.3,1
+1725,"Spiderman",18.81,16.1,0
+1726,"Spiderman",31.51,14.6,0
+1727,"Spiderman",25.41,16.1,0
+1728,"Ironman",22.9,17.4,0
+1729,"Captain America",11.2,21.02,0
+1730,"Spiderman",25.81,13.9,1
+1731,"Captain America",11,17.02,0
+1732,"Captain America",10.5,25.52,1
+1733,"Spiderman",19.01,16.6,1
+1734,"Captain America",10.9,18.52,0
+1735,"Ironman",24.3,15.6,0
+1736,"Ironman",23.8,16,0
+1737,"Spiderman",24.31,13.9,0
+1738,"Spiderman",29.71,15.1,1
+1739,"Spiderman",19.31,14.2,1
+1740,"Captain America",11.2,20.52,0
+1741,"Captain America",10.6,18.12,0
+1742,"Captain America",11.3,19.82,1
+1743,"Ironman",23.9,15.2,1
+1744,"Ironman",24.5,15.4,0
+1745,"Ironman",22.7,17.9,1
+1746,"Spiderman",23.91,16.1,1
+1747,"Ironman",19.9,16.6,0
+1748,"Ironman",19.5,16.5,1
+1749,"Ironman",21,17.2,1
+1750,"Spiderman",28.11,14.1,1
+1751,"Captain America",11.7,17.02,0
+1752,"Ironman",25.9,16.4,0
+1753,"Ironman",24.8,17.5,0
+1754,"Ironman",25.6,18.3,1
+1755,"Spiderman",18.31,13.2,1
+1756,"Captain America",10.5,18.92,1
+1757,"Ironman",25.5,17.7,0
+1758,"Ironman",23,16,1
+1759,"Captain America",10.5,14.82,0
+1760,"Captain America",11.2,21.22,0
+1761,"Spiderman",23.51,15.8,0
+1762,"Spiderman",24.31,13.4,1
+1763,"Captain America",10.5,19.52,1
+1764,"Captain America",11.2,17.82,1
+1765,"Spiderman",27.21,11.1,0
+1766,"Ironman",24,17.2,1
+1767,"Ironman",27,16.2,0
+1768,"Captain America",10,15.82,1
+1769,"Ironman",24.4,14.8,0
+1770,"Ironman",23.3,16.6,1
+1771,"Captain America",11.3,21.12,0
+1772,"Spiderman",20.51,15.7,0
+1773,"Spiderman",23.61,16.5,0
+1774,"Spiderman",23.31,12.2,0
+1775,"Ironman",23.9,15.7,0
+1776,"Spiderman",23.11,16.6,0
+1777,"Spiderman",25.61,16,1
+1778,"Captain America",11.6,13.72,0
+1779,"Captain America",11.6,17.22,0
+1780,"Ironman",24.5,16.1,1
+1781,"Spiderman",27.71,13.2,1
+1782,"Ironman",23.9,16.7,1
+1783,"Captain America",11,19.12,0
+1784,"Ironman",20.7,18.3,1
+1785,"Spiderman",25.51,13.5,1
+1786,"Spiderman",24.31,15.6,0
+1787,"Captain America",11.1,18.12,1
+1788,"Captain America",11.2,19.92,0
+1789,"Ironman",18.7,15.9,1
+1790,"Spiderman",27.21,12.8,1
+1791,"Ironman",23,17.5,1
+1792,"Ironman",19.7,16.4,1
+1793,"Ironman",21.3,17.5,0
+1794,"Captain America",11,18.62,0
+1795,"Captain America",11.1,17.02,1
+1796,"Ironman",20.5,16.8,1
+1797,"Captain America",11.2,19.02,1
+1798,"Captain America",11.2,19.42,0
+1799,"Captain America",10.3,21.32,0
+1800,"Ironman",24.7,17.9,0
+1801,"Captain America",10.6,18.32,0
+1802,"Captain America",11.3,14.92,0
+1803,"Spiderman",21.31,13.6,0
+1804,"Ironman",24.8,17.4,0
+1805,"Captain America",11.3,15.62,1
+1806,"Spiderman",27.11,12.8,0
+1807,"Ironman",19.1,16.8,0
+1808,"Ironman",20.7,16.8,0
+1809,"Ironman",22.3,15,0
+1810,"Ironman",23.5,16.8,0
+1811,"Captain America",11.6,17.12,0
+1812,"Spiderman",35.71,16.1,0
+1813,"Ironman",18.5,17.2,0
+1814,"Spiderman",25.51,15.4,0
+1815,"Ironman",22.3,17.6,1
+1816,"Spiderman",27.21,15.2,0
+1817,"Captain America",11.1,17.72,0
+1818,"Spiderman",16.91,14.1,1
+1819,"Captain America",11.9,20.12,1
+1820,"Ironman",20.1,15.6,1
+1821,"Ironman",22.6,17.3,0
+1822,"Captain America",10.3,15.62,0
+1823,"Captain America",11.1,20.12,0
+1824,"Ironman",17.1,17.9,0
+1825,"Captain America",11.1,17.92,1
+1826,"Spiderman",24.51,15.5,0
+1827,"Ironman",19.5,15,0
+1828,"Captain America",10.4,16.52,0
+1829,"Captain America",11,21.62,0
+1830,"Captain America",11,20.72,0
+1831,"Ironman",22.4,16.9,1
+1832,"Captain America",10.8,20.92,0
+1833,"Captain America",12,19.32,0
+1834,"Spiderman",24.61,14.5,0
+1835,"Captain America",11.6,15.82,1
+1836,"Spiderman",21.31,13.7,1
+1837,"Ironman",27.1,16.2,0
+1838,"Spiderman",20.11,13.8,0
+1839,"Spiderman",21.81,10.7,1
+1840,"Ironman",22,18.4,0
+1841,"Spiderman",28.31,15.8,1
+1842,"Spiderman",26.41,14,1
+1843,"Captain America",11.1,15.32,0
+1844,"Captain America",10.3,19.02,0
+1845,"Ironman",21.6,17.1,1
+1846,"Ironman",22,17.7,0
+1847,"Ironman",23.8,16.6,1
+1848,"Captain America",12.1,17.12,0
+1849,"Ironman",22.2,16.4,0
+1850,"Spiderman",30.91,12.7,0
+1851,"Ironman",22.4,16.8,0
+1852,"Captain America",11.2,13.02,0
+1853,"Spiderman",28.81,12.1,1
+1854,"Ironman",28.1,17.5,1
+1855,"Captain America",10.5,18.32,0
+1856,"Spiderman",17.51,13.2,0
+1857,"Ironman",23.5,16.2,0
+1858,"Ironman",21.9,16.4,1
+1859,"Captain America",11,18.72,0
+1860,"Captain America",12,20.82,0
+1861,"Captain America",10.5,20.62,0
+1862,"Spiderman",31.81,16.3,0
+1863,"Captain America",10.8,17.12,0
+1864,"Spiderman",26.11,12.4,0
+1865,"Captain America",10.6,17.02,1
+1866,"Ironman",19.9,16.7,0
+1867,"Ironman",20.6,16,0
+1868,"Spiderman",26.81,15.3,0
+1869,"Spiderman",24.31,10.8,0
+1870,"Ironman",24.9,17.2,1
+1871,"Spiderman",21.21,13.3,1
+1872,"Captain America",11,18.92,0
+1873,"Captain America",10.7,19.72,1
+1874,"Spiderman",33.01,12.2,0
+1875,"Captain America",11.9,21.32,0
+1876,"Ironman",24.9,17.6,1
+1877,"Captain America",11.6,19.32,1
+1878,"Spiderman",25.11,14.7,1
+1879,"Captain America",11.5,20.52,1
+1880,"Ironman",24.9,17.4,0
+1881,"Captain America",11,17.22,0
+1882,"Captain America",11.6,20.12,0
+1883,"Spiderman",27.11,11.4,0
+1884,"Spiderman",25.51,12.9,0
+1885,"Spiderman",21.01,13.1,0
+1886,"Ironman",19.7,16.2,1
+1887,"Spiderman",26.71,13.7,1
+1888,"Captain America",11.5,21.32,0
+1889,"Spiderman",25.51,11.6,1
+1890,"Ironman",26.7,16.8,1
+1891,"Ironman",28.3,19.2,1
+1892,"Captain America",11,23.42,1
+1893,"Captain America",11.3,21.02,0
+1894,"Captain America",10.2,21.42,0
+1895,"Captain America",11.4,18.22,0
+1896,"Ironman",22.5,16.2,1
+1897,"Spiderman",28.61,14.9,0
+1898,"Ironman",19.7,16.1,1
+1899,"Ironman",22.8,16.6,0
+1900,"Captain America",10.2,17.22,1
+1901,"Captain America",11.1,16.52,0
+1902,"Captain America",11.2,13.72,0
+1903,"Ironman",22.9,17,1
+1904,"Captain America",11.9,20.92,0
+1905,"Captain America",11,18.82,1
+1906,"Captain America",11.1,19.72,0
+1907,"Ironman",22,17.7,1
+1908,"Ironman",22.3,16.8,0
+1909,"Captain America",10.5,22.42,1
+1910,"Spiderman",22.31,15.9,1
+1911,"Spiderman",27.91,11.9,0
+1912,"Spiderman",18.41,15.5,0
+1913,"Captain America",11.4,20.82,1
+1914,"Spiderman",24.91,12.8,0
+1915,"Spiderman",17.01,13.3,0
+1916,"Ironman",26,16.3,1
+1917,"Spiderman",24.41,15.4,0
+1918,"Ironman",21.8,17,0
+1919,"Ironman",22.9,15.9,1
+1920,"Spiderman",24.31,12.2,0
+1921,"Spiderman",26.61,12.8,0
+1922,"Ironman",22.4,15.6,0
+1923,"Ironman",23.9,17.2,0
+1924,"Ironman",20.8,17.8,1
+1925,"Captain America",10.6,19.62,0
+1926,"Ironman",21.5,17.5,0
+1927,"Spiderman",21.51,17.1,0
+1928,"Ironman",21.4,16.8,1
+1929,"Ironman",23.9,16.9,1
+1930,"Spiderman",21.61,15.1,0
+1931,"Captain America",11.2,19.82,0
+1932,"Captain America",10.5,18.02,0
+1933,"Captain America",11.1,16.52,0
+1934,"Captain America",10,19.82,0
+1935,"Spiderman",29.21,13.1,0
+1936,"Spiderman",21.11,15.3,1
+1937,"Ironman",24.1,17.1,1
+1938,"Ironman",21.8,16.9,0
+1939,"Spiderman",22.81,15.4,0
+1940,"Captain America",11.7,19.02,1
+1941,"Ironman",23.2,16.5,1
+1942,"Ironman",24.8,16.8,0
+1943,"Spiderman",27.41,15.2,1
+1944,"Captain America",12.2,17.62,0
+1945,"Spiderman",21.31,13,0
+1946,"Spiderman",21.21,15.5,1
+1947,"Ironman",20.8,16.6,1
+1948,"Ironman",21.3,17.6,1
+1949,"Ironman",24.7,15.8,0
+1950,"Spiderman",22.01,15,1
+1951,"Spiderman",29.81,18.5,1
+1952,"Ironman",24.4,15.3,0
+1953,"Spiderman",24.61,15.3,1
+1954,"Spiderman",18.51,13.9,0
+1955,"Spiderman",29.81,13.8,0
+1956,"Spiderman",27.81,16,0
+1957,"Captain America",11.8,20.12,1
+1958,"Captain America",10.8,17.52,0
+1959,"Spiderman",30.61,14.7,0
+1960,"Captain America",10.3,18.82,0
+1961,"Ironman",20,16,1
+1962,"Ironman",24.7,17.2,0
+1963,"Spiderman",24.01,12.2,1
+1964,"Captain America",10.8,19.92,1
+1965,"Captain America",11.6,18.62,0
+1966,"Ironman",29.9,16.9,0
+1967,"Captain America",11,18.92,1
+1968,"Captain America",11.4,17.92,0
+1969,"Ironman",21,17.2,0
+1970,"Ironman",25.4,17.5,0
+1971,"Ironman",26,17.5,1
+1972,"Captain America",11.3,19.52,0
+1973,"Captain America",10.3,18.32,0
+1974,"Ironman",23.2,15.5,0
+1975,"Captain America",10.3,17.52,1
+1976,"Spiderman",17.31,19.1,0
+1977,"Captain America",11.8,22.02,0
+1978,"Ironman",25.4,16.3,1
+1979,"Ironman",22.2,17.3,0
+1980,"Ironman",22.1,15,0
+1981,"Spiderman",23.31,15.2,0
+1982,"Spiderman",18.91,13.4,0
+1983,"Ironman",19.5,15.7,0
+1984,"Ironman",22.4,17.2,1
+1985,"Captain America",10.8,18.02,1
+1986,"Spiderman",21.61,10,1
+1987,"Ironman",23.3,16.4,0
+1988,"Captain America",10.6,21.12,1
+1989,"Spiderman",20.71,11.7,0
+1990,"Spiderman",28.01,15.9,0
+1991,"Spiderman",24.31,17.5,0
+1992,"Captain America",11.2,18.42,0
+1993,"Spiderman",31.01,16.4,0
+1994,"Captain America",11.3,21.82,0
+1995,"Captain America",11.4,17.92,0
+1996,"Spiderman",22.51,14.2,1
+1997,"Spiderman",31.31,12.2,0
+1998,"Captain America",10.6,20.72,0
+1999,"Spiderman",23.61,14.7,1
+2000,"Captain America",11.2,21.72,1
+2001,"Captain America",10.9,16.42,1
+2002,"Spiderman",23.01,13.4,0
+2003,"Captain America",10.6,20.82,1
+2004,"Spiderman",27.11,10.8,0
+2005,"Spiderman",24.91,12.8,0
+2006,"Spiderman",17.51,15.1,0
+2007,"Captain America",10.8,17.42,1
+2008,"Ironman",24.7,17.2,1
+2009,"Spiderman",32.21,14.2,0
+2010,"Ironman",21.2,16.6,1
+2011,"Spiderman",30.01,9.1,0
+2012,"Spiderman",20.01,13,0
+2013,"Spiderman",21.71,15.6,1
+2014,"Spiderman",19.41,17.9,0
+2015,"Spiderman",27.31,9.4,0
+2016,"Captain America",10.6,16.32,0
+2017,"Ironman",19.9,15.9,0
+2018,"Captain America",10.5,12.92,1
+2019,"Captain America",11.9,19.72,0
+2020,"Spiderman",21.61,16.2,1
+2021,"Captain America",11.6,16.32,0
+2022,"Captain America",10.7,19.92,0
+2023,"Ironman",23.6,16.7,0
+2024,"Captain America",10.4,18.52,0
+2025,"Ironman",23.5,17.4,0
+2026,"Ironman",22.8,16.5,0
+2027,"Captain America",11.6,18.12,0
+2028,"Captain America",10.9,19.42,1
+2029,"Spiderman",26.11,14.1,1
+2030,"Spiderman",26.61,9.5,0
+2031,"Captain America",11.6,21.82,0
+2032,"Captain America",11,18.02,0
+2033,"Ironman",20.3,17,0
+2034,"Spiderman",25.41,11.5,0
+2035,"Spiderman",35.21,13,0
+2036,"Ironman",20.3,17,1
+2037,"Captain America",11.4,18.62,0
+2038,"Ironman",21.7,17.3,1
+2039,"Captain America",12,17.72,0
+2040,"Captain America",10.7,16.12,1
+2041,"Captain America",11.5,14.02,0
+2042,"Captain America",11.4,16.82,0
+2043,"Spiderman",29.81,12.8,1
+2044,"Captain America",11,23.72,1
+2045,"Spiderman",26.51,18,0
+2046,"Captain America",10.5,21.12,0
+2047,"Ironman",25.1,17.3,0
+2048,"Captain America",11.1,17.72,1
+2049,"Ironman",26,15.2,0
+2050,"Spiderman",32.31,11.5,0
+2051,"Captain America",11.4,17.82,1
+2052,"Spiderman",22.01,12.3,1
+2053,"Captain America",11.6,19.52,1
+2054,"Ironman",23,16.1,0
+2055,"Captain America",10.6,16.02,0
+2056,"Captain America",11.5,17.72,0
+2057,"Ironman",23.3,15.1,0
+2058,"Spiderman",20.61,12.4,0
+2059,"Captain America",10.5,17.92,0
+2060,"Spiderman",24.51,15.8,0
+2061,"Captain America",11.1,16.62,0
+2062,"Captain America",10.9,12.72,1
+2063,"Captain America",11.4,22.12,0
+2064,"Captain America",10.5,17.92,0
+2065,"Captain America",10.6,17.92,1
+2066,"Ironman",26.2,18.2,0
+2067,"Captain America",11,23.92,0
+2068,"Ironman",22.3,17,1
+2069,"Spiderman",23.61,11.6,1
+2070,"Ironman",29.1,19,0
+2071,"Captain America",11.3,17.12,0
+2072,"Spiderman",28.11,10.6,0
+2073,"Captain America",10.7,22.52,0
+2074,"Spiderman",18.91,18.1,0
+2075,"Ironman",22.5,17.8,0
+2076,"Spiderman",23.01,14.1,0
+2077,"Captain America",11.1,16.22,1
+2078,"Spiderman",27.51,16.2,0
+2079,"Spiderman",24.81,18.5,0
+2080,"Captain America",10.3,17.62,1
+2081,"Ironman",24,16.8,1
+2082,"Spiderman",20.81,15.2,0
+2083,"Spiderman",28.61,15.1,0
+2084,"Ironman",24.3,17.4,0
+2085,"Ironman",21.7,15.1,0
+2086,"Ironman",20,16.5,1
+2087,"Captain America",10.5,20.52,1
+2088,"Ironman",20.3,17.5,0
+2089,"Ironman",24.1,16.4,0
+2090,"Ironman",22.9,16,1
+2091,"Spiderman",28.31,11.7,0
+2092,"Ironman",23,16.6,1
+2093,"Captain America",10.9,18.32,1
+2094,"Captain America",10.4,16.32,0
+2095,"Captain America",10.7,19.52,1
+2096,"Spiderman",24.61,13.4,0
+2097,"Spiderman",25.31,15.5,0
+2098,"Ironman",23,17.1,0
+2099,"Captain America",10.6,17.62,1
+2100,"Captain America",11.7,17.22,1
+2101,"Captain America",11,22.92,0
+2102,"Ironman",20,17.9,0
+2103,"Ironman",27.1,16.2,0
+2104,"Ironman",24,17.4,1
+2105,"Spiderman",17.81,13.4,0
+2106,"Ironman",22,17.9,0
+2107,"Ironman",25.6,16.8,0
+2108,"Spiderman",25.71,17.2,0
+2109,"Ironman",22.9,17,0
+2110,"Ironman",22.7,17.6,0
+2111,"Spiderman",28.01,11.4,1
+2112,"Captain America",11.1,20.72,0
+2113,"Ironman",19.4,17.9,0
+2114,"Spiderman",25.51,11.6,0
+2115,"Ironman",20.2,16.4,0
+2116,"Captain America",11.6,20.52,1
+2117,"Ironman",24.3,18.5,0
+2118,"Ironman",21.6,17.3,1
+2119,"Spiderman",23.21,15.2,0
+2120,"Ironman",24,16.9,1
+2121,"Spiderman",21.61,11.6,0
+2122,"Captain America",9.5,17.12,0
+2123,"Ironman",24.2,15.6,0
+2124,"Spiderman",21.21,8,0
+2125,"Spiderman",29.51,13.7,0
+2126,"Captain America",11.2,21.42,0
+2127,"Ironman",21.9,17.4,1
+2128,"Captain America",10.5,18.52,1
+2129,"Spiderman",30.41,12.1,0
+2130,"Ironman",24.5,18.2,0
+2131,"Ironman",21.6,17.2,0
+2132,"Captain America",11.2,24.52,0
+2133,"Ironman",23.7,16.6,1
+2134,"Spiderman",17.01,13.6,1
+2135,"Spiderman",28.61,17.3,1
+2136,"Spiderman",23.01,13.9,1
+2137,"Spiderman",26.51,13.6,0
+2138,"Ironman",21.7,17.2,0
+2139,"Captain America",11.4,23.12,0
+2140,"Spiderman",22.61,12.5,1
+2141,"Ironman",21.9,18.1,0
+2142,"Ironman",24.3,17.2,1
+2143,"Spiderman",15.61,16.2,1
+2144,"Captain America",11.2,21.02,0
+2145,"Ironman",26.6,19,0
+2146,"Spiderman",27.51,14.6,0
+2147,"Spiderman",17.71,10.3,1
+2148,"Spiderman",35.31,15.2,0
+2149,"Spiderman",24.41,17.3,0
+2150,"Spiderman",24.61,17.8,1
+2151,"Spiderman",17.11,16.6,0
+2152,"Captain America",10.7,21.62,0
+2153,"Spiderman",22.11,16.6,1
+2154,"Captain America",11.7,18.42,1
+2155,"Spiderman",13.31,16.2,1
+2156,"Spiderman",33.01,13.7,0
+2157,"Captain America",11,16.52,1
+2158,"Spiderman",21.91,10.2,0
+2159,"Captain America",10.6,16.72,0
+2160,"Captain America",10.7,17.72,1
+2161,"Spiderman",27.61,10.7,1
+2162,"Captain America",10.1,14.92,0
+2163,"Captain America",10.6,15.72,0
+2164,"Captain America",11.2,14.72,0
+2165,"Spiderman",24.81,16.5,1
+2166,"Captain America",10.9,15.52,1
+2167,"Captain America",9.8,18.02,1
+2168,"Spiderman",24.01,12.2,1
+2169,"Ironman",24.4,15,0
+2170,"Captain America",10.1,19.42,0
+2171,"Captain America",11.6,16.02,1
+2172,"Spiderman",18.21,15.2,0
+2173,"Spiderman",20.01,11.4,0
+2174,"Spiderman",22.41,12.9,1
+2175,"Spiderman",20.61,13.2,1
+2176,"Captain America",10.6,20.42,0
+2177,"Captain America",10.8,21.02,1
+2178,"Captain America",11,21.12,0
+2179,"Captain America",10.6,15.32,0
+2180,"Captain America",11.2,18.92,0
+2181,"Ironman",25.3,17.5,0
+2182,"Ironman",21.2,16.7,0
+2183,"Ironman",22.1,16.4,0
+2184,"Captain America",11.6,17.42,0
+2185,"Spiderman",26.91,12,0
+2186,"Captain America",10.4,16.92,0
+2187,"Captain America",11,20.42,1
+2188,"Ironman",19.9,16.2,0
+2189,"Captain America",10,15.52,0
+2190,"Captain America",10.5,16.42,1
+2191,"Captain America",10.2,19.22,1
+2192,"Ironman",23.3,17.4,1
+2193,"Spiderman",24.61,13.2,0
+2194,"Captain America",11.8,22.52,0
+2195,"Spiderman",21.11,12.2,0
+2196,"Captain America",9.9,19.62,1
+2197,"Spiderman",29.91,14,0
+2198,"Captain America",10.2,17.92,0
+2199,"Ironman",22.4,17.1,0
+2200,"Ironman",22.5,16,1
+2201,"Spiderman",25.51,13.3,1
+2202,"Ironman",25.6,17.4,1
+2203,"Ironman",21.5,17.4,1
+2204,"Captain America",10.2,18.52,0
+2205,"Captain America",10.3,14.42,0
+2206,"Captain America",12,18.22,0
+2207,"Captain America",11.1,19.92,0
+2208,"Spiderman",23.61,17.2,0
+2209,"Spiderman",27.81,15.8,0
+2210,"Captain America",10.4,17.32,0
+2211,"Ironman",21.6,17.7,0
+2212,"Spiderman",21.51,15.5,0
+2213,"Ironman",21.5,16.6,0
+2214,"Ironman",21.1,17,1
+2215,"Spiderman",22.21,13.9,1
+2216,"Spiderman",22.91,11.6,1
+2217,"Captain America",10.4,16.72,0
+2218,"Captain America",10.3,25.12,0
+2219,"Captain America",10.7,19.92,0
+2220,"Ironman",24,16.4,0
+2221,"Ironman",23.3,16.3,1
+2222,"Spiderman",18.71,11.9,0
+2223,"Captain America",11.7,16.72,0
+2224,"Ironman",22.7,16.5,0
+2225,"Spiderman",30.31,14.9,0
+2226,"Captain America",10.6,18.02,0
+2227,"Spiderman",20.01,11,0
+2228,"Captain America",11.6,21.12,1
+2229,"Ironman",22,17.2,0
+2230,"Spiderman",24.61,14.5,1
+2231,"Spiderman",24.41,15.4,0
+2232,"Ironman",26.8,16.5,0
+2233,"Ironman",21.2,17.4,0
+2234,"Captain America",10.4,22.22,0
+2235,"Ironman",23.6,17,0
+2236,"Spiderman",27.21,13.2,0
+2237,"Spiderman",16.41,15.9,0
+2238,"Ironman",23.3,14.9,1
+2239,"Captain America",10.7,16.62,0
+2240,"Spiderman",26.21,12.8,0
+2241,"Spiderman",27.81,12.2,0
+2242,"Captain America",11,19.92,1
+2243,"Ironman",24.1,17.3,0
+2244,"Ironman",20.6,17.4,1
+2245,"Spiderman",30.71,12.9,0
+2246,"Ironman",21.7,17.2,0
+2247,"Captain America",10.3,18.82,0
+2248,"Ironman",21.6,17.4,1
+2249,"Ironman",22,17.3,0
+2250,"Captain America",10.8,24.52,1
+2251,"Ironman",24.6,15.8,0
+2252,"Ironman",24.4,17.5,0
+2253,"Spiderman",32.71,15.8,0
+2254,"Captain America",10.8,18.92,0
+2255,"Ironman",21.6,17.7,0
+2256,"Captain America",11.6,17.82,1
+2257,"Ironman",24.5,16.2,0
+2258,"Spiderman",24.31,15.7,0
+2259,"Ironman",23.2,17.5,1
+2260,"Ironman",22.8,17.8,1
+2261,"Spiderman",28.11,14.9,0
+2262,"Ironman",21,16.6,0
+2263,"Spiderman",24.11,12.1,0
+2264,"Spiderman",22.01,13,0
+2265,"Ironman",24.9,15.5,0
+2266,"Ironman",21.6,17,0
+2267,"Captain America",12.2,19.52,1
+2268,"Spiderman",23.41,14.9,1
+2269,"Spiderman",20.81,11.7,1
+2270,"Ironman",22.9,16.3,0
+2271,"Spiderman",29.51,14.1,0
+2272,"Ironman",27,15.8,1
+2273,"Ironman",25,17.4,1
+2274,"Captain America",11.3,17.32,0
+2275,"Captain America",10.3,14.32,1
+2276,"Captain America",10.7,20.12,1
+2277,"Ironman",24.5,16.3,0
+2278,"Captain America",10.7,19.42,0
+2279,"Ironman",26.1,15.2,1
+2280,"Spiderman",23.61,12.5,0
+2281,"Spiderman",17.41,14.5,0
+2282,"Ironman",20.7,16.7,1
+2283,"Captain America",9.9,17.92,0
+2284,"Spiderman",30.51,15.2,0
+2285,"Spiderman",24.31,14.1,0
+2286,"Spiderman",30.21,15.2,0
+2287,"Captain America",10.3,18.42,0
+2288,"Captain America",10.3,16.22,1
+2289,"Ironman",24.5,15.9,0
+2290,"Ironman",20,16.2,1
+2291,"Captain America",10.9,18.72,0
+2292,"Captain America",11.5,19.02,1
+2293,"Spiderman",22.41,12.7,1
+2294,"Spiderman",26.81,16.8,1
+2295,"Spiderman",25.71,17.6,0
+2296,"Captain America",10.5,15.02,1
+2297,"Spiderman",22.61,16.2,0
+2298,"Captain America",11.1,14.72,1
+2299,"Captain America",11.4,17.02,0
+2300,"Captain America",10.8,20.02,1
+2301,"Spiderman",20.51,12.4,1
+2302,"Ironman",26.5,16.4,1
+2303,"Captain America",10.5,19.62,0
+2304,"Spiderman",28.41,9.9,0
+2305,"Ironman",24.8,16.7,0
+2306,"Captain America",10.7,17.72,1
+2307,"Spiderman",19.61,12.3,0
+2308,"Captain America",11.5,21.52,1
+2309,"Spiderman",23.31,13.7,0
+2310,"Captain America",10.2,20.82,1
+2311,"Ironman",24.6,16,0
+2312,"Captain America",10.9,18.82,0
+2313,"Captain America",10.8,17.22,0
+2314,"Spiderman",24.91,12.6,1
+2315,"Spiderman",19.21,14.6,0
+2316,"Ironman",17.6,17.7,1
+2317,"Ironman",22.7,16.1,1
+2318,"Ironman",23.4,16.3,1
+2319,"Captain America",11.6,17.32,0
+2320,"Ironman",25.5,18.4,0
+2321,"Spiderman",26.71,11.5,0
+2322,"Spiderman",25.81,14.7,0
+2323,"Captain America",10.3,17.62,1
+2324,"Ironman",23.1,17.9,0
+2325,"Spiderman",28.61,13.7,1
+2326,"Spiderman",21.61,13.3,1
+2327,"Ironman",22.6,16.7,0
+2328,"Captain America",10.8,18.42,0
+2329,"Captain America",12.1,20.02,0
+2330,"Captain America",11.2,18.02,0
+2331,"Captain America",11.2,20.72,1
+2332,"Spiderman",23.81,15.2,1
+2333,"Captain America",11.3,23.32,0
+2334,"Ironman",19.4,16.6,1
+2335,"Captain America",10.6,15.32,1
+2336,"Captain America",10.9,22.92,0
+2337,"Spiderman",25.41,13.3,0
+2338,"Ironman",20.4,16.5,0
+2339,"Ironman",26.4,16.8,1
+2340,"Spiderman",27.61,17.6,0
+2341,"Captain America",11.5,17.42,0
+2342,"Spiderman",26.71,12.5,0
+2343,"Captain America",10.9,23.32,0
+2344,"Ironman",22.4,16.9,0
+2345,"Captain America",10.9,21.22,0
+2346,"Spiderman",29.81,11.3,0
+2347,"Captain America",10.5,18.72,0
+2348,"Ironman",25.6,16.4,1
+2349,"Spiderman",18.31,13,0
+2350,"Spiderman",19.41,13.4,1
+2351,"Ironman",16,17,0
+2352,"Spiderman",20.01,14.9,0
+2353,"Captain America",11.1,16.42,0
+2354,"Spiderman",23.21,14.9,0
+2355,"Ironman",23.8,16.2,1
+2356,"Captain America",11.8,12.12,1
+2357,"Ironman",20.1,16.8,0
+2358,"Ironman",23.1,17.5,0
+2359,"Captain America",10.4,15.62,0
+2360,"Ironman",21.9,15.9,1
+2361,"Ironman",23,17.6,0
+2362,"Spiderman",20.91,7.9,0
+2363,"Ironman",23.5,17.4,0
+2364,"Spiderman",28.01,17,0
+2365,"Captain America",11.1,15.52,0
+2366,"Ironman",24.6,17.4,1
+2367,"Captain America",10.4,19.32,0
+2368,"Ironman",26.6,17.4,0
+2369,"Spiderman",27.61,12.7,0
+2370,"Captain America",11.1,17.22,1
+2371,"Spiderman",20.21,12.5,1
+2372,"Ironman",25.2,16.7,0
+2373,"Captain America",11.3,17.72,1
+2374,"Captain America",11.7,21.22,0
+2375,"Spiderman",22.51,12.4,0
+2376,"Captain America",11.1,21.52,1
+2377,"Ironman",23.9,15.5,1
+2378,"Captain America",10.9,15.62,0
+2379,"Captain America",11.4,20.12,0
+2380,"Captain America",10.8,16.92,0
+2381,"Captain America",11.2,17.32,0
+2382,"Ironman",23.2,16.1,1
+2383,"Ironman",21.4,18.7,0
+2384,"Ironman",23.6,17.3,1
+2385,"Spiderman",22.51,15.5,0
+2386,"Captain America",12.3,17.52,1
+2387,"Captain America",9.7,16.92,1
+2388,"Ironman",23.9,18.1,1
+2389,"Spiderman",27.71,12.5,0
+2390,"Ironman",21.4,16.2,1
+2391,"Captain America",11.6,17.32,0
+2392,"Ironman",24.7,16.3,1
+2393,"Ironman",21.1,15.5,1
+2394,"Spiderman",25.61,12.5,0
+2395,"Captain America",11.3,22.52,0
+2396,"Captain America",10.4,21.92,1
+2397,"Ironman",26.6,16,1
+2398,"Captain America",10.8,22.22,0
+2399,"Captain America",11,20.02,0
+2400,"Captain America",10.8,17.42,0
+2401,"Spiderman",21.71,13.7,0
+2402,"Ironman",23.7,16.6,0
+2403,"Spiderman",21.51,11.1,0
+2404,"Ironman",21.7,17.1,1
+2405,"Captain America",10.2,15.32,0
+2406,"Ironman",20.3,16.4,1
+2407,"Captain America",10.7,14.62,0
+2408,"Ironman",24,16.1,1
+2409,"Spiderman",21.41,13.7,1
+2410,"Ironman",25.4,16.9,1
+2411,"Spiderman",24.41,13.8,1
+2412,"Captain America",11.3,19.42,0
+2413,"Spiderman",31.71,9.6,0
+2414,"Spiderman",29.81,12,1
+2415,"Spiderman",30.01,16.4,1
+2416,"Captain America",11.1,16.32,0
+2417,"Spiderman",25.41,16.4,0
+2418,"Spiderman",26.41,13.4,0
+2419,"Spiderman",24.41,13.4,1
+2420,"Ironman",24.7,17.3,0
+2421,"Captain America",11.2,17.42,1
+2422,"Captain America",11.4,16.82,1
+2423,"Spiderman",19.81,15.4,0
+2424,"Spiderman",18.21,14.5,1
+2425,"Captain America",11.1,18.62,0
+2426,"Ironman",24.7,18.4,0
+2427,"Ironman",22.4,18.1,1
+2428,"Ironman",19.7,17.3,0
+2429,"Captain America",11.1,22.62,0
+2430,"Ironman",23,17,1
+2431,"Ironman",23.3,17.8,0
+2432,"Captain America",11.9,17.42,1
+2433,"Ironman",22.6,17.3,0
+2434,"Spiderman",31.41,15.9,1
+2435,"Ironman",24.3,16.7,1
+2436,"Captain America",11.8,16.52,1
+2437,"Spiderman",27.11,14.1,0
+2438,"Spiderman",30.11,12.1,1
+2439,"Captain America",10.6,19.92,1
+2440,"Ironman",23.6,16.6,0
+2441,"Ironman",19.7,17.2,1
+2442,"Spiderman",25.01,14.9,1
+2443,"Captain America",11.2,15.32,1
+2444,"Spiderman",23.71,14,1
+2445,"Ironman",19.2,15.6,1
+2446,"Spiderman",27.71,19.2,0
+2447,"Spiderman",25.31,14.3,0
+2448,"Ironman",23.3,17,1
+2449,"Spiderman",25.71,14.8,0
+2450,"Spiderman",29.41,9.8,0
+2451,"Captain America",11.5,21.32,0
+2452,"Ironman",20.2,16.8,0
+2453,"Spiderman",19.91,14.6,1
+2454,"Captain America",10.3,18.32,0
+2455,"Captain America",11.1,22.12,0
+2456,"Ironman",20.4,16.3,1
+2457,"Ironman",24.6,17.3,1
+2458,"Ironman",20.3,18.2,1
+2459,"Ironman",21.5,19.2,0
+2460,"Captain America",10.6,20.02,1
+2461,"Captain America",10.4,19.02,1
+2462,"Captain America",11.4,20.42,1
+2463,"Captain America",11.9,20.62,0
+2464,"Spiderman",23.11,15.7,1
+2465,"Spiderman",21.51,14.3,0
+2466,"Captain America",11.2,15.12,1
+2467,"Captain America",11,16.12,1
+2468,"Ironman",24.3,18.4,0
+2469,"Captain America",11,15.82,0
+2470,"Captain America",10.2,21.12,0
+2471,"Captain America",11,16.22,0
+2472,"Spiderman",24.21,11.9,0
+2473,"Ironman",23.5,17.2,1
+2474,"Spiderman",26.81,11.5,1
+2475,"Captain America",10.8,17.62,1
+2476,"Ironman",25.9,17,0
+2477,"Captain America",10.9,21.12,0
+2478,"Captain America",11.3,20.22,0
+2479,"Spiderman",27.31,14.7,0
+2480,"Captain America",10,19.92,0
+2481,"Ironman",24.5,16.9,1
+2482,"Captain America",10.6,17.52,0
+2483,"Captain America",10.8,19.92,0
+2484,"Spiderman",28.81,11.9,0
+2485,"Ironman",22.1,15.4,1
+2486,"Spiderman",19.51,11.4,0
+2487,"Ironman",22.3,16.7,0
+2488,"Captain America",10.6,17.32,0
+2489,"Captain America",10.7,16.52,0
+2490,"Spiderman",33.21,15.6,1
+2491,"Ironman",23.6,15.8,1
+2492,"Spiderman",23.51,15.3,1
+2493,"Spiderman",33.01,12.5,0
+2494,"Spiderman",26.91,15,0
+2495,"Spiderman",24.51,15.3,0
+2496,"Ironman",22.7,17.6,1
+2497,"Captain America",9.9,19.02,0
+2498,"Captain America",11,21.12,1
+2499,"Ironman",25.9,15.7,1
+2500,"Spiderman",21.31,12.3,1
+2501,"Spiderman",31.41,11.1,0
+2502,"Captain America",10.6,19.92,0
+2503,"Captain America",10.6,16.82,1
+2504,"Ironman",24.9,17.6,0
+2505,"Spiderman",24.21,10.7,0
+2506,"Captain America",10.9,18.42,1
+2507,"Ironman",21.8,16.2,0
+2508,"Spiderman",23.81,9.6,0
+2509,"Captain America",10,19.22,0
+2510,"Spiderman",29.91,11.2,1
+2511,"Captain America",10.4,23.52,1
+2512,"Captain America",10.7,19.62,0
+2513,"Ironman",24.7,18.7,0
+2514,"Captain America",11.3,20.52,0
+2515,"Captain America",10.8,19.32,0
+2516,"Captain America",11.1,20.72,0
+2517,"Spiderman",25.91,15.2,1
+2518,"Spiderman",28.41,16.4,0
+2519,"Ironman",21.8,17,1
+2520,"Ironman",25.6,17.5,0
+2521,"Spiderman",22.11,11.6,0
+2522,"Ironman",23.7,16.2,0
+2523,"Spiderman",22.91,9,1
+2524,"Ironman",29.3,15.3,0
+2525,"Captain America",11.5,17.32,0
+2526,"Spiderman",25.51,15.9,1
+2527,"Ironman",20.5,17.4,0
+2528,"Ironman",24.6,16.8,0
+2529,"Captain America",12.2,19.62,1
+2530,"Spiderman",24.21,13.8,1
+2531,"Captain America",10.8,18.42,1
+2532,"Captain America",10.4,17.72,0
+2533,"Ironman",20.6,17.2,0
+2534,"Ironman",26.5,16.9,0
+2535,"Captain America",10.9,20.12,1
+2536,"Captain America",11.3,20.42,0
+2537,"Ironman",20.8,16.8,1
+2538,"Captain America",10.6,22.92,0
+2539,"Ironman",20.4,16.1,1
+2540,"Captain America",11.2,15.02,0
+2541,"Ironman",23.8,16.9,0
+2542,"Spiderman",20.01,11,1
+2543,"Captain America",9.3,19.92,1
+2544,"Spiderman",22.21,14.7,1
+2545,"Captain America",11.1,20.62,0
+2546,"Spiderman",26.91,14.5,0
+2547,"Spiderman",22.01,14.8,0
+2548,"Ironman",23.1,15.9,0
+2549,"Captain America",11.2,18.62,0
+2550,"Ironman",17.6,16.4,0
+2551,"Spiderman",20.11,15.5,0
+2552,"Captain America",10.7,21.02,1
+2553,"Captain America",11,17.22,0
+2554,"Ironman",23.8,16,0
+2555,"Spiderman",25.01,16.1,0
+2556,"Captain America",10.9,16.42,0
+2557,"Captain America",10.5,18.42,0
+2558,"Ironman",22.8,18.1,0
+2559,"Captain America",11.3,17.72,0
+2560,"Ironman",21.3,16.1,1
+2561,"Captain America",10.5,19.02,1
+2562,"Spiderman",25.71,14.5,1
+2563,"Spiderman",26.81,12.5,0
+2564,"Spiderman",27.11,15.5,0
+2565,"Spiderman",25.61,15.3,1
+2566,"Captain America",10,16.52,0
+2567,"Spiderman",20.01,12.4,0
+2568,"Spiderman",23.71,14.5,1
+2569,"Ironman",22.8,16.2,1
+2570,"Captain America",10.6,18.52,0
+2571,"Spiderman",19.21,16.1,0
+2572,"Captain America",10.6,20.22,0
+2573,"Captain America",11.1,16.22,0
+2574,"Spiderman",19.61,16.4,0
+2575,"Ironman",25,17.9,1
+2576,"Captain America",11.1,18.82,0
+2577,"Spiderman",21.11,16.8,1
+2578,"Ironman",25.1,16.6,0
+2579,"Spiderman",29.01,12.1,0
+2580,"Captain America",10.7,18.82,0
+2581,"Spiderman",18.31,13,0
+2582,"Spiderman",29.61,13.8,0
+2583,"Spiderman",21.71,11.2,1
+2584,"Ironman",20.1,17.5,0
+2585,"Spiderman",29.41,15.5,0
+2586,"Spiderman",28.41,18.7,0
+2587,"Captain America",10.6,17.72,0
+2588,"Captain America",12,16.92,1
+2589,"Ironman",24.7,17.8,0
+2590,"Captain America",11.4,16.62,0
+2591,"Ironman",25.2,16.3,1
+2592,"Ironman",23.3,16.4,1
+2593,"Spiderman",21.61,13.2,0
+2594,"Captain America",10.7,17.42,0
+2595,"Captain America",10.5,19.82,0
+2596,"Spiderman",30.61,12.8,0
+2597,"Ironman",25.6,17.7,0
+2598,"Ironman",21.2,16.9,1
+2599,"Ironman",26.4,16.9,0
+2600,"Spiderman",29.41,15.7,1
+2601,"Spiderman",25.21,13.2,0
+2602,"Spiderman",22.61,12.3,0
+2603,"Captain America",10.3,20.82,0
+2604,"Spiderman",22.81,13.9,0
+2605,"Ironman",23.9,15.5,0
+2606,"Captain America",11,19.82,0
+2607,"Captain America",10.7,22.32,0
+2608,"Captain America",11.2,15.52,1
+2609,"Captain America",10.9,20.72,0
+2610,"Ironman",24,15.9,0
+2611,"Captain America",11.5,15.42,1
+2612,"Captain America",11.1,15.82,1
+2613,"Captain America",10.5,18.42,1
+2614,"Ironman",26.3,15.8,0
+2615,"Captain America",10.9,18.92,0
+2616,"Ironman",28.6,16.6,1
+2617,"Captain America",9.7,18.22,1
+2618,"Ironman",22.8,17.6,0
+2619,"Captain America",11.7,23.42,0
+2620,"Captain America",11.3,20.82,0
+2621,"Ironman",23.1,16.3,1
+2622,"Spiderman",20.51,13.5,0
+2623,"Spiderman",28.51,14.7,0
+2624,"Ironman",26.1,16.9,0
+2625,"Ironman",22.8,15.7,0
+2626,"Captain America",11,20.22,0
+2627,"Spiderman",27.21,12.6,1
+2628,"Captain America",11.2,20.12,0
+2629,"Captain America",11.3,16.52,0
+2630,"Captain America",11.6,14.32,1
+2631,"Spiderman",25.51,17.2,1
+2632,"Ironman",22.7,16.2,0
+2633,"Captain America",11.3,16.32,0
+2634,"Ironman",23.1,16.5,1
+2635,"Captain America",10.6,14.42,0
+2636,"Spiderman",26.21,12,0
+2637,"Ironman",25.2,16.6,1
+2638,"Ironman",21.9,16.4,1
+2639,"Spiderman",23.01,14.5,1
+2640,"Ironman",19.9,16.1,1
+2641,"Spiderman",29.31,15.5,0
+2642,"Spiderman",26.81,14.4,0
+2643,"Ironman",22.9,16.4,1
+2644,"Spiderman",18.71,16.8,1
+2645,"Spiderman",28.71,13.3,1
+2646,"Captain America",10.6,17.22,0
+2647,"Captain America",10.5,14.02,1
+2648,"Captain America",11.1,17.32,0
+2649,"Captain America",11,19.22,0
+2650,"Captain America",11.3,19.22,1
+2651,"Captain America",10,15.72,0
+2652,"Spiderman",20.01,14.5,0
+2653,"Captain America",10.8,19.62,0
+2654,"Ironman",21.9,18.5,1
+2655,"Ironman",21.4,16,1
+2656,"Captain America",10.4,17.72,0
+2657,"Captain America",11,15.12,0
+2658,"Spiderman",20.01,18,0
+2659,"Ironman",24.4,16.8,0
+2660,"Ironman",28.7,15.9,0
+2661,"Spiderman",25.21,12.6,0
+2662,"Captain America",10.5,11.12,0
+2663,"Captain America",11.8,19.62,1
+2664,"Ironman",24.1,18.3,1
+2665,"Captain America",10.8,17.62,1
+2666,"Captain America",10.5,19.92,0
+2667,"Ironman",17.7,16.4,1
+2668,"Captain America",10.6,19.52,1
+2669,"Ironman",19,16.3,0
+2670,"Spiderman",29.61,15.7,0
+2671,"Ironman",18.7,16.8,1
+2672,"Captain America",11.7,18.92,0
+2673,"Spiderman",25.71,14.9,0
+2674,"Captain America",11.4,14.22,1
+2675,"Spiderman",18.81,13.7,0
+2676,"Ironman",22.5,17,0
+2677,"Ironman",20.5,16.8,0
+2678,"Captain America",11.2,16.12,0
+2679,"Spiderman",25.81,14,1
+2680,"Captain America",11.3,20.12,0
+2681,"Spiderman",23.71,13.4,0
+2682,"Ironman",21.8,16.1,0
+2683,"Ironman",20.4,16.7,0
+2684,"Ironman",26,17.4,0
+2685,"Spiderman",27.21,17.8,1
+2686,"Ironman",24.4,17.1,0
+2687,"Captain America",10.8,14.82,0
+2688,"Ironman",21.2,17.8,1
+2689,"Spiderman",23.81,16.5,1
+2690,"Captain America",10.2,16.62,0
+2691,"Captain America",10.3,16.52,0
+2692,"Captain America",10,18.12,1
+2693,"Captain America",10.8,19.32,0
+2694,"Ironman",18.9,17.1,0
+2695,"Captain America",11,24.62,0
+2696,"Ironman",22.3,15.7,0
+2697,"Captain America",10.6,21.12,0
+2698,"Captain America",11.3,17.72,1
+2699,"Ironman",23.4,16,1
+2700,"Spiderman",21.11,13.1,0
+2701,"Spiderman",24.01,12,0
+2702,"Spiderman",16.61,11.6,1
+2703,"Captain America",10.8,20.22,0
+2704,"Spiderman",30.11,15.5,0
+2705,"Spiderman",22.61,11.9,0
+2706,"Ironman",24.8,16,1
+2707,"Ironman",23.1,17.7,1
+2708,"Spiderman",22.51,15.4,1
+2709,"Captain America",11.4,17.32,0
+2710,"Spiderman",29.81,14.9,1
+2711,"Spiderman",23.71,12.6,1
+2712,"Captain America",11.6,20.32,0
+2713,"Spiderman",18.41,12,1
+2714,"Ironman",22.8,15.5,0
+2715,"Captain America",10.9,19.42,0
+2716,"Ironman",25.9,16.5,0
+2717,"Captain America",11.2,17.72,1
+2718,"Captain America",10.6,19.52,0
+2719,"Ironman",20.8,16.7,1
+2720,"Spiderman",20.21,14.8,0
+2721,"Captain America",10.9,14.72,0
+2722,"Ironman",24.4,15.5,1
+2723,"Ironman",22.6,17.2,1
+2724,"Ironman",24.2,16.5,0
+2725,"Captain America",11.8,19.92,0
+2726,"Captain America",10.7,16.92,0
+2727,"Spiderman",17.21,15.3,0
+2728,"Captain America",10.4,14.32,0
+2729,"Spiderman",14.11,15.1,1
+2730,"Spiderman",27.71,11.8,0
+2731,"Spiderman",31.91,14.6,1
+2732,"Captain America",11.3,18.42,0
+2733,"Captain America",11.2,19.82,0
+2734,"Captain America",10.8,18.92,0
+2735,"Spiderman",25.71,18.6,1
+2736,"Ironman",26.6,17.6,0
+2737,"Captain America",10.9,17.42,0
+2738,"Captain America",11.6,18.42,1
+2739,"Captain America",11.4,17.42,0
+2740,"Ironman",24.2,17.1,0
+2741,"Ironman",24.5,15.9,1
+2742,"Spiderman",18.61,13.1,0
+2743,"Captain America",11.4,20.02,0
+2744,"Captain America",10.8,18.42,0
+2745,"Spiderman",26.21,14.4,0
+2746,"Spiderman",31.71,12.6,1
+2747,"Spiderman",21.31,14.4,0
+2748,"Ironman",22.7,16.7,0
+2749,"Ironman",21.4,15.7,1
+2750,"Captain America",11.4,18.42,1
+2751,"Ironman",23.8,16.4,1
+2752,"Spiderman",23.91,11.5,1
+2753,"Ironman",23.2,17.6,0
+2754,"Ironman",20.7,16,0
+2755,"Ironman",24.4,17.8,0
+2756,"Ironman",24.5,17.4,0
+2757,"Spiderman",32.31,12.7,1
+2758,"Spiderman",25.01,16.1,0
+2759,"Spiderman",18.91,13.9,1
+2760,"Ironman",23.4,16.5,0
+2761,"Spiderman",30.41,17.6,1
+2762,"Captain America",10.8,19.32,1
+2763,"Ironman",22.3,16.4,0
+2764,"Spiderman",20.81,13.6,0
+2765,"Captain America",11,17.52,0
+2766,"Captain America",10.3,17.32,1
+2767,"Spiderman",25.61,16.6,0
+2768,"Ironman",22.1,15.3,1
+2769,"Captain America",10.9,14.42,0
+2770,"Ironman",25.2,17.4,0
+2771,"Spiderman",25.71,14.6,1
+2772,"Spiderman",18.51,12.5,1
+2773,"Spiderman",16.41,13.9,0
+2774,"Captain America",11.4,19.62,1
+2775,"Spiderman",24.81,9.2,0
+2776,"Ironman",22.2,17.8,0
+2777,"Spiderman",30.61,10.3,1
+2778,"Ironman",24,15.3,1
+2779,"Captain America",10.7,20.72,1
+2780,"Ironman",25.3,16.4,1
+2781,"Ironman",23.1,17.4,1
+2782,"Captain America",11.3,18.32,1
+2783,"Captain America",11.1,17.22,1
+2784,"Ironman",21.7,15.2,1
+2785,"Spiderman",28.41,14.9,0
+2786,"Spiderman",32.31,14,0
+2787,"Captain America",11.3,16.82,0
+2788,"Spiderman",23.21,13.3,1
+2789,"Spiderman",26.61,9.8,0
+2790,"Spiderman",25.11,13.6,0
+2791,"Captain America",10.1,20.82,1
+2792,"Captain America",11.1,21.72,1
+2793,"Ironman",20.8,17.1,0
+2794,"Ironman",25.6,16,0
+2795,"Spiderman",23.41,17.8,1
+2796,"Ironman",20.9,15.9,1
+2797,"Spiderman",24.61,16.6,1
+2798,"Spiderman",23.91,11.1,0
+2799,"Spiderman",25.11,14.7,0
+2800,"Captain America",10.6,19.32,0
+2801,"Captain America",11,18.22,1
+2802,"Ironman",27.4,17.1,1
+2803,"Ironman",23.8,15.3,0
+2804,"Ironman",24.4,17.7,1
+2805,"Ironman",23,16,1
+2806,"Ironman",22.2,17.5,1
+2807,"Captain America",11.4,17.72,0
+2808,"Captain America",11.2,20.22,0
+2809,"Spiderman",19.81,12.8,1
+2810,"Spiderman",30.71,15.3,0
+2811,"Spiderman",24.51,13.1,0
+2812,"Ironman",22.9,16.9,1
+2813,"Spiderman",18.31,15,0
+2814,"Captain America",11.5,16.22,1
+2815,"Spiderman",28.91,18.3,0
+2816,"Captain America",11.4,20.32,0
+2817,"Captain America",10.6,22.32,0
+2818,"Ironman",24.2,16.2,0
+2819,"Ironman",23.6,16.8,0
+2820,"Captain America",11,20.42,0
+2821,"Spiderman",27.11,15.3,0
+2822,"Ironman",22.7,16.2,0
+2823,"Ironman",23.7,17.2,0
+2824,"Spiderman",28.31,14.1,1
+2825,"Captain America",11.2,18.82,1
+2826,"Ironman",26,17.1,0
+2827,"Spiderman",28.21,14.1,1
+2828,"Spiderman",21.01,16.8,0
+2829,"Captain America",10.7,13.92,0
+2830,"Spiderman",26.81,14.9,0
+2831,"Spiderman",16.11,16.4,0
+2832,"Captain America",11,23.22,0
+2833,"Ironman",20.2,17.7,1
+2834,"Ironman",26.1,16.9,0
+2835,"Ironman",23.4,16.7,1
+2836,"Ironman",23.7,17,0
+2837,"Ironman",22.8,18.8,0
+2838,"Ironman",23.2,16.3,1
+2839,"Spiderman",22.91,10.8,0
+2840,"Spiderman",20.31,13.7,0
+2841,"Spiderman",28.31,14.7,0
+2842,"Captain America",11.4,20.52,1
+2843,"Ironman",22.4,16,1
+2844,"Ironman",19.5,16.7,1
+2845,"Ironman",22.1,15.4,0
+2846,"Captain America",10.9,20.02,1
+2847,"Ironman",22,17.4,1
+2848,"Captain America",11.1,20.42,0
+2849,"Captain America",11.2,16.42,0
+2850,"Spiderman",31.41,16.1,0
+2851,"Ironman",21.6,17.2,1
+2852,"Captain America",10.4,18.12,0
+2853,"Ironman",24.5,17.2,0
+2854,"Spiderman",33.11,11.8,0
+2855,"Spiderman",28.41,13.9,0
+2856,"Spiderman",19.91,16.1,1
+2857,"Spiderman",25.91,15.9,0
+2858,"Ironman",22.1,15.4,1
+2859,"Ironman",24.5,17.1,0
+2860,"Ironman",23.4,15.7,0
+2861,"Captain America",11.1,19.62,0
+2862,"Captain America",9.9,19.52,1
+2863,"Ironman",25,18,1
+2864,"Spiderman",22.11,11.1,0
+2865,"Ironman",23.5,16.7,0
+2866,"Captain America",11,20.82,0
+2867,"Captain America",11.4,16.42,0
+2868,"Captain America",10.5,19.22,0
+2869,"Spiderman",20.71,14.6,0
+2870,"Spiderman",18.11,15.8,0
+2871,"Spiderman",21.11,16,0
+2872,"Captain America",10.6,19.52,0
+2873,"Captain America",10.7,13.42,1
+2874,"Ironman",24.1,17.1,1
+2875,"Captain America",11.4,20.92,0
+2876,"Ironman",24.5,17.4,1
+2877,"Captain America",11.6,16.52,1
+2878,"Spiderman",21.81,13.7,0
+2879,"Captain America",10.8,15.82,1
+2880,"Spiderman",28.01,10.7,1
+2881,"Spiderman",20.41,12.9,0
+2882,"Ironman",22.9,17.6,1
+2883,"Ironman",22.4,17.8,1
+2884,"Spiderman",30.51,13.8,1
+2885,"Spiderman",23.51,13.4,0
+2886,"Captain America",11.7,18.52,1
+2887,"Spiderman",24.51,10.9,0
+2888,"Ironman",19.4,17.4,0
+2889,"Captain America",11.6,17.42,1
+2890,"Ironman",27.5,16.6,0
+2891,"Ironman",20.6,17.9,0
+2892,"Ironman",23.6,18.2,0
+2893,"Spiderman",24.51,12,0
+2894,"Spiderman",19.41,11.6,1
+2895,"Spiderman",26.31,13.2,0
+2896,"Spiderman",28.51,13.1,0
+2897,"Captain America",11.2,20.72,0
+2898,"Captain America",10.5,15.82,0
+2899,"Spiderman",33.21,15.8,0
+2900,"Spiderman",16.01,14.4,0
+2901,"Ironman",24.1,15.5,0
+2902,"Captain America",11.8,19.62,0
+2903,"Spiderman",26.41,9.8,0
+2904,"Captain America",10.6,19.82,1
+2905,"Spiderman",29.11,12.8,1
+2906,"Ironman",18.3,17.2,1
+2907,"Spiderman",19.61,13.6,1
+2908,"Captain America",10.5,19.92,1
+2909,"Ironman",23.6,16,1
+2910,"Ironman",20.2,17.5,1
+2911,"Ironman",21.2,15.9,1
+2912,"Ironman",28.3,16.2,1
+2913,"Spiderman",25.91,13.3,0
+2914,"Ironman",21.9,16.2,0
+2915,"Captain America",11.1,21.52,0
+2916,"Captain America",10.5,16.22,1
+2917,"Captain America",10.6,18.72,0
+2918,"Captain America",11.5,18.42,0
+2919,"Spiderman",26.01,17.4,0
+2920,"Ironman",22.2,16,0
+2921,"Spiderman",28.21,12.6,1
+2922,"Captain America",10.9,19.52,0
+2923,"Ironman",21,17.2,1
+2924,"Ironman",25.7,17.4,1
+2925,"Ironman",19.9,17.2,0
+2926,"Captain America",10.5,18.72,0
+2927,"Ironman",22,18.6,0
+2928,"Ironman",19.3,18,1
+2929,"Captain America",11,19.52,0
+2930,"Ironman",25.2,16.6,0
+2931,"Ironman",18.7,16,1
+2932,"Captain America",11.8,15.72,0
+2933,"Ironman",23.7,17.3,1
+2934,"Spiderman",22.61,15.1,1
+2935,"Captain America",10.1,18.92,0
+2936,"Ironman",20.1,17.3,1
+2937,"Captain America",11.6,17.12,0
+2938,"Spiderman",30.21,13.7,1
+2939,"Captain America",10.6,21.52,1
+2940,"Spiderman",23.41,11.9,0
+2941,"Captain America",11.9,20.12,0
+2942,"Spiderman",24.31,14.7,0
+2943,"Spiderman",22.31,10.5,0
+2944,"Captain America",11.6,16.92,0
+2945,"Captain America",11.1,22.22,0
+2946,"Spiderman",25.41,16.9,0
+2947,"Captain America",10,15.32,0
+2948,"Captain America",11.6,21.22,0
+2949,"Captain America",10.7,20.02,1
+2950,"Ironman",22.7,17,0
+2951,"Spiderman",28.91,15.1,0
+2952,"Captain America",10.7,21.42,1
+2953,"Ironman",23,16,0
+2954,"Captain America",10.9,15.52,1
+2955,"Captain America",11.1,19.82,0
+2956,"Spiderman",28.51,13.2,0
+2957,"Ironman",21.7,15.3,1
+2958,"Ironman",22.5,16.5,0
+2959,"Spiderman",20.31,9.6,0
+2960,"Spiderman",19.91,14.3,0
+2961,"Ironman",24.4,16.8,1
+2962,"Captain America",10,18.42,0
+2963,"Ironman",24.7,16.5,1
+2964,"Captain America",11.8,15.92,0
+2965,"Spiderman",27.11,11.5,0
+2966,"Captain America",10.6,18.42,0
+2967,"Spiderman",20.91,15.3,1
+2968,"Spiderman",25.91,12.6,1
+2969,"Captain America",10.4,16.72,0
+2970,"Ironman",24.6,16.6,0
+2971,"Spiderman",32.51,14.9,1
+2972,"Spiderman",23.41,13.1,0
+2973,"Spiderman",26.71,10.8,1
+2974,"Spiderman",26.81,14.1,0
+2975,"Spiderman",24.41,14,0
+2976,"Captain America",12.4,15.92,1
+2977,"Captain America",11.6,19.92,0
+2978,"Captain America",11.4,15.42,0
+2979,"Spiderman",21.41,11.8,1
+2980,"Captain America",10.3,19.92,0
+2981,"Captain America",10.8,19.92,1
+2982,"Captain America",11,19.42,0
+2983,"Ironman",24.2,16.9,0
+2984,"Spiderman",23.71,13.6,0
+2985,"Spiderman",26.91,7.4,0
+2986,"Spiderman",24.01,10.9,0
+2987,"Ironman",25.3,15.2,0
+2988,"Spiderman",24.61,15.2,1
+2989,"Captain America",10.9,15.62,1
+2990,"Ironman",24.5,16.1,1
+2991,"Spiderman",21.51,13.9,1
+2992,"Ironman",24.5,17,1
+2993,"Ironman",23.5,17.8,0
+2994,"Ironman",22.6,17.2,1
+2995,"Spiderman",29.41,19.2,0
+2996,"Ironman",23.3,17.1,0
+2997,"Ironman",25.5,19,1
+2998,"Spiderman",24.01,16.5,1
+2999,"Captain America",10.7,19.12,0
+3000,"Spiderman",18.81,13.7,1
+3001,"Captain America",11.8,17.92,0
+3002,"Ironman",22.2,17.3,0
+3003,"Ironman",25.5,17.9,1
+3004,"Spiderman",20.31,10.2,1
+3005,"Captain America",11,18.52,0
+3006,"Ironman",25,16.3,0
+3007,"Spiderman",23.21,14,1
+3008,"Spiderman",25.81,14.2,0
+3009,"Captain America",11.3,13.82,0
+3010,"Ironman",22,15.9,1
+3011,"Ironman",18.8,16.4,0
+3012,"Spiderman",19.81,16.3,0
+3013,"Spiderman",18.81,16.4,0
+3014,"Spiderman",24.31,13.5,1
+3015,"Ironman",22.8,14.6,0
+3016,"Ironman",21.7,16.4,1
+3017,"Ironman",21.8,18.1,0
+3018,"Spiderman",29.21,14,0
+3019,"Spiderman",22.51,20.9,0
+3020,"Spiderman",28.61,11.8,0
+3021,"Captain America",11.3,17.62,0
+3022,"Spiderman",25.71,16.4,0
+3023,"Captain America",11.1,18.62,0
+3024,"Spiderman",27.71,13.6,0
+3025,"Ironman",23.1,17.3,1
+3026,"Ironman",18.8,15.7,0
+3027,"Captain America",11.4,11.72,1
+3028,"Ironman",24.4,17.5,0
+3029,"Captain America",11.2,18.22,0
+3030,"Captain America",11.4,21.02,0
+3031,"Captain America",11,15.02,1
+3032,"Ironman",24.9,17,0
+3033,"Spiderman",17.41,13.9,0
+3034,"Spiderman",22.71,14.7,0
+3035,"Ironman",25.1,16.6,1
+3036,"Spiderman",23.41,16.9,1
+3037,"Ironman",23.8,16.5,1
+3038,"Ironman",23.6,15.8,1
+3039,"Spiderman",24.61,10.6,0
+3040,"Ironman",20.7,17.1,1
+3041,"Ironman",20.2,15.3,0
+3042,"Ironman",21.6,17.2,0
+3043,"Ironman",21.2,16.9,0
+3044,"Spiderman",26.01,11.7,1
+3045,"Spiderman",27.81,15.9,0
+3046,"Captain America",11.5,18.62,0
+3047,"Ironman",23.8,17.7,1
+3048,"Ironman",26.1,17,1
+3049,"Ironman",19.6,16.2,1
+3050,"Ironman",21,16.1,0
+3051,"Spiderman",19.51,14.2,1
+3052,"Ironman",26.8,16.5,1
+3053,"Captain America",11.2,19.42,0
+3054,"Ironman",21.7,14.9,0
+3055,"Captain America",10.9,11.72,0
+3056,"Ironman",22.9,16.5,0
+3057,"Spiderman",21.31,14,0
+3058,"Captain America",11,16.02,0
+3059,"Ironman",26.5,16.8,0
+3060,"Ironman",21.7,18.4,0
+3061,"Ironman",20.8,17.1,1
+3062,"Spiderman",25.61,11.3,0
+3063,"Spiderman",24.11,11.4,1
+3064,"Captain America",10.6,13.02,0
+3065,"Spiderman",30.31,15.1,1
+3066,"Ironman",26,16.2,0
+3067,"Spiderman",29.21,15.9,1
+3068,"Ironman",25.8,18.5,0
+3069,"Captain America",11.1,21.82,1
+3070,"Captain America",10.9,24.72,0
+3071,"Spiderman",26.61,16.5,1
+3072,"Captain America",11.1,16.42,0
+3073,"Captain America",11.3,16.22,1
+3074,"Ironman",21.3,18.2,0
+3075,"Spiderman",29.01,14.5,1
+3076,"Captain America",10.7,20.72,0
+3077,"Spiderman",27.61,12.9,1
+3078,"Captain America",11,22.32,1
+3079,"Captain America",10.6,16.72,1
+3080,"Ironman",19,15.6,1
+3081,"Ironman",23.3,15.5,1
+3082,"Captain America",10.8,15.42,1
+3083,"Captain America",11.1,15.42,1
+3084,"Captain America",11.6,19.42,1
+3085,"Spiderman",21.81,15.6,0
+3086,"Captain America",10.3,21.22,0
+3087,"Ironman",22.5,17,0
+3088,"Ironman",26,17,0
+3089,"Spiderman",24.01,14.7,0
+3090,"Ironman",24,18.5,0
+3091,"Ironman",21.3,18,1
+3092,"Spiderman",20.31,16.8,1
+3093,"Ironman",21.8,16.2,0
+3094,"Captain America",11.8,19.82,0
+3095,"Captain America",11.6,16.72,0
+3096,"Ironman",20.1,18,0
+3097,"Ironman",27.8,17.6,0
+3098,"Ironman",22,17.9,0
+3099,"Ironman",23.1,16.9,1
+3100,"Captain America",10.8,20.32,0
+3101,"Spiderman",24.81,14.6,0
+3102,"Spiderman",27.41,13.3,0
+3103,"Ironman",22.4,15.8,1
+3104,"Captain America",11.4,21.42,1
+3105,"Captain America",11.1,21.52,0
+3106,"Spiderman",25.01,15.2,1
+3107,"Ironman",22.6,17.5,0
+3108,"Spiderman",18.91,11.7,0
+3109,"Captain America",11.1,12.92,0
+3110,"Spiderman",24.31,13.3,0
+3111,"Ironman",25.6,16.3,1
+3112,"Ironman",23.2,16.5,0
+3113,"Spiderman",25.21,13.3,1
+3114,"Spiderman",21.61,13.6,1
+3115,"Captain America",11,15.72,0
+3116,"Spiderman",19.61,11.5,0
+3117,"Captain America",12.7,14.62,0
+3118,"Spiderman",25.61,17.9,1
+3119,"Spiderman",28.01,14.8,0
+3120,"Spiderman",22.91,12.8,0
+3121,"Spiderman",21.11,16.1,0
+3122,"Captain America",11,20.52,0
+3123,"Captain America",11,20.52,0
+3124,"Captain America",11.5,17.22,0
+3125,"Spiderman",22.21,14.9,1
+3126,"Captain America",11.4,18.22,0
+3127,"Ironman",23.1,17.5,0
+3128,"Captain America",10.1,20.42,1
+3129,"Spiderman",24.01,13.3,0
+3130,"Ironman",22.3,16.9,1
+3131,"Captain America",11.3,17.72,0
+3132,"Captain America",10.2,19.62,0
+3133,"Spiderman",24.81,11.7,0
+3134,"Ironman",23.9,17.6,1
+3135,"Spiderman",21.11,14.2,0
+3136,"Ironman",25.7,16.4,1
+3137,"Captain America",11.5,20.42,0
+3138,"Captain America",10.9,18.12,1
+3139,"Ironman",20.4,15.3,0
+3140,"Ironman",23.8,16.9,0
+3141,"Captain America",11.2,16.62,1
+3142,"Captain America",11,20.82,0
+3143,"Ironman",22.8,15.6,0
+3144,"Spiderman",22.61,13.1,0
+3145,"Captain America",10.2,21.82,0
+3146,"Ironman",23.9,16.6,1
+3147,"Ironman",24.4,15.8,0
+3148,"Spiderman",21.71,13,0
+3149,"Captain America",10.8,13.72,0
+3150,"Spiderman",24.41,15.6,1
+3151,"Captain America",10.2,18.62,0
+3152,"Ironman",24.4,17.4,1
+3153,"Spiderman",28.41,12.2,0
+3154,"Spiderman",31.21,13.4,0
+3155,"Spiderman",20.21,14.7,0
+3156,"Captain America",9.9,19.72,1
+3157,"Captain America",10.5,18.62,0
+3158,"Spiderman",23.11,14.1,0
+3159,"Spiderman",18.91,13.7,0
+3160,"Ironman",19.8,16.9,1
+3161,"Spiderman",24.91,13.1,0
+3162,"Spiderman",23.11,15,1
+3163,"Spiderman",30.21,11.2,0
+3164,"Captain America",11.5,13.72,0
+3165,"Spiderman",20.81,17.6,0
+3166,"Ironman",23.8,16.7,0
+3167,"Spiderman",26.61,15.7,0
+3168,"Ironman",24.7,17.5,1
+3169,"Ironman",24.2,17.8,1
+3170,"Ironman",26.4,16.6,1
+3171,"Captain America",12.6,20.52,0
+3172,"Ironman",20.7,17.5,0
+3173,"Captain America",10.5,18.22,0
+3174,"Captain America",11.1,19.62,0
+3175,"Captain America",11,21.62,0
+3176,"Captain America",10.4,23.52,1
+3177,"Captain America",11.7,19.22,1
+3178,"Ironman",19.7,16.7,0
+3179,"Captain America",11.3,21.62,1
+3180,"Captain America",11.4,18.12,0
+3181,"Spiderman",23.51,14.9,0
+3182,"Ironman",18.1,18.2,1
+3183,"Spiderman",29.61,16.1,0
+3184,"Spiderman",26.71,13.2,0
+3185,"Captain America",11,20.52,0
+3186,"Captain America",11.4,16.42,1
+3187,"Ironman",23.5,15.7,1
+3188,"Ironman",23.7,15.4,0
+3189,"Ironman",24.3,17.1,0
+3190,"Captain America",10.8,19.62,1
+3191,"Spiderman",23.11,11.2,0
+3192,"Captain America",11.3,20.42,0
+3193,"Ironman",25.8,17.5,0
+3194,"Captain America",10.3,19.42,1
+3195,"Captain America",10.9,15.12,0
+3196,"Spiderman",26.01,16.2,0
+3197,"Spiderman",24.01,13.5,1
+3198,"Captain America",10.5,15.82,1
+3199,"Ironman",19.9,16.8,1
+3200,"Captain America",10.7,17.52,1
+3201,"Captain America",10.9,18.52,1
+3202,"Spiderman",18.31,13.2,0
+3203,"Spiderman",28.51,13.7,1
+3204,"Spiderman",26.31,11.7,1
+3205,"Captain America",11.1,16.22,0
+3206,"Captain America",10.4,16.72,1
+3207,"Ironman",22.1,17.7,0
+3208,"Ironman",23.6,16.2,1
+3209,"Captain America",11.4,19.02,0
+3210,"Ironman",19.1,16.4,1
+3211,"Spiderman",22.71,13.9,0
+3212,"Ironman",26.9,17.5,1
+3213,"Ironman",21.6,17.9,0
+3214,"Spiderman",33.31,10.1,0
+3215,"Ironman",23.5,17.1,0
+3216,"Spiderman",24.51,11,1
+3217,"Captain America",11.2,17.52,0
+3218,"Spiderman",27.01,17.8,0
+3219,"Ironman",19.3,16.3,1
+3220,"Captain America",10.6,17.52,0
+3221,"Ironman",21.1,17.9,1
+3222,"Captain America",10.8,18.22,0
+3223,"Ironman",25,16.1,0
+3224,"Captain America",10.9,17.92,0
+3225,"Ironman",22.5,17.9,1
+3226,"Captain America",11.5,18.72,0
+3227,"Ironman",21.5,17.7,0
+3228,"Captain America",10.9,15.32,0
+3229,"Spiderman",24.41,14.4,1
+3230,"Captain America",10.2,16.02,0
+3231,"Captain America",11.1,22.62,0
+3232,"Spiderman",25.01,13.9,1
+3233,"Ironman",22.8,16.5,1
+3234,"Spiderman",27.91,11.6,1
+3235,"Ironman",22.6,17.1,0
+3236,"Ironman",30.6,16.4,0
+3237,"Spiderman",28.11,10.4,0
+3238,"Spiderman",23.11,16.7,0
+3239,"Spiderman",26.11,12.9,1
+3240,"Ironman",21.3,16.5,0
+3241,"Spiderman",19.41,11.1,0
+3242,"Ironman",21.7,16.2,1
+3243,"Spiderman",19.91,8.8,0
+3244,"Captain America",11.8,19.72,0
+3245,"Spiderman",18.41,17,1
+3246,"Spiderman",24.31,11.3,0
+3247,"Ironman",21.7,16.4,0
+3248,"Spiderman",24.11,12.9,0
+3249,"Captain America",11.1,19.02,0
+3250,"Ironman",21,16.2,1
+3251,"Spiderman",23.01,13.5,0
+3252,"Ironman",24.8,16.5,0
+3253,"Ironman",20.9,16,1
+3254,"Ironman",21.8,16.2,0
+3255,"Spiderman",21.21,12.8,0
+3256,"Ironman",23.4,14.8,1
+3257,"Captain America",10.8,16.92,1
+3258,"Ironman",23.4,18.5,0
+3259,"Captain America",10.7,24.42,0
+3260,"Ironman",21.8,15.4,0
+3261,"Spiderman",25.21,14.8,1
+3262,"Captain America",10.9,21.12,0
+3263,"Ironman",21,18.2,1
+3264,"Captain America",10.6,15.22,0
+3265,"Captain America",10.8,21.62,0
+3266,"Spiderman",24.91,16.5,1
+3267,"Spiderman",18.21,15.6,0
+3268,"Captain America",11.5,19.12,0
+3269,"Ironman",22.3,16.6,0
+3270,"Captain America",10.2,16.72,0
+3271,"Spiderman",24.81,13,0
+3272,"Captain America",10.7,18.52,0
+3273,"Ironman",24.5,16.4,0
+3274,"Spiderman",26.71,14.7,0
+3275,"Captain America",11.2,12.72,0
+3276,"Spiderman",28.21,18.2,0
+3277,"Captain America",11.2,16.62,0
+3278,"Ironman",24.2,16,0
+3279,"Ironman",26.2,16.4,0
+3280,"Captain America",10.9,20.22,1
+3281,"Ironman",20.1,17.8,1
+3282,"Ironman",19.9,17,1
+3283,"Spiderman",16.41,16,0
+3284,"Ironman",23.4,19.1,1
+3285,"Captain America",11.2,20.72,1
+3286,"Ironman",21.4,15.6,0
+3287,"Captain America",10.6,17.02,0
+3288,"Ironman",21.9,16.5,0
+3289,"Spiderman",26.51,16,0
+3290,"Captain America",10.9,17.42,0
+3291,"Spiderman",25.51,10.8,0
+3292,"Captain America",11,18.62,0
+3293,"Captain America",10.7,17.02,1
+3294,"Captain America",10,16.02,0
+3295,"Spiderman",15.51,16.8,0
+3296,"Spiderman",22.01,12.4,0
+3297,"Spiderman",22.71,14.1,0
+3298,"Ironman",21.6,16,0
+3299,"Captain America",11.4,19.82,0
+3300,"Ironman",21.4,16.3,0
+3301,"Ironman",23,16.9,0
+3302,"Captain America",11.1,16.42,1
+3303,"Ironman",19.9,19.2,1
+3304,"Captain America",11.4,17.62,0
+3305,"Captain America",11,16.02,1
+3306,"Ironman",25.9,16.6,0
+3307,"Captain America",10.8,20.02,0
+3308,"Spiderman",27.01,17.9,1
+3309,"Spiderman",23.51,15.8,0
+3310,"Spiderman",25.61,14.6,0
+3311,"Spiderman",27.91,12.8,1
+3312,"Ironman",17.9,16.7,1
+3313,"Captain America",11.3,14.82,0
+3314,"Spiderman",23.61,14.9,0
+3315,"Spiderman",33.41,15.5,0
+3316,"Ironman",23,16.6,0
+3317,"Spiderman",21.51,15.7,0
+3318,"Captain America",11.2,18.82,1
+3319,"Ironman",22.1,15,0
+3320,"Ironman",23.6,17.4,0
+3321,"Ironman",25.4,16,1
+3322,"Spiderman",24.21,12.6,1
+3323,"Captain America",10.4,18.52,0
+3324,"Captain America",11.2,20.72,1
+3325,"Spiderman",21.81,12.3,0
+3326,"Spiderman",21.91,12.9,1
+3327,"Captain America",11.3,15.62,0
+3328,"Captain America",10.1,18.42,1
+3329,"Captain America",11.8,21.52,0
+3330,"Captain America",11.5,21.12,1
+3331,"Captain America",10.7,24.22,1
+3332,"Ironman",19.9,17.5,0
+3333,"Ironman",22.4,16.1,1
+3334,"Captain America",11.9,16.52,1
+3335,"Ironman",20.4,16.3,0
+3336,"Ironman",26.3,16.6,0
+3337,"Ironman",21.1,17.6,0
+3338,"Spiderman",19.51,13.7,1
+3339,"Captain America",11.4,13.02,1
+3340,"Captain America",11.6,16.22,0
+3341,"Ironman",23.1,16.9,0
+3342,"Captain America",10.7,18.02,0
+3343,"Ironman",24.4,17.4,0
+3344,"Captain America",11.1,18.82,1
+3345,"Captain America",11.2,15.72,0
+3346,"Captain America",10.9,16.12,0
+3347,"Ironman",20.9,14.9,0
+3348,"Spiderman",26.11,17.6,0
+3349,"Spiderman",23.81,15.9,0
+3350,"Spiderman",22.21,13.4,1
+3351,"Spiderman",26.51,17.2,0
+3352,"Spiderman",24.91,13.5,0
+3353,"Spiderman",23.91,13.5,1
+3354,"Captain America",10.9,13.92,0
+3355,"Ironman",24.2,15.5,1
+3356,"Spiderman",34.01,19.6,0
+3357,"Captain America",10.4,20.22,0
+3358,"Spiderman",26.11,15.8,0
+3359,"Ironman",22.5,16.2,1
+3360,"Captain America",10.3,17.62,1
+3361,"Spiderman",28.41,13.1,1
+3362,"Captain America",10.8,21.82,0
+3363,"Ironman",24.9,16.7,0
+3364,"Spiderman",24.61,12.1,0
+3365,"Spiderman",24.51,18.6,1
+3366,"Ironman",22.9,17.2,1
+3367,"Ironman",22.3,16.3,1
+3368,"Captain America",11.8,19.52,1
+3369,"Spiderman",21.81,14,1
+3370,"Captain America",9.9,19.82,0
+3371,"Ironman",19.3,16.9,0
+3372,"Ironman",22.5,15.6,1
+3373,"Captain America",11.5,18.72,0
+3374,"Captain America",10,21.22,1
+3375,"Captain America",10.8,16.02,0
+3376,"Ironman",21.6,14.9,1
+3377,"Spiderman",24.41,14.6,0
+3378,"Captain America",11.4,17.62,0
+3379,"Ironman",22,17.2,0
+3380,"Ironman",22.2,16.6,0
+3381,"Captain America",10.7,20.62,0
+3382,"Spiderman",20.81,16.9,0
+3383,"Spiderman",27.01,13.3,0
+3384,"Spiderman",17.81,15.7,0
+3385,"Ironman",21,16.2,0
+3386,"Captain America",11.3,15.32,0
+3387,"Captain America",11.5,19.32,0
+3388,"Spiderman",24.61,13.3,1
+3389,"Captain America",11.1,21.12,0
+3390,"Ironman",20.2,16.6,1
+3391,"Ironman",21.1,17.1,1
+3392,"Ironman",19.9,17.1,1
+3393,"Ironman",23,17.2,0
+3394,"Ironman",23.5,17.4,1
+3395,"Captain America",10.3,18.92,1
+3396,"Captain America",11.8,19.12,1
+3397,"Spiderman",23.61,16.8,0
+3398,"Captain America",10.9,18.82,1
+3399,"Spiderman",14.71,20.5,0
+3400,"Ironman",22.9,17.5,0
