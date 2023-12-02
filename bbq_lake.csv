@@ -1,0 +1,481 @@
+"bundleID","starter","main_dish","salad_soup","side","dessert","ratings"
+25,"Fried Chicken Tenders","Grilled Sausages","Winter Salad","Mac and Cheese","Smores",7.307
+26,"Fried Chicken Tenders","Grilled Sausages","Winter Salad","Mac and Cheese","Apple Pie A La Mode",5.397
+27,"Fried Chicken Tenders","Grilled Sausages","Winter Salad","Mashed Potato","Smores",6.357
+29,"Fried Chicken Tenders","Grilled Sausages","Winter Salad","French Fry Basket","Smores",7.307
+31,"Fried Chicken Tenders","Grilled Sausages","Potato Salad","Mac and Cheese","Smores",8.167
+32,"Fried Chicken Tenders","Grilled Sausages","Potato Salad","Mac and Cheese","Apple Pie A La Mode",7.257
+33,"Fried Chicken Tenders","Grilled Sausages","Potato Salad","Mashed Potato","Smores",7.217
+35,"Fried Chicken Tenders","Grilled Sausages","Potato Salad","French Fry Basket","Smores",8.896125
+37,"Fried Chicken Tenders","Grilled Sausages","Chili","Mac and Cheese","Smores",9.747
+38,"Fried Chicken Tenders","Grilled Sausages","Chili","Mac and Cheese","Apple Pie A La Mode",9.837
+39,"Fried Chicken Tenders","Grilled Sausages","Chili","Mashed Potato","Smores",9.797
+40,"Fried Chicken Tenders","Grilled Sausages","Chili","Mashed Potato","Apple Pie A La Mode",7.887
+41,"Fried Chicken Tenders","Grilled Sausages","Chili","French Fry Basket","Smores",9.403625
+42,"Fried Chicken Tenders","Grilled Sausages","Chili","French Fry Basket","Apple Pie A La Mode",6.837
+43,"Fried Chicken Tenders","Grilled Sausages","Beef Stew","Mac and Cheese","Smores",7.167
+44,"Fried Chicken Tenders","Grilled Sausages","Beef Stew","Mac and Cheese","Apple Pie A La Mode",6.257
+45,"Fried Chicken Tenders","Grilled Sausages","Beef Stew","Mashed Potato","Smores",8.939875
+47,"Fried Chicken Tenders","Grilled Sausages","Beef Stew","French Fry Basket","Smores",8.896125
+145,"Crabcakes and Shrimp","Grilled Sausages","Winter Salad","Mac and Cheese","Smores",8.307
+146,"Crabcakes and Shrimp","Grilled Sausages","Winter Salad","Mac and Cheese","Apple Pie A La Mode",9.397
+147,"Crabcakes and Shrimp","Grilled Sausages","Winter Salad","Mashed Potato","Smores",4.357
+149,"Crabcakes and Shrimp","Grilled Sausages","Winter Salad","French Fry Basket","Smores",9.893625
+151,"Crabcakes and Shrimp","Grilled Sausages","Potato Salad","Mac and Cheese","Smores",8.167
+152,"Crabcakes and Shrimp","Grilled Sausages","Potato Salad","Mac and Cheese","Apple Pie A La Mode",5.257
+153,"Crabcakes and Shrimp","Grilled Sausages","Potato Salad","Mashed Potato","Smores",8.217
+155,"Crabcakes and Shrimp","Grilled Sausages","Potato Salad","French Fry Basket","Smores",8.896125
+157,"Crabcakes and Shrimp","Grilled Sausages","Chili","Mac and Cheese","Smores",9.747
+158,"Crabcakes and Shrimp","Grilled Sausages","Chili","Mac and Cheese","Apple Pie A La Mode",8.837
+159,"Crabcakes and Shrimp","Grilled Sausages","Chili","Mashed Potato","Smores",8.797
+160,"Crabcakes and Shrimp","Grilled Sausages","Chili","Mashed Potato","Apple Pie A La Mode",7.887
+161,"Crabcakes and Shrimp","Grilled Sausages","Chili","French Fry Basket","Smores",9.403625
+162,"Crabcakes and Shrimp","Grilled Sausages","Chili","French Fry Basket","Apple Pie A La Mode",7.837
+163,"Crabcakes and Shrimp","Grilled Sausages","Beef Stew","Mac and Cheese","Smores",9.167
+164,"Crabcakes and Shrimp","Grilled Sausages","Beef Stew","Mac and Cheese","Apple Pie A La Mode",9.849875
+165,"Crabcakes and Shrimp","Grilled Sausages","Beef Stew","Mashed Potato","Smores",6.217
+167,"Crabcakes and Shrimp","Grilled Sausages","Beef Stew","French Fry Basket","Smores",8.896125
+241,"Sticky Chicken Tenders","BBQ Ribs","Winter Salad","Mac and Cheese","Smores",9.788625
+242,"Sticky Chicken Tenders","BBQ Ribs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",5.277
+243,"Sticky Chicken Tenders","BBQ Ribs","Winter Salad","Mashed Potato","Smores",5.237
+245,"Sticky Chicken Tenders","BBQ Ribs","Winter Salad","French Fry Basket","Smores",7.187
+247,"Sticky Chicken Tenders","BBQ Ribs","Potato Salad","Mac and Cheese","Smores",8.791125
+248,"Sticky Chicken Tenders","BBQ Ribs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",9.744875
+249,"Sticky Chicken Tenders","BBQ Ribs","Potato Salad","Mashed Potato","Smores",7.097
+251,"Sticky Chicken Tenders","BBQ Ribs","Potato Salad","French Fry Basket","Smores",8.047
+253,"Sticky Chicken Tenders","BBQ Ribs","Chili","Mac and Cheese","Smores",9.129025390625
+254,"Sticky Chicken Tenders","BBQ Ribs","Chili","Mac and Cheese","Apple Pie A La Mode",8.970828125
+255,"Sticky Chicken Tenders","BBQ Ribs","Chili","Mashed Potato","Smores",9.342375
+256,"Sticky Chicken Tenders","BBQ Ribs","Chili","Mashed Potato","Apple Pie A La Mode",9.009109375
+257,"Sticky Chicken Tenders","BBQ Ribs","Chili","French Fry Basket","Smores",9.298625
+258,"Sticky Chicken Tenders","BBQ Ribs","Chili","French Fry Basket","Apple Pie A La Mode",8.717
+259,"Sticky Chicken Tenders","BBQ Ribs","Beef Stew","Mac and Cheese","Smores",9.047
+260,"Sticky Chicken Tenders","BBQ Ribs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",7.137
+261,"Sticky Chicken Tenders","BBQ Ribs","Beef Stew","Mashed Potato","Smores",8.834875
+263,"Sticky Chicken Tenders","BBQ Ribs","Beef Stew","French Fry Basket","Smores",9.047
+265,"Sticky Chicken Tenders","Grilled Sausages","Winter Salad","Mac and Cheese","Smores",9.685060546875
+266,"Sticky Chicken Tenders","Grilled Sausages","Winter Salad","Mac and Cheese","Apple Pie A La Mode",7.547
+267,"Sticky Chicken Tenders","Grilled Sausages","Winter Salad","Mashed Potato","Smores",6.507
+269,"Sticky Chicken Tenders","Grilled Sausages","Winter Salad","French Fry Basket","Smores",7.457
+271,"Sticky Chicken Tenders","Grilled Sausages","Potato Salad","Mac and Cheese","Smores",9.902375
+272,"Sticky Chicken Tenders","Grilled Sausages","Potato Salad","Mac and Cheese","Apple Pie A La Mode",9.106125
+273,"Sticky Chicken Tenders","Grilled Sausages","Potato Salad","Mashed Potato","Smores",8.367
+275,"Sticky Chicken Tenders","Grilled Sausages","Potato Salad","French Fry Basket","Smores",6.317
+277,"Sticky Chicken Tenders","Grilled Sausages","Chili","Mac and Cheese","Smores",9.874265625
+278,"Sticky Chicken Tenders","Grilled Sausages","Chili","Mac and Cheese","Apple Pie A La Mode",8.987
+279,"Sticky Chicken Tenders","Grilled Sausages","Chili","Mashed Potato","Smores",8.947
+280,"Sticky Chicken Tenders","Grilled Sausages","Chili","Mashed Potato","Apple Pie A La Mode",9.037
+281,"Sticky Chicken Tenders","Grilled Sausages","Chili","French Fry Basket","Smores",9.108640625
+282,"Sticky Chicken Tenders","Grilled Sausages","Chili","French Fry Basket","Apple Pie A La Mode",9.177546875
+283,"Sticky Chicken Tenders","Grilled Sausages","Beef Stew","Mac and Cheese","Smores",7.317
+284,"Sticky Chicken Tenders","Grilled Sausages","Beef Stew","Mac and Cheese","Apple Pie A La Mode",8.981642578125
+285,"Sticky Chicken Tenders","Grilled Sausages","Beef Stew","Mashed Potato","Smores",9.367
+287,"Sticky Chicken Tenders","Grilled Sausages","Beef Stew","French Fry Basket","Smores",9.027375
+289,"Sticky Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Smores",5.187
+290,"Sticky Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",7.277
+291,"Sticky Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mashed Potato","Smores",8.957375
+293,"Sticky Chicken Tenders","Smoked Turkey Legs","Winter Salad","French Fry Basket","Smores",7.187
+295,"Sticky Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Smores",8.791125
+296,"Sticky Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",8.137
+297,"Sticky Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mashed Potato","Smores",9.097
+299,"Sticky Chicken Tenders","Smoked Turkey Legs","Potato Salad","French Fry Basket","Smores",5.047
+301,"Sticky Chicken Tenders","Smoked Turkey Legs","Chili","Mac and Cheese","Smores",7.627
+302,"Sticky Chicken Tenders","Smoked Turkey Legs","Chili","Mac and Cheese","Apple Pie A La Mode",7.717
+303,"Sticky Chicken Tenders","Smoked Turkey Legs","Chili","Mashed Potato","Smores",8.677
+304,"Sticky Chicken Tenders","Smoked Turkey Legs","Chili","Mashed Potato","Apple Pie A La Mode",8.767
+305,"Sticky Chicken Tenders","Smoked Turkey Legs","Chili","French Fry Basket","Smores",9.627
+306,"Sticky Chicken Tenders","Smoked Turkey Legs","Chili","French Fry Basket","Apple Pie A La Mode",8.970828125
+307,"Sticky Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Smores",8.791125
+308,"Sticky Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",8.137
+309,"Sticky Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mashed Potato","Smores",8.097
+311,"Sticky Chicken Tenders","Smoked Turkey Legs","Beef Stew","French Fry Basket","Smores",9.047
+313,"Sticky Chicken Tenders","Grilled Salmon","Winter Salad","Mac and Cheese","Smores",4.807
+314,"Sticky Chicken Tenders","Grilled Salmon","Winter Salad","Mac and Cheese","Apple Pie A La Mode",6.897
+315,"Sticky Chicken Tenders","Grilled Salmon","Winter Salad","Mashed Potato","Smores",7.857
+317,"Sticky Chicken Tenders","Grilled Salmon","Winter Salad","French Fry Basket","Smores",7.807
+319,"Sticky Chicken Tenders","Grilled Salmon","Potato Salad","Mac and Cheese","Smores",8.667
+320,"Sticky Chicken Tenders","Grilled Salmon","Potato Salad","Mac and Cheese","Apple Pie A La Mode",6.757
+321,"Sticky Chicken Tenders","Grilled Salmon","Potato Salad","Mashed Potato","Smores",7.717
+323,"Sticky Chicken Tenders","Grilled Salmon","Potato Salad","French Fry Basket","Smores",8.667
+325,"Sticky Chicken Tenders","Grilled Salmon","Chili","Mac and Cheese","Smores",9.247
+326,"Sticky Chicken Tenders","Grilled Salmon","Chili","Mac and Cheese","Apple Pie A La Mode",9.044875
+327,"Sticky Chicken Tenders","Grilled Salmon","Chili","Mashed Potato","Smores",9.297
+328,"Sticky Chicken Tenders","Grilled Salmon","Chili","Mashed Potato","Apple Pie A La Mode",3.387
+329,"Sticky Chicken Tenders","Grilled Salmon","Chili","French Fry Basket","Smores",9.376609375
+330,"Sticky Chicken Tenders","Grilled Salmon","Chili","French Fry Basket","Apple Pie A La Mode",9.919875
+331,"Sticky Chicken Tenders","Grilled Salmon","Beef Stew","Mac and Cheese","Smores",9.333625
+332,"Sticky Chicken Tenders","Grilled Salmon","Beef Stew","Mac and Cheese","Apple Pie A La Mode",5.757
+333,"Sticky Chicken Tenders","Grilled Salmon","Beef Stew","Mashed Potato","Smores",6.717
+335,"Sticky Chicken Tenders","Grilled Salmon","Beef Stew","French Fry Basket","Smores",9.667
+337,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Smores",8.477
+338,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Apple Pie A La Mode",6.567
+339,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Smores",4.527
+341,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Smores",4.477
+343,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Smores",5.337
+344,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Apple Pie A La Mode",7.427
+345,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Smores",8.387
+347,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Smores",6.337
+349,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Smores",9.917
+350,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Apple Pie A La Mode",8.756125
+351,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mashed Potato","Smores",7.967
+352,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mashed Potato","Apple Pie A La Mode",8.057
+353,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Chili","French Fry Basket","Smores",8.917
+354,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Chili","French Fry Basket","Apple Pie A La Mode",8.756125
+355,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Smores",9.044875
+356,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Apple Pie A La Mode",9.427
+357,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Smores",5.387
+359,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Smores",8.337
+385,"Jumbo Shrimp Cocktail","Grilled Sausages","Winter Salad","Mac and Cheese","Smores",6.887
+386,"Jumbo Shrimp Cocktail","Grilled Sausages","Winter Salad","Mac and Cheese","Apple Pie A La Mode",5.977
+387,"Jumbo Shrimp Cocktail","Grilled Sausages","Winter Salad","Mashed Potato","Smores",4.937
+389,"Jumbo Shrimp Cocktail","Grilled Sausages","Winter Salad","French Fry Basket","Smores",6.887
+391,"Jumbo Shrimp Cocktail","Grilled Sausages","Potato Salad","Mac and Cheese","Smores",8.993796875
+392,"Jumbo Shrimp Cocktail","Grilled Sausages","Potato Salad","Mac and Cheese","Apple Pie A La Mode",7.837
+393,"Jumbo Shrimp Cocktail","Grilled Sausages","Potato Salad","Mashed Potato","Smores",9.447375
+395,"Jumbo Shrimp Cocktail","Grilled Sausages","Potato Salad","French Fry Basket","Smores",9.403625
+397,"Jumbo Shrimp Cocktail","Grilled Sausages","Chili","Mac and Cheese","Smores",9.327
+398,"Jumbo Shrimp Cocktail","Grilled Sausages","Chili","Mac and Cheese","Apple Pie A La Mode",9.417
+399,"Jumbo Shrimp Cocktail","Grilled Sausages","Chili","Mashed Potato","Smores",9.377
+400,"Jumbo Shrimp Cocktail","Grilled Sausages","Chili","Mashed Potato","Apple Pie A La Mode",9.158625
+401,"Jumbo Shrimp Cocktail","Grilled Sausages","Chili","French Fry Basket","Smores",9.437859375
+402,"Jumbo Shrimp Cocktail","Grilled Sausages","Chili","French Fry Basket","Apple Pie A La Mode",9.506765625
+403,"Jumbo Shrimp Cocktail","Grilled Sausages","Beef Stew","Mac and Cheese","Smores",8.747
+404,"Jumbo Shrimp Cocktail","Grilled Sausages","Beef Stew","Mac and Cheese","Apple Pie A La Mode",7.837
+405,"Jumbo Shrimp Cocktail","Grilled Sausages","Beef Stew","Mashed Potato","Smores",9.797
+407,"Jumbo Shrimp Cocktail","Grilled Sausages","Beef Stew","French Fry Basket","Smores",7.747
+1,"Fried Chicken Tenders","BBQ Ribs","Winter Salad","Mac and Cheese","Smores",4.14
+2,"Fried Chicken Tenders","BBQ Ribs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",3.23
+3,"Fried Chicken Tenders","BBQ Ribs","Winter Salad","Mashed Potato","Smores",7.19
+4,"Fried Chicken Tenders","BBQ Ribs","Winter Salad","Mashed Potato","Apple Pie A La Mode",3.28
+5,"Fried Chicken Tenders","BBQ Ribs","Winter Salad","French Fry Basket","Smores",5.14
+6,"Fried Chicken Tenders","BBQ Ribs","Winter Salad","French Fry Basket","Apple Pie A La Mode",5.23
+7,"Fried Chicken Tenders","BBQ Ribs","Potato Salad","Mac and Cheese","Smores",8
+8,"Fried Chicken Tenders","BBQ Ribs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",7.09
+9,"Fried Chicken Tenders","BBQ Ribs","Potato Salad","Mashed Potato","Smores",6.05
+10,"Fried Chicken Tenders","BBQ Ribs","Potato Salad","Mashed Potato","Apple Pie A La Mode",3.14
+11,"Fried Chicken Tenders","BBQ Ribs","Potato Salad","French Fry Basket","Smores",6
+12,"Fried Chicken Tenders","BBQ Ribs","Potato Salad","French Fry Basket","Apple Pie A La Mode",3.09
+13,"Fried Chicken Tenders","BBQ Ribs","Chili","Mac and Cheese","Smores",5.58
+14,"Fried Chicken Tenders","BBQ Ribs","Chili","Mac and Cheese","Apple Pie A La Mode",4.67
+15,"Fried Chicken Tenders","BBQ Ribs","Chili","Mashed Potato","Smores",4.63
+16,"Fried Chicken Tenders","BBQ Ribs","Chili","Mashed Potato","Apple Pie A La Mode",5.72
+17,"Fried Chicken Tenders","BBQ Ribs","Chili","French Fry Basket","Smores",7.58
+18,"Fried Chicken Tenders","BBQ Ribs","Chili","French Fry Basket","Apple Pie A La Mode",6.67
+19,"Fried Chicken Tenders","BBQ Ribs","Beef Stew","Mac and Cheese","Smores",7
+20,"Fried Chicken Tenders","BBQ Ribs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",4.09
+21,"Fried Chicken Tenders","BBQ Ribs","Beef Stew","Mashed Potato","Smores",4.05
+22,"Fried Chicken Tenders","BBQ Ribs","Beef Stew","Mashed Potato","Apple Pie A La Mode",4.14
+23,"Fried Chicken Tenders","BBQ Ribs","Beef Stew","French Fry Basket","Smores",7
+24,"Fried Chicken Tenders","BBQ Ribs","Beef Stew","French Fry Basket","Apple Pie A La Mode",6.09
+28,"Fried Chicken Tenders","Grilled Sausages","Winter Salad","Mashed Potato","Apple Pie A La Mode",5.55
+30,"Fried Chicken Tenders","Grilled Sausages","Winter Salad","French Fry Basket","Apple Pie A La Mode",7.5
+34,"Fried Chicken Tenders","Grilled Sausages","Potato Salad","Mashed Potato","Apple Pie A La Mode",6.41
+36,"Fried Chicken Tenders","Grilled Sausages","Potato Salad","French Fry Basket","Apple Pie A La Mode",6.36
+46,"Fried Chicken Tenders","Grilled Sausages","Beef Stew","Mashed Potato","Apple Pie A La Mode",6.41
+48,"Fried Chicken Tenders","Grilled Sausages","Beef Stew","French Fry Basket","Apple Pie A La Mode",6.36
+49,"Fried Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Smores",7.14
+50,"Fried Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",4.23
+51,"Fried Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mashed Potato","Smores",5.19
+52,"Fried Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mashed Potato","Apple Pie A La Mode",3.28
+53,"Fried Chicken Tenders","Smoked Turkey Legs","Winter Salad","French Fry Basket","Smores",6.14
+54,"Fried Chicken Tenders","Smoked Turkey Legs","Winter Salad","French Fry Basket","Apple Pie A La Mode",2.23
+55,"Fried Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Smores",6
+56,"Fried Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",5.09
+57,"Fried Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mashed Potato","Smores",1.05
+58,"Fried Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mashed Potato","Apple Pie A La Mode",4.14
+59,"Fried Chicken Tenders","Smoked Turkey Legs","Potato Salad","French Fry Basket","Smores",7
+60,"Fried Chicken Tenders","Smoked Turkey Legs","Potato Salad","French Fry Basket","Apple Pie A La Mode",5.09
+61,"Fried Chicken Tenders","Smoked Turkey Legs","Chili","Mac and Cheese","Smores",7.58
+62,"Fried Chicken Tenders","Smoked Turkey Legs","Chili","Mac and Cheese","Apple Pie A La Mode",5.67
+63,"Fried Chicken Tenders","Smoked Turkey Legs","Chili","Mashed Potato","Smores",6.63
+64,"Fried Chicken Tenders","Smoked Turkey Legs","Chili","Mashed Potato","Apple Pie A La Mode",6.72
+65,"Fried Chicken Tenders","Smoked Turkey Legs","Chili","French Fry Basket","Smores",9.2575
+66,"Fried Chicken Tenders","Smoked Turkey Legs","Chili","French Fry Basket","Apple Pie A La Mode",8.67
+67,"Fried Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Smores",3
+68,"Fried Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",5.09
+69,"Fried Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mashed Potato","Smores",4.05
+70,"Fried Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mashed Potato","Apple Pie A La Mode",5.14
+71,"Fried Chicken Tenders","Smoked Turkey Legs","Beef Stew","French Fry Basket","Smores",7
+72,"Fried Chicken Tenders","Smoked Turkey Legs","Beef Stew","French Fry Basket","Apple Pie A La Mode",2.09
+73,"Fried Chicken Tenders","Grilled Salmon","Winter Salad","Mac and Cheese","Smores",3.76
+74,"Fried Chicken Tenders","Grilled Salmon","Winter Salad","Mac and Cheese","Apple Pie A La Mode",1.225
+75,"Fried Chicken Tenders","Grilled Salmon","Winter Salad","Mashed Potato","Smores",2.06
+76,"Fried Chicken Tenders","Grilled Salmon","Winter Salad","Mashed Potato","Apple Pie A La Mode",2.9
+77,"Fried Chicken Tenders","Grilled Salmon","Winter Salad","French Fry Basket","Smores",5.76
+78,"Fried Chicken Tenders","Grilled Salmon","Winter Salad","French Fry Basket","Apple Pie A La Mode",1.975
+79,"Fried Chicken Tenders","Grilled Salmon","Potato Salad","Mac and Cheese","Smores",6.62
+80,"Fried Chicken Tenders","Grilled Salmon","Potato Salad","Mac and Cheese","Apple Pie A La Mode",4.71
+81,"Fried Chicken Tenders","Grilled Salmon","Potato Salad","Mashed Potato","Smores",5.67
+82,"Fried Chicken Tenders","Grilled Salmon","Potato Salad","Mashed Potato","Apple Pie A La Mode",3.76
+83,"Fried Chicken Tenders","Grilled Salmon","Potato Salad","French Fry Basket","Smores",6.62
+84,"Fried Chicken Tenders","Grilled Salmon","Potato Salad","French Fry Basket","Apple Pie A La Mode",3.71
+85,"Fried Chicken Tenders","Grilled Salmon","Chili","Mac and Cheese","Smores",9.2
+86,"Fried Chicken Tenders","Grilled Salmon","Chili","Mac and Cheese","Apple Pie A La Mode",6.29
+87,"Fried Chicken Tenders","Grilled Salmon","Chili","Mashed Potato","Smores",4.25
+88,"Fried Chicken Tenders","Grilled Salmon","Chili","Mashed Potato","Apple Pie A La Mode",6.34
+89,"Fried Chicken Tenders","Grilled Salmon","Chili","French Fry Basket","Smores",7.2
+90,"Fried Chicken Tenders","Grilled Salmon","Chili","French Fry Basket","Apple Pie A La Mode",5.29
+91,"Fried Chicken Tenders","Grilled Salmon","Beef Stew","Mac and Cheese","Smores",4.62
+92,"Fried Chicken Tenders","Grilled Salmon","Beef Stew","Mac and Cheese","Apple Pie A La Mode",1.835
+93,"Fried Chicken Tenders","Grilled Salmon","Beef Stew","Mashed Potato","Smores",1.92
+94,"Fried Chicken Tenders","Grilled Salmon","Beef Stew","Mashed Potato","Apple Pie A La Mode",2.76
+95,"Fried Chicken Tenders","Grilled Salmon","Beef Stew","French Fry Basket","Smores",7.62
+96,"Fried Chicken Tenders","Grilled Salmon","Beef Stew","French Fry Basket","Apple Pie A La Mode",5.71
+97,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Smores",1.43
+98,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Apple Pie A La Mode",4.52
+99,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Smores",1.73
+100,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Apple Pie A La Mode",2.57
+101,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Smores",2.43
+102,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Apple Pie A La Mode",1.645
+103,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Smores",4.29
+104,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Apple Pie A La Mode",3.38
+105,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Smores",1.465
+106,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Apple Pie A La Mode",1.43
+107,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Smores",2.29
+108,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Apple Pie A La Mode",6.38
+109,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Smores",4.87
+110,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Apple Pie A La Mode",2.96
+111,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mashed Potato","Smores",8.92
+112,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Chili","Mashed Potato","Apple Pie A La Mode",3.01
+113,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Chili","French Fry Basket","Smores",9.87
+114,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Chili","French Fry Basket","Apple Pie A La Mode",5.96
+115,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Smores",1.415
+116,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Apple Pie A La Mode",2.38
+117,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Smores",2.34
+118,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Apple Pie A La Mode",4.43
+119,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Smores",5.29
+120,"Fried Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Apple Pie A La Mode",5.38
+121,"Crabcakes and Shrimp","BBQ Ribs","Winter Salad","Mac and Cheese","Smores",7.14
+122,"Crabcakes and Shrimp","BBQ Ribs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",1.23
+123,"Crabcakes and Shrimp","BBQ Ribs","Winter Salad","Mashed Potato","Smores",6.19
+124,"Crabcakes and Shrimp","BBQ Ribs","Winter Salad","Mashed Potato","Apple Pie A La Mode",6.28
+125,"Crabcakes and Shrimp","BBQ Ribs","Winter Salad","French Fry Basket","Smores",7.14
+126,"Crabcakes and Shrimp","BBQ Ribs","Winter Salad","French Fry Basket","Apple Pie A La Mode",2.23
+127,"Crabcakes and Shrimp","BBQ Ribs","Potato Salad","Mac and Cheese","Smores",3
+128,"Crabcakes and Shrimp","BBQ Ribs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",5.09
+129,"Crabcakes and Shrimp","BBQ Ribs","Potato Salad","Mashed Potato","Smores",7.05
+130,"Crabcakes and Shrimp","BBQ Ribs","Potato Salad","Mashed Potato","Apple Pie A La Mode",6.14
+131,"Crabcakes and Shrimp","BBQ Ribs","Potato Salad","French Fry Basket","Smores",9
+132,"Crabcakes and Shrimp","BBQ Ribs","Potato Salad","French Fry Basket","Apple Pie A La Mode",4.09
+133,"Crabcakes and Shrimp","BBQ Ribs","Chili","Mac and Cheese","Smores",9.2575
+134,"Crabcakes and Shrimp","BBQ Ribs","Chili","Mac and Cheese","Apple Pie A La Mode",6.67
+135,"Crabcakes and Shrimp","BBQ Ribs","Chili","Mashed Potato","Smores",5.63
+136,"Crabcakes and Shrimp","BBQ Ribs","Chili","Mashed Potato","Apple Pie A La Mode",5.72
+137,"Crabcakes and Shrimp","BBQ Ribs","Chili","French Fry Basket","Smores",8.58
+138,"Crabcakes and Shrimp","BBQ Ribs","Chili","French Fry Basket","Apple Pie A La Mode",7.67
+139,"Crabcakes and Shrimp","BBQ Ribs","Beef Stew","Mac and Cheese","Smores",4
+140,"Crabcakes and Shrimp","BBQ Ribs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",4.09
+141,"Crabcakes and Shrimp","BBQ Ribs","Beef Stew","Mashed Potato","Smores",6.05
+142,"Crabcakes and Shrimp","BBQ Ribs","Beef Stew","Mashed Potato","Apple Pie A La Mode",2.14
+143,"Crabcakes and Shrimp","BBQ Ribs","Beef Stew","French Fry Basket","Smores",6
+144,"Crabcakes and Shrimp","BBQ Ribs","Beef Stew","French Fry Basket","Apple Pie A La Mode",4.09
+148,"Crabcakes and Shrimp","Grilled Sausages","Winter Salad","Mashed Potato","Apple Pie A La Mode",4.55
+150,"Crabcakes and Shrimp","Grilled Sausages","Winter Salad","French Fry Basket","Apple Pie A La Mode",4.5
+154,"Crabcakes and Shrimp","Grilled Sausages","Potato Salad","Mashed Potato","Apple Pie A La Mode",2.41
+156,"Crabcakes and Shrimp","Grilled Sausages","Potato Salad","French Fry Basket","Apple Pie A La Mode",5.36
+166,"Crabcakes and Shrimp","Grilled Sausages","Beef Stew","Mashed Potato","Apple Pie A La Mode",7.41
+168,"Crabcakes and Shrimp","Grilled Sausages","Beef Stew","French Fry Basket","Apple Pie A La Mode",3.36
+169,"Crabcakes and Shrimp","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Smores",5.14
+170,"Crabcakes and Shrimp","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",2.23
+171,"Crabcakes and Shrimp","Smoked Turkey Legs","Winter Salad","Mashed Potato","Smores",2.19
+172,"Crabcakes and Shrimp","Smoked Turkey Legs","Winter Salad","Mashed Potato","Apple Pie A La Mode",1.53
+173,"Crabcakes and Shrimp","Smoked Turkey Legs","Winter Salad","French Fry Basket","Smores",4.14
+174,"Crabcakes and Shrimp","Smoked Turkey Legs","Winter Salad","French Fry Basket","Apple Pie A La Mode",1.23
+175,"Crabcakes and Shrimp","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Smores",9
+176,"Crabcakes and Shrimp","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",4.09
+177,"Crabcakes and Shrimp","Smoked Turkey Legs","Potato Salad","Mashed Potato","Smores",3.05
+178,"Crabcakes and Shrimp","Smoked Turkey Legs","Potato Salad","Mashed Potato","Apple Pie A La Mode",5.14
+179,"Crabcakes and Shrimp","Smoked Turkey Legs","Potato Salad","French Fry Basket","Smores",1.125
+180,"Crabcakes and Shrimp","Smoked Turkey Legs","Potato Salad","French Fry Basket","Apple Pie A La Mode",6.09
+181,"Crabcakes and Shrimp","Smoked Turkey Legs","Chili","Mac and Cheese","Smores",4.58
+182,"Crabcakes and Shrimp","Smoked Turkey Legs","Chili","Mac and Cheese","Apple Pie A La Mode",5.67
+183,"Crabcakes and Shrimp","Smoked Turkey Legs","Chili","Mashed Potato","Smores",7.63
+184,"Crabcakes and Shrimp","Smoked Turkey Legs","Chili","Mashed Potato","Apple Pie A La Mode",4.72
+185,"Crabcakes and Shrimp","Smoked Turkey Legs","Chili","French Fry Basket","Smores",8.58
+186,"Crabcakes and Shrimp","Smoked Turkey Legs","Chili","French Fry Basket","Apple Pie A La Mode",6.67
+187,"Crabcakes and Shrimp","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Smores",4
+188,"Crabcakes and Shrimp","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",1.09
+189,"Crabcakes and Shrimp","Smoked Turkey Legs","Beef Stew","Mashed Potato","Smores",4.05
+190,"Crabcakes and Shrimp","Smoked Turkey Legs","Beef Stew","Mashed Potato","Apple Pie A La Mode",5.14
+191,"Crabcakes and Shrimp","Smoked Turkey Legs","Beef Stew","French Fry Basket","Smores",4
+192,"Crabcakes and Shrimp","Smoked Turkey Legs","Beef Stew","French Fry Basket","Apple Pie A La Mode",6.09
+193,"Crabcakes and Shrimp","Grilled Salmon","Winter Salad","Mac and Cheese","Smores",2.76
+194,"Crabcakes and Shrimp","Grilled Salmon","Winter Salad","Mac and Cheese","Apple Pie A La Mode",5.85
+195,"Crabcakes and Shrimp","Grilled Salmon","Winter Salad","Mashed Potato","Smores",4.81
+196,"Crabcakes and Shrimp","Grilled Salmon","Winter Salad","Mashed Potato","Apple Pie A La Mode",2.9
+197,"Crabcakes and Shrimp","Grilled Salmon","Winter Salad","French Fry Basket","Smores",4.76
+198,"Crabcakes and Shrimp","Grilled Salmon","Winter Salad","French Fry Basket","Apple Pie A La Mode",2.85
+199,"Crabcakes and Shrimp","Grilled Salmon","Potato Salad","Mac and Cheese","Smores",7.62
+200,"Crabcakes and Shrimp","Grilled Salmon","Potato Salad","Mac and Cheese","Apple Pie A La Mode",3.71
+201,"Crabcakes and Shrimp","Grilled Salmon","Potato Salad","Mashed Potato","Smores",4.67
+202,"Crabcakes and Shrimp","Grilled Salmon","Potato Salad","Mashed Potato","Apple Pie A La Mode",2.76
+203,"Crabcakes and Shrimp","Grilled Salmon","Potato Salad","French Fry Basket","Smores",4.62
+204,"Crabcakes and Shrimp","Grilled Salmon","Potato Salad","French Fry Basket","Apple Pie A La Mode",4.71
+205,"Crabcakes and Shrimp","Grilled Salmon","Chili","Mac and Cheese","Smores",5.2
+206,"Crabcakes and Shrimp","Grilled Salmon","Chili","Mac and Cheese","Apple Pie A La Mode",8.29
+207,"Crabcakes and Shrimp","Grilled Salmon","Chili","Mashed Potato","Smores",2.25
+208,"Crabcakes and Shrimp","Grilled Salmon","Chili","Mashed Potato","Apple Pie A La Mode",1.34
+209,"Crabcakes and Shrimp","Grilled Salmon","Chili","French Fry Basket","Smores",8.2
+210,"Crabcakes and Shrimp","Grilled Salmon","Chili","French Fry Basket","Apple Pie A La Mode",9.29
+211,"Crabcakes and Shrimp","Grilled Salmon","Beef Stew","Mac and Cheese","Smores",7.62
+212,"Crabcakes and Shrimp","Grilled Salmon","Beef Stew","Mac and Cheese","Apple Pie A La Mode",4.71
+213,"Crabcakes and Shrimp","Grilled Salmon","Beef Stew","Mashed Potato","Smores",1.67
+214,"Crabcakes and Shrimp","Grilled Salmon","Beef Stew","Mashed Potato","Apple Pie A La Mode",3.76
+215,"Crabcakes and Shrimp","Grilled Salmon","Beef Stew","French Fry Basket","Smores",5.62
+216,"Crabcakes and Shrimp","Grilled Salmon","Beef Stew","French Fry Basket","Apple Pie A La Mode",5.71
+217,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Smores",4.43
+218,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Apple Pie A La Mode",1.52
+219,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Smores",1.48
+220,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Apple Pie A La Mode",1.695
+221,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Smores",1.43
+222,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Apple Pie A La Mode",4.52
+223,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Smores",4.29
+224,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Apple Pie A La Mode",3.38
+225,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Smores",1.34
+226,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Apple Pie A La Mode",5.43
+227,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Smores",3.29
+228,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Apple Pie A La Mode",2.38
+229,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Smores",5.87
+230,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Apple Pie A La Mode",4.96
+231,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Chili","Mashed Potato","Smores",3.92
+232,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Chili","Mashed Potato","Apple Pie A La Mode",5.01
+233,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Chili","French Fry Basket","Smores",5.87
+234,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Chili","French Fry Basket","Apple Pie A La Mode",5.96
+235,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Smores",4.29
+236,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Apple Pie A La Mode",3.38
+237,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Smores",4.34
+238,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Apple Pie A La Mode",1.555
+239,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Smores",4.29
+240,"Crabcakes and Shrimp","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Apple Pie A La Mode",4.38
+244,"Sticky Chicken Tenders","BBQ Ribs","Winter Salad","Mashed Potato","Apple Pie A La Mode",6.43
+246,"Sticky Chicken Tenders","BBQ Ribs","Winter Salad","French Fry Basket","Apple Pie A La Mode",5.38
+250,"Sticky Chicken Tenders","BBQ Ribs","Potato Salad","Mashed Potato","Apple Pie A La Mode",6.29
+252,"Sticky Chicken Tenders","BBQ Ribs","Potato Salad","French Fry Basket","Apple Pie A La Mode",5.24
+262,"Sticky Chicken Tenders","BBQ Ribs","Beef Stew","Mashed Potato","Apple Pie A La Mode",7.29
+264,"Sticky Chicken Tenders","BBQ Ribs","Beef Stew","French Fry Basket","Apple Pie A La Mode",5.24
+268,"Sticky Chicken Tenders","Grilled Sausages","Winter Salad","Mashed Potato","Apple Pie A La Mode",7.7
+270,"Sticky Chicken Tenders","Grilled Sausages","Winter Salad","French Fry Basket","Apple Pie A La Mode",7.65
+274,"Sticky Chicken Tenders","Grilled Sausages","Potato Salad","Mashed Potato","Apple Pie A La Mode",5.56
+276,"Sticky Chicken Tenders","Grilled Sausages","Potato Salad","French Fry Basket","Apple Pie A La Mode",4.51
+286,"Sticky Chicken Tenders","Grilled Sausages","Beef Stew","Mashed Potato","Apple Pie A La Mode",5.56
+288,"Sticky Chicken Tenders","Grilled Sausages","Beef Stew","French Fry Basket","Apple Pie A La Mode",9.19625
+292,"Sticky Chicken Tenders","Smoked Turkey Legs","Winter Salad","Mashed Potato","Apple Pie A La Mode",2.43
+294,"Sticky Chicken Tenders","Smoked Turkey Legs","Winter Salad","French Fry Basket","Apple Pie A La Mode",5.38
+298,"Sticky Chicken Tenders","Smoked Turkey Legs","Potato Salad","Mashed Potato","Apple Pie A La Mode",2.29
+300,"Sticky Chicken Tenders","Smoked Turkey Legs","Potato Salad","French Fry Basket","Apple Pie A La Mode",5.24
+310,"Sticky Chicken Tenders","Smoked Turkey Legs","Beef Stew","Mashed Potato","Apple Pie A La Mode",6.29
+312,"Sticky Chicken Tenders","Smoked Turkey Legs","Beef Stew","French Fry Basket","Apple Pie A La Mode",3.24
+316,"Sticky Chicken Tenders","Grilled Salmon","Winter Salad","Mashed Potato","Apple Pie A La Mode",6.05
+318,"Sticky Chicken Tenders","Grilled Salmon","Winter Salad","French Fry Basket","Apple Pie A La Mode",7
+322,"Sticky Chicken Tenders","Grilled Salmon","Potato Salad","Mashed Potato","Apple Pie A La Mode",4.91
+324,"Sticky Chicken Tenders","Grilled Salmon","Potato Salad","French Fry Basket","Apple Pie A La Mode",7.86
+334,"Sticky Chicken Tenders","Grilled Salmon","Beef Stew","Mashed Potato","Apple Pie A La Mode",5.91
+336,"Sticky Chicken Tenders","Grilled Salmon","Beef Stew","French Fry Basket","Apple Pie A La Mode",3.86
+340,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Apple Pie A La Mode",2.72
+342,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Apple Pie A La Mode",3.67
+346,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Apple Pie A La Mode",1.58
+348,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Apple Pie A La Mode",2.53
+358,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Apple Pie A La Mode",3.58
+360,"Sticky Chicken Tenders","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Apple Pie A La Mode",2.53
+361,"Jumbo Shrimp Cocktail","BBQ Ribs","Winter Salad","Mac and Cheese","Smores",2.72
+362,"Jumbo Shrimp Cocktail","BBQ Ribs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",1.81
+363,"Jumbo Shrimp Cocktail","BBQ Ribs","Winter Salad","Mashed Potato","Smores",1.77
+364,"Jumbo Shrimp Cocktail","BBQ Ribs","Winter Salad","Mashed Potato","Apple Pie A La Mode",2.86
+365,"Jumbo Shrimp Cocktail","BBQ Ribs","Winter Salad","French Fry Basket","Smores",2.72
+366,"Jumbo Shrimp Cocktail","BBQ Ribs","Winter Salad","French Fry Basket","Apple Pie A La Mode",4.81
+367,"Jumbo Shrimp Cocktail","BBQ Ribs","Potato Salad","Mac and Cheese","Smores",2.58
+368,"Jumbo Shrimp Cocktail","BBQ Ribs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",5.67
+369,"Jumbo Shrimp Cocktail","BBQ Ribs","Potato Salad","Mashed Potato","Smores",3.63
+370,"Jumbo Shrimp Cocktail","BBQ Ribs","Potato Salad","Mashed Potato","Apple Pie A La Mode",3.72
+371,"Jumbo Shrimp Cocktail","BBQ Ribs","Potato Salad","French Fry Basket","Smores",5.58
+372,"Jumbo Shrimp Cocktail","BBQ Ribs","Potato Salad","French Fry Basket","Apple Pie A La Mode",4.67
+373,"Jumbo Shrimp Cocktail","BBQ Ribs","Chili","Mac and Cheese","Smores",7.16
+374,"Jumbo Shrimp Cocktail","BBQ Ribs","Chili","Mac and Cheese","Apple Pie A La Mode",6.25
+375,"Jumbo Shrimp Cocktail","BBQ Ribs","Chili","Mashed Potato","Smores",5.21
+376,"Jumbo Shrimp Cocktail","BBQ Ribs","Chili","Mashed Potato","Apple Pie A La Mode",5.3
+377,"Jumbo Shrimp Cocktail","BBQ Ribs","Chili","French Fry Basket","Smores",8.16
+378,"Jumbo Shrimp Cocktail","BBQ Ribs","Chili","French Fry Basket","Apple Pie A La Mode",7.25
+379,"Jumbo Shrimp Cocktail","BBQ Ribs","Beef Stew","Mac and Cheese","Smores",4.58
+380,"Jumbo Shrimp Cocktail","BBQ Ribs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",7.67
+381,"Jumbo Shrimp Cocktail","BBQ Ribs","Beef Stew","Mashed Potato","Smores",6.63
+382,"Jumbo Shrimp Cocktail","BBQ Ribs","Beef Stew","Mashed Potato","Apple Pie A La Mode",4.72
+383,"Jumbo Shrimp Cocktail","BBQ Ribs","Beef Stew","French Fry Basket","Smores",7.58
+384,"Jumbo Shrimp Cocktail","BBQ Ribs","Beef Stew","French Fry Basket","Apple Pie A La Mode",4.67
+388,"Jumbo Shrimp Cocktail","Grilled Sausages","Winter Salad","Mashed Potato","Apple Pie A La Mode",1.255
+390,"Jumbo Shrimp Cocktail","Grilled Sausages","Winter Salad","French Fry Basket","Apple Pie A La Mode",5.08
+394,"Jumbo Shrimp Cocktail","Grilled Sausages","Potato Salad","Mashed Potato","Apple Pie A La Mode",4.99
+396,"Jumbo Shrimp Cocktail","Grilled Sausages","Potato Salad","French Fry Basket","Apple Pie A La Mode",4.94
+406,"Jumbo Shrimp Cocktail","Grilled Sausages","Beef Stew","Mashed Potato","Apple Pie A La Mode",5.99
+408,"Jumbo Shrimp Cocktail","Grilled Sausages","Beef Stew","French Fry Basket","Apple Pie A La Mode",5.94
+409,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Smores",6.72
+410,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Winter Salad","Mac and Cheese","Apple Pie A La Mode",4.81
+411,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Winter Salad","Mashed Potato","Smores",1.77
+412,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Winter Salad","Mashed Potato","Apple Pie A La Mode",1.86
+413,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Winter Salad","French Fry Basket","Smores",2.72
+414,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Winter Salad","French Fry Basket","Apple Pie A La Mode",1.81
+415,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Smores",9.58
+416,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Potato Salad","Mac and Cheese","Apple Pie A La Mode",5.67
+417,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Potato Salad","Mashed Potato","Smores",9.63
+418,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Potato Salad","Mashed Potato","Apple Pie A La Mode",1.845
+419,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Potato Salad","French Fry Basket","Smores",9.58
+420,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Potato Salad","French Fry Basket","Apple Pie A La Mode",4.67
+421,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Chili","Mac and Cheese","Smores",7.16
+422,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Chili","Mac and Cheese","Apple Pie A La Mode",7.25
+423,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Chili","Mashed Potato","Smores",6.21
+424,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Chili","Mashed Potato","Apple Pie A La Mode",6.3
+425,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Chili","French Fry Basket","Smores",6.16
+426,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Chili","French Fry Basket","Apple Pie A La Mode",4.25
+427,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Smores",5.58
+428,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Beef Stew","Mac and Cheese","Apple Pie A La Mode",2.67
+429,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Beef Stew","Mashed Potato","Smores",1.63
+430,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Beef Stew","Mashed Potato","Apple Pie A La Mode",6.72
+431,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Beef Stew","French Fry Basket","Smores",2.58
+432,"Jumbo Shrimp Cocktail","Smoked Turkey Legs","Beef Stew","French Fry Basket","Apple Pie A La Mode",9.67
+433,"Jumbo Shrimp Cocktail","Grilled Salmon","Winter Salad","Mac and Cheese","Smores",4.34
+434,"Jumbo Shrimp Cocktail","Grilled Salmon","Winter Salad","Mac and Cheese","Apple Pie A La Mode",5.43
+435,"Jumbo Shrimp Cocktail","Grilled Salmon","Winter Salad","Mashed Potato","Smores",6.39
+436,"Jumbo Shrimp Cocktail","Grilled Salmon","Winter Salad","Mashed Potato","Apple Pie A La Mode",3.48
+437,"Jumbo Shrimp Cocktail","Grilled Salmon","Winter Salad","French Fry Basket","Smores",4.34
+438,"Jumbo Shrimp Cocktail","Grilled Salmon","Winter Salad","French Fry Basket","Apple Pie A La Mode",1.43
+439,"Jumbo Shrimp Cocktail","Grilled Salmon","Potato Salad","Mac and Cheese","Smores",5.2
+440,"Jumbo Shrimp Cocktail","Grilled Salmon","Potato Salad","Mac and Cheese","Apple Pie A La Mode",2.29
+441,"Jumbo Shrimp Cocktail","Grilled Salmon","Potato Salad","Mashed Potato","Smores",4.25
+442,"Jumbo Shrimp Cocktail","Grilled Salmon","Potato Salad","Mashed Potato","Apple Pie A La Mode",3.34
+443,"Jumbo Shrimp Cocktail","Grilled Salmon","Potato Salad","French Fry Basket","Smores",6.2
+444,"Jumbo Shrimp Cocktail","Grilled Salmon","Potato Salad","French Fry Basket","Apple Pie A La Mode",5.29
+445,"Jumbo Shrimp Cocktail","Grilled Salmon","Chili","Mac and Cheese","Smores",3.78
+446,"Jumbo Shrimp Cocktail","Grilled Salmon","Chili","Mac and Cheese","Apple Pie A La Mode",4.87
+447,"Jumbo Shrimp Cocktail","Grilled Salmon","Chili","Mashed Potato","Smores",4.83
+448,"Jumbo Shrimp Cocktail","Grilled Salmon","Chili","Mashed Potato","Apple Pie A La Mode",6.92
+449,"Jumbo Shrimp Cocktail","Grilled Salmon","Chili","French Fry Basket","Smores",7.78
+450,"Jumbo Shrimp Cocktail","Grilled Salmon","Chili","French Fry Basket","Apple Pie A La Mode",5.87
+451,"Jumbo Shrimp Cocktail","Grilled Salmon","Beef Stew","Mac and Cheese","Smores",2.2
+452,"Jumbo Shrimp Cocktail","Grilled Salmon","Beef Stew","Mac and Cheese","Apple Pie A La Mode",5.29
+453,"Jumbo Shrimp Cocktail","Grilled Salmon","Beef Stew","Mashed Potato","Smores",5.25
+454,"Jumbo Shrimp Cocktail","Grilled Salmon","Beef Stew","Mashed Potato","Apple Pie A La Mode",5.34
+455,"Jumbo Shrimp Cocktail","Grilled Salmon","Beef Stew","French Fry Basket","Smores",7.2
+456,"Jumbo Shrimp Cocktail","Grilled Salmon","Beef Stew","French Fry Basket","Apple Pie A La Mode",4.29
+457,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Smores",3.01
+458,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Winter Salad","Mac and Cheese","Apple Pie A La Mode",1.1
+459,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Smores",3.06
+460,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Winter Salad","Mashed Potato","Apple Pie A La Mode",1.4
+461,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Smores",3.01
+462,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Winter Salad","French Fry Basket","Apple Pie A La Mode",4.1
+463,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Smores",2.87
+464,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Potato Salad","Mac and Cheese","Apple Pie A La Mode",1.96
+465,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Smores",1.92
+466,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Potato Salad","Mashed Potato","Apple Pie A La Mode",1.01
+467,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Smores",1.995
+468,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Potato Salad","French Fry Basket","Apple Pie A La Mode",1.96
+469,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Smores",6.45
+470,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Chili","Mac and Cheese","Apple Pie A La Mode",6.54
+471,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Chili","Mashed Potato","Smores",3.5
+472,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Chili","Mashed Potato","Apple Pie A La Mode",6.59
+473,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Chili","French Fry Basket","Smores",8.45
+474,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Chili","French Fry Basket","Apple Pie A La Mode",1.665
+475,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Smores",2.12
+476,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Beef Stew","Mac and Cheese","Apple Pie A La Mode",2.96
+477,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Smores",2.92
+478,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Beef Stew","Mashed Potato","Apple Pie A La Mode",1.135
+479,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Smores",3.87
+480,"Jumbo Shrimp Cocktail","Grilled Portobello Mushrooms","Beef Stew","French Fry Basket","Apple Pie A La Mode",1.21
